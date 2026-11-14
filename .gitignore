@@ -9,3 +9,6 @@ __pycache__/
 # Local datasets and generated output; share permitted artifacts deliberately
 starter/data/
 starter/results/
+
+# Local backup of accidentally overwritten Python library
+json_init_corrupted_backup.txt

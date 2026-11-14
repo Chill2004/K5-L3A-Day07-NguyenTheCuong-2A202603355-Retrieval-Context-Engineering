@@ -71,4 +71,32 @@ class AgentTests(unittest.TestCase):
         with self.assertRaises(ConnectionError):
             run_agent('q', Controller([{'action':'search','query':'q'}]), Broken())
 
+    def test_explicit_abstention_after_search(self):
+        controller = Controller([
+            {"action": "search", "query": "missing information"},
+            {
+                "action": "abstain",
+                "reason": "Retrieved context does not contain the answer.",
+            },
+        ])
+        retriever = Retriever([CHUNK])
+
+        result = run_agent("A question", controller, retriever)
+
+        self.assertEqual(result["status"], "abstain")
+        self.assertEqual(result["citations"], [])
+        self.assertEqual(len(retriever.calls), 1)
+        self.assertEqual(
+            result["events"][-1]["event"],
+            "model_abstain",
+        )
+
+    def test_explicit_abstention_requires_reason(self):
+        controller = Controller([
+            {"action": "abstain", "reason": "   "},
+        ])
+
+        with self.assertRaises(ValueError):
+            run_agent("A question", controller, Retriever([]))
+    
 if __name__ == '__main__': unittest.main()

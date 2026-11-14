@@ -1,0 +1,11 @@
+{
+  "created_at_utc": "2026-11-14T08:20:40.212417+00:00",
+  "stage": "benchmark_pre_experiment",
+  "sha256": {
+    "chunks.json": "2cc13672fd815c137cc28ac4d4b4f234bf862bb000dc09a1ff17a9081742d221",
+    "snapshot.json": "b1c06203d99cf50e50e5be23017a197e245412ba36446fb8c7e512be33fab373",
+    "dev_questions.json": "d5c61f578a9671f2d3430b53c0e9ae5cbd7155946a59f7d744207c6c83f185c4",
+    "test_questions.json": "de5bd28516c8cd3fbbe67e1a0e058e76df1120eff67abadfb201d218e1c5e085",
+    "benchmark_protocol.md": "61c3aa9a2ebc499d1dd067fcbc7c6894f079aba0cfc926883dd95807abae558d"
+  }
+}

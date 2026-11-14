@@ -1,0 +1,8 @@
+{
+  "origin": "Day06 PostgreSQL ingestion_chunks",
+  "strategy": "A",
+  "chunk_count": 192,
+  "source_page_count": 39,
+  "dimensions": 384,
+  "chunks_sha256": "2cc13672fd815c137cc28ac4d4b4f234bf862bb000dc09a1ff17a9081742d221"
+}

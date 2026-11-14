@@ -1,0 +1,49 @@
+{
+  "dense": {
+    "strategy": "dense",
+    "split": "dev",
+    "query_count": 17,
+    "answerable_count": 15,
+    "unanswerable_count": 2,
+    "top_k": 3,
+    "hit_at_1_count": 12,
+    "hit_at_1_rate": 0.8,
+    "hit_at_3_count": 14,
+    "hit_at_3_rate": 0.9333333333333333,
+    "mrr_at_3": 0.8555555555555555,
+    "median_search_ms_all_queries": 37.67040000002453,
+    "index_setup_seconds": 4.769510900000569
+  },
+  "lexical": {
+    "strategy": "lexical",
+    "split": "dev",
+    "query_count": 17,
+    "answerable_count": 15,
+    "unanswerable_count": 2,
+    "top_k": 3,
+    "hit_at_1_count": 13,
+    "hit_at_1_rate": 0.8666666666666667,
+    "hit_at_3_count": 14,
+    "hit_at_3_rate": 0.9333333333333333,
+    "mrr_at_3": 0.8888888888888888,
+    "median_search_ms_all_queries": 1.2701000005108654,
+    "index_setup_seconds": 0.01594230000046082
+  },
+  "hybrid": {
+    "strategy": "hybrid",
+    "split": "dev",
+    "query_count": 17,
+    "answerable_count": 15,
+    "unanswerable_count": 2,
+    "top_k": 3,
+    "hit_at_1_count": 14,
+    "hit_at_1_rate": 0.9333333333333333,
+    "hit_at_3_count": 14,
+    "hit_at_3_rate": 0.9333333333333333,
+    "mrr_at_3": 0.9333333333333333,
+    "median_search_ms_all_queries": 39.61250000065775,
+    "index_setup_seconds": 5.399999281507917e-06,
+    "candidate_k": 20,
+    "rrf_k": 60
+  }
+}

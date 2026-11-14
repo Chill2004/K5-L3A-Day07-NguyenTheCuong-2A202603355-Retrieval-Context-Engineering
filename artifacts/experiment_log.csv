@@ -1,0 +1,11 @@
+experiment,split,retriever,top_k,max_searches,budget_chars,changed_factor,hypothesis,result,decision
+dense_dev,dev,dense,3,,,retrieval_method,Dense retrieval captures semantic similarity,Hit1 12/15 EvidenceHit3 14/15,Retain for comparison
+lexical_dev,dev,tfidf,3,,,retrieval_method,Lexical matching retrieves exact handbook terminology,Hit1 13/15 EvidenceHit3 14/15,Retain for comparison
+hybrid_dev,dev,hybrid_rrf,3,,,retrieval_method,RRF combines semantic and lexical ranking,Hit1 14/15 EvidenceHit3 14/15,Use for agent baseline
+rerank_dev,dev,hybrid_rerank,3,,,reranking,Reranking 20 candidates improves evidence ranking,Hit1 14/15 EvidenceHit3 14/15 with higher latency,Not selected
+neighbors_dev,dev,hybrid_rrf,3,,2500,context_packing,Adjacent chunks improve evidence completeness,Context evidence remains 14/15,Not selected
+agent_baseline_dev,dev,hybrid_rrf,3,2,2500,baseline,Two searches allow evidence refinement,13/15 answerable questions answered and 2/2 unanswerable questions abstained,Comparison baseline
+agent_top5_dev,dev,hybrid_rrf,5,2,2500,top_k,More candidates improve evidence availability,14/15 answerable questions answered but q03 incomplete and q12 citation rejected,Selected before test
+agent_single_dev,dev,hybrid_rrf,3,1,2500,max_searches,One search reduces requests while retaining quality,13/15 answerable questions answered with 34 model requests,Not selected
+agent_baseline_test,test,hybrid_rrf,3,2,2500,frozen_baseline,Measure held-out performance,AI-proposed answer mean 2.0 and false abstention 0/5,Preserve original result
+agent_top5_test,test,hybrid_rrf,5,2,2500,frozen_selected,Measure selected configuration on held-out test,AI-proposed answer mean 1.6 and false abstention 1/5,Preserve original result

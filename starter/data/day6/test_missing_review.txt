@@ -1,0 +1,756 @@
+SCOPE: PDF pages 39-77, 39 source pages.
+Keyword matches support review; they do not prove absence.
+
+========== test_missing_01 ==========
+
+PDF PAGE: 48
+MATCHED: dang ky mon hoc
+(trực tiếp hoặc trực tuyến), lịch học, lịch thi c ủa các môn h ọc được tổ chức
+trong học kỳ cho các khoá học, chương trình đào tạo. Kế hoạch học kỳ được
+Phòng Quản lý đào tạo xây dựng và công bố kịp thời với đầy đủ thông tin cần
+thiết, bảo đảm thuận tiện cho sinh viên xây dựng kế hoạch học tập và đăng ký
+môn học.
+4. Thời khoá biểu thể hiện thời gian, địa điểm, hoạt động dạy và học
+của từng lớp thuộc các khoá học và chương trình đào tạo. Thời khóa biểu của
+các lớp môn học bình thường được bố trí đều trong các tuần của học kỳ. Trong
+trường hợp cần thiết phải xếp lịch học tập trung thời gian, số giờ giảng đối với
+một môn học bất kỳ không vượt quá 15 giờ/tuần và 4 giờ/ngày.
+Điều 6. Tổ chức đăng ký học tập
+1. Mỗi học kỳ, Phòng Quản lý đào t ạo tổ chức cho sinh viên đăng ký
+môn học 02 lần, bao gồm: đăng ký bình thường (đăng ký môn học trực tuyến)
+và đăng ký trễ hạn.
+a) Đăng ký môn học trực tuyến là hình thức đăng ký thông qua Internet
+được thực hiện trước thời điểm bắt đầu học kỳ tối thiểu 04 tuần.
+b) Đăng ký trễ hạn là hình thức đăng ký được thực hiện trong 02 tuần
+đầu của học kỳ, dành cho những sinh viên cần điều chỉnh khối lượng học tập
+đã đăng ký sau khi kết thúc thời gian đăng ký môn học trực tuyến.
+2. Khối lượng học tập sinh viên đăng ký trong học kỳ
+a) Khối lượng tối thiểu không ít hơn 2/3 khối lượng trung bình một học
+kỳ theo kế hoạch học tập chuẩn;
+b) Khối lượng tối đa không vượt quá 3/2 khối lượng trung bình một học
+kỳ theo kế hoạch học tập chuẩn.
+Điều 7. Đăng ký môn học trực tuyến
+1. Trước khi bắt đầu mỗi học kỳ, Phòng Quản lý đào t ạo công bố kế
+hoạch đăng ký môn h ọc trực tuyến và tổ chức các lớp tập huấn, hướng dẫn
+sinh viên đăng ký môn học trực tuyến.
+2. Trong thời gian đăng ký môn học trực tuyến, căn cứ vào danh sách
+môn học được mở và điều kiện đăng ký của mỗi môn học, sinh viên đăng ký
+lớp của các môn học dự định sẽ học trong học kỳ theo sự tư vấn của cố vấn
+học tập, gồm:
+a) Những môn học mới,
+b) Một số môn học chưa đạt (học lại),
+c) Một số môn học đã đạt (cải thiện điểm),
+d) Một số môn học của khóa trước (học vượt).
+3. Để được đăng ký học vư ợt các môn h ọc cơ s ở ngành, ngành,
+chuyên ngành, sinh viên ph ải làm đơn xin phép học vượt, được cố vấn học
+tập phê duyệt và gửi đơn cho Phòng Quản lý đào tạo để đăng ký môn học.
+4. Tổ chức các lớp học theo yêu cầu
+Để tạo điều kiện cho sinh viên hoàn thành chương trình đào t ạo đúng
+hạn, Phòng Quản lý đào tạo tổ chức các lớp học lại theo yêu cầu của Khoa và
+sinh viên. Các đi ều kiện mở lớp bao gồm sự đáp ứng đầy đủ về phòng học,
+
+
+PDF PAGE: 49
+MATCHED: dang ky mon hoc
+giảng viên và số lượng sinh viên đăng ký tối thiểu 40. Các trường hợp xin mở
+lớp với sĩ số ít hơn 40 sinh viên phải có sự phê duyệt của Hiệu trưởng.
+Điều 8. Điều chỉnh khối lượng học tập đã đăng ký
+1. Việc điều chỉnh khối lượng học tập đã đăng ký được thực hiện trong
+02 tuần đầu của học kỳ. Ngoài th ời hạn trên, b ất cứ môn học nào sinh viên
+không tham gia h ọc tập theo k ết quả đăng ký môn h ọc trực tuyến vẫn phải
+hoàn thành nghĩa vụ học phí và nhận điểm 0.
+2. Phòng Quản lý đào tạo giải quyết rút bớt khối lượng học tập cho các
+trường hợp sau:
+a) Trùng lịch học do Trường thay đổi thời khóa biểu sau khi sinh viên
+đã đăng ký môn học;
+b) Môn h ọc sinh viên đã đăng ký nhưng Trư ờng không m ở lớp do
+không đủ sĩ số tối thiểu theo quy định;
+c) Sinh viên được Trường cho phép miễn môn học;
+d) Sinh viên bị tai nạn đột xuất hoặc nằm viện trong thời gian dài, không
+thể theo học học kỳ đã đăng ký môn h ọc. Trường hợp này sinh viên ph ải có
+giấy xác nhận của cơ quan y tế cấp quận, huyện trở lên cấp.
+3. Phòng Quản lý đào tạo giải quyết đăng ký thêm khối lượng học tập
+vào các lớp học chưa đầy sĩ số cho các trường hợp:
+a) Sinh viên có kết quả thi không đạt của môn học đăng ký học học kỳ
+trước đó sau khi đã kết thúc thời gian đăng ký môn học trực tuyến;
+b) Sinh viên bị trùng lịch học do Trường thay đổi thời khóa biểu;
+c) Sinh viên đăng ký b ổ sung thêm môn h ọc do môn h ọc đã đăng ký
+không được mở lớp.
+Điều 9. Tổ chức giảng dạy và học tập
+1. Trường thực hiện ứng dụng công nghệ thông tin trong quản lý và tổ
+chức giảng dạy nhằm đổi mới phương pháp dạy và học, nâng cao chất lượng
+đào tạo. Các hoạt động dạy và học trực tuyến (bài giảng, video clip, bài t ập,
+diễn đàn thảo luận…) được thực hiện trên Hệ thống quản lý học tập (LMS).
+2. Trường t ổ chức th ực hi ện t ối đa 30% kh ối lư ợng gi ảng d ạy c ủa
+chương trình đào tạo theo hình thức trực tuyến.
+3. Các hoạt động dạy và học trực tuyến thông qua LMS được mô tả cụ
+thể trong đề cương chi tiết của môn học và tuân thủ quy định sử dụng LMS hỗ
+trợ học tập hiện hành của Trường.
+Điều 10. Phân công giảng dạy
+1. Các Khoa phân công gi ảng viên cơ h ữu, giảng viên h ợp đồng lao
+động chuyên môn và mời giảng viên thỉnh giảng giảng dạy các môn học trong
+chương trình đào tạo.
+2. Danh sách gi ảng viên gi ảng dạy trong h ọc kỳ được công b ố công
+khai trên thời khóa biểu trước khi Phòng Quản lý đào tạo tổ chức cho sinh viên
+đăng ký môn h ọc (trừ các môn h ọc chung có đi ều chỉnh nhóm l ớp theo s ố
+lượng đăng ký môn học của sinh viên).
+3. Đối với việc phân công gi ảng dạy chương trình chu ẩn, mỗi giảng
+viên đư ợc phân công ph ụ trách không quá 02 môn h ọc/lớp h ọc/học k ỳ và
+
+
+PDF PAGE: 54
+MATCHED: he thong thong tin
+a) Loại đạt không phân m ức, áp d ụng cho các môn h ọc chỉ yêu cầu
+đạt, không tính vào điểm trung bình học tập: P từ 5,0 trở lên.
+b) Loại không đạt: F dưới 4,0.
+c) Một số trường hợp đặc biệt sử dụng các điểm chữ xếp loại, không
+tính vào điểm trung bình học tập:
+I: Điểm chưa hoàn thiện do được phép hoãn thi, kiểm tra;
+X: Điểm chưa hoàn thiện do chưa đủ dữ liệu;
+R: Điểm môn học được miễn học và công nhận tín chỉ;
+D: Điểm đạt;
+K: Điểm không đạt.
+2. Học lại, thi và học cải thiện điểm:
+a) Sinh viên có điểm môn học không đạt phải đăng ký học lại theo quy
+định tại khoản 2 Điều 6 của Quy chế này.
+b) Sinh viên đã có điểm môn học đạt được đăng ký học lại để cải thiện
+điểm. Điểm được công nhận là điểm cao nhất trong các lần thi.
+
+Điều 17. Tổ chức đánh giá quá trình
+1. Giảng viên phụ trách môn học trực tiếp ra đề đánh giá và cho điểm
+quá trình. Các thành phần của điểm quá trình được công bố tại lớp học. Điểm
+quá trình được công bố tại lớp hoặc trên LMS chậm nhất 10 ngày sau khi kết
+thúc môn học.
+2. Sinh viên vắng mặt trong buổi đánh giá không có lý do chính đáng
+phải nhận điểm 0. Sinh viên vắng mặt có lý do chính đáng và được giảng viên
+chấp thuận được tham gia đánh giá ở một đợt khác do giảng viên quyết định
+và được tính điểm lần đầu.
+3. Giảng viên ph ụ trách môn h ọc nhập điểm quá trình trên h ệ thống
+thông tin viên chức (FSIS), nộp bản in có chữ ký của giảng viên chấm bài về
+Phòng Khảo thí để lưu trữ chậm nhất 10 ngày sau khi công bố điểm cho sinh
+viên.
+Điều 18. Tổ chức đánh giá cuối kỳ
+1. Hình thức đánh giá cu ối kỳ có thể là thi vi ết (trắc nghiệm hoặc tự
+luận), thi tại phòng máy, thi v ấn đáp, viết tiểu luận, làm bài t ập lớn, hoặc kết
+hợp giữa các hình thức trên và được quy định trong đề cương môn học.
+2. Bài đánh giá cu ối kỳ và kết quả đánh giá đư ợc lưu tr ữ tại Phòng
+Khảo thí theo quy đ ịnh bảo quản tài li ệu chuyên môn nghi ệp vụ của ngành
+giáo dục.
+3. Mỗi môn học được tổ chức đánh giá cuối kỳ 01 lần sau khi kết thúc.
+Việc tổ chức đánh giá cuối kỳ được thực hiện theo quy định của Trường.
+4. Trường tổ chức đánh giá cuối kỳ theo hình thức trực tuyến khi kỳ thi
+đảm bảo trung thực, công bằng và khách quan như đánh giá trực tiếp và trọng
+số điểm đánh giá cuối kỳ không vượt quá 50% trọng số điểm môn học. Trong
+các trường hợp thiên tai, dịch bệnh, Trường tổ chức đánh giá theo hướng dẫn
+của Bộ Giáo dục và Đào tạo.
+5. Thời gian dành cho sinh viên ôn tập cho đánh giá cuối kỳ tỷ lệ thuận
+
+
+PDF PAGE: 55
+MATCHED: dang ky mon hoc
+với số tín chỉ của môn học (ít nhất là 2/3 ngày cho một tín chỉ).
+6. Đề thi đánh giá cu ối kỳ phù hợp với hình th ức đánh giá quy đ ịnh
+trong đề cương môn học và được lấy từ ngân hàng đề thi hoặc do Khoa cung
+cấp.
+7. Điểm thi đánh giá cuối kỳ được ghi vào bảng điểm theo mẫu thống
+nhất của Trường, có chữ ký của giảng viên chấm bài và được lưu trữ tại Phòng
+Khảo thí.
+8. Sinh viên v ắng mặt khi đánh giá cu ối kỳ nếu không đư ợc Phòng
+Quản lý đào tạo chấp thuận phải nhận điểm 0 kết quả đánh giá cuối kỳ và điểm
+0 tổng kết môn học.
+9. Sinh viên vắng mặt có lý do chính đáng ở kỳ đánh giá cuối kỳ chính,
+nếu được Phòng Quản lý đào t ạo cho phép, đư ợc tham dự kỳ đánh giá phụ
+ngay sau đó (n ếu có), điểm đánh giá cu ối kỳ của môn học được coi là đi ểm
+đánh giá lần đầu.
+10. Phòng Khảo thí t ổ chức chấm các bài thi đánh giá cu ối kỳ và
+công bố điểm tổng kết môn học chậm nhất sau 04 tuần kể từ ngày thi cuối kỳ.
+Một số trường hợp đặc biệt: tổ chức thi cho các môn h ọc lại, 02 giảng
+viên chấm bài thi đánh giá cuối kỳ....do Hiệu trưởng quyết định.
+
+Điều 19. Tổ chức thực tập tốt nghiệp
+1. Thực t ập t ốt nghi ệp là môn h ọc b ắt bu ộc đư ợc quy đ ịnh trong
+chương trình đào tạo có khối lượng từ 4 đến 6 tín chỉ.
+2. Điều kiện thực tập tốt nghiệp
+a) Tùy theo đặc thù của ngành đào tạo, điều kiện sinh viên được đăng
+ký thực tập tốt nghiệp quy định rõ trong đề cương môn học.
+b) Sinh viên đ ủ điều kiện thực tập thực hiện đăng ký môn h ọc trực
+tuyến và đóng học phí theo quy định.
+3. Trường cấp giấy giới thiệu cho sinh viên đ ể đăng ký doanh nghiệp
+thực tập tốt nghiệp.
+4. Thời gian thực tập tốt nghiệp
+Thời gian thực tập từ 08 đến 12 tuần tùy theo ngành đào tạo. Kết thúc
+thời gian th ực tập, sinh viên n ộp nhật ký th ực tập và báo cáo th ực tập tốt
+nghiệp có xác nhận của đơn vị thực tập (chữ ký người phụ trách và đóng dấu
+của đơn vị (nếu có)) cho giảng viên hướng dẫn.
+5. Yêu cầu về báo cáo thực tập tốt nghiệp
+Các yêu cầu về báo cáo thực tập tốt nghiệp được quy định rõ trong đề
+cương môn học bao gồm yêu cầu về việc tuân thủ quy định về liêm chính học
+thuật.
+6. Đánh giá báo cáo thực tập tốt nghiệp
+Môn Thực tập tốt nghiệp được đánh giá t ối thiểu từ 02 thành ph ần là
+điểm quá trình và điểm cuối kỳ. Tỷ lệ các điểm thành phần, phương pháp đánh
+giá quá trình và cuối kỳ được quy định cụ thể trong đề cương môn học căn cứ
+vào đặc thù của ngành đào tạo.
+a) Điểm quá trình là điểm đánh giá của giảng viên hướng dẫn trên cơ
+
+
+PDF PAGE: 56
+MATCHED: dang ky mon hoc
+sở sinh viên tham d ự các chuyên đề do khoa, bộ môn tổ chức; nhật ký thực
+tập; công vi ệc thực hiện theo ti ến độ và tiến độ thực tập, hoặc là t ổng hợp
+đánh giá của giảng viên hướng dẫn và đánh giá của cơ sở thực tập trong quá
+trình thực tập tại cơ sở.
+b) Đánh giá cu ối kỳ: Hình th ức đánh giá đư ợc quy đ ịnh chi ti ết trong
+Đề cương môn h ọc. Khoa g ửi điểm thực tập tốt nghiệp v ề Phòng Khảo thí
+chậm nhất 4 tuần kể từ ngày kết thúc thời gian thực tập.
+c) Điểm thực tập tốt nghiệp do Phòng Khảo thí công bố trong vòng 01
+tuần sau khi nhận kết quả đánh giá từ Khoa.
+đ) Sinh viên nộp báo cáo thực tập tốt nghiệp gồm bản cứng và bản mềm
+cho Khoa. Khoa chuyển bảng điểm, bản cứng và bản mềm về Phòng Khảo thí
+đồng thời gửi bản mềm về Thư viện.
+
+Điều 20. Tổ chức thực hiện Đồ án/khóa luận tốt nghiệp
+1. Ở học kỳ cuối khóa, sinh viên đư ợc đăng ký thực hiện đồ án/khóa
+luận tốt nghiệp hoặc đăng ký h ọc các môn h ọc thay th ế đồ án/khóa luận tốt
+nghiệp quy định cụ thể trong chương trình đào tạo.
+2. Đồ án/khóa luận tốt nghiệp là môn học bắt buộc trong chương trình
+đào tạo, có khối lượng không vượt quá 12 tín chỉ tùy theo đặc thù của ngành
+đào tạo.
+3. Điều kiện được thực hiện đồ án/khóa luận tốt nghiệp
+a) Đề cương môn h ọc quy đ ịnh rõ đi ều kiện để sinh viên đư ợc thực
+hiện đồ án/khóa luận tốt nghiệp. Phòng Quản lý đào tạo xét điều kiện sinh viên
+đủ điều kiện được thực hiện đồ án/khóa luận tốt nghiệp theo k ế hoạch năm
+học đã công bố.
+b) Sinh viên được phép thực hiện đồ án/khóa luận tốt nghiệp đăng ký
+môn học trực tuyến và đóng học phí theo quy định.
+4. Thời gian thực hiện đồ án/khóa luận tốt nghiệp: Từ 10 đến 17 tuần
+tùy theo đặc thù từng ngành học và được quy định trong đề cương môn học.
+5. Yêu cầu về đồ án/khóa luận tốt nghiệp: Các yêu cầu về đồ án/khóa
+luận tốt nghiệp được quy định cụ thể trong đề cương môn học bao gồm yêu
+cầu về việc tuân thủ quy định về liêm chính học thuật, yêu cầu về hình thức,
+nội dung của đồ án/khóa luận tốt nghiệp.
+6. Đánh giá đồ án/khóa luận tốt nghiệp
+Sinh viên được phép bảo vệ đồ án/khóa luận tốt nghiệp khi được giảng
+viên hướng dẫn đồng ý.
+Đồ án/khóa luận tốt nghiệp được đánh giá từ 02 thành phần:
+a) Điểm quá trình (25%): Do gi ảng viên hư ớng dẫn đánh giá căn c ứ
+vào nhật ký hướng dẫn thực hiện đồ án/khóa luận tốt nghiệp có chữ ký của
+sinh viên và giảng viên.
+b) Điểm bảo vệ của Hội đồng đánh giá (75%)
+7. Hiệu trưởng ký quyết định thành lập các hội đồng tổ chức bảo vệ đồ
+án/khóa luận tốt nghiệp (hội đồng tổ chức) và hội đồng đánh giá đ ồ án/khóa
+luận tốt nghiệp (hội đồng đánh giá) kèm theo danh sách giảng viên phản biện,
+
+
+PDF PAGE: 59
+MATCHED: he thong thong tin, co so du lieu
+Đạt
+Xuất sắc 3,60 – 4,00
+Giỏi 3,20 – 3,59
+Khá 2,50 – 3,19
+Trung bình 2,00 – 2,49
+Không đạt
+Yếu 1,00 – 1,99
+Kém Dưới 1,00
+
+5. Sinh viên đư ợc xếp trình đ ộ năm học căn c ứ số tín chỉ tích lũy t ừ
+đầu khóa h ọc theo ngành đào t ạo (gọi tắt là N) và s ố tín chỉ trung bình m ột
+năm học theo kế hoạch học tập chuẩn (gọi tắt là M) cụ thể như sau:
+a) Trình độ năm thứ nhất: N < M;
+b) Trình độ năm thứ hai: M ≤ N < 2M;
+c) Trình độ năm thứ ba: 2M ≤ N < 3M;
+d) Trình độ năm thứ tư: 3M ≤ N < 4M;
+đ) Trình độ năm thứ năm: 4M ≤ N < 5M.
+Phòng Quản lý đào tạo xác định M căn cứ vào kế hoạch học tập chuẩn
+thể hiện trong chương trình đào t ạo của từng ngành đào tạo để cấp giấy xác
+nhận trình độ năm học cho sinh viên.
+
+Điều 22. Thông báo điểm và xác nhận kết quả học tập
+1. Bản gốc bảng ghi đi ểm được lưu t ại Phòng Kh ảo thí và đi ểm thi
+được cập nhật vào cơ s ở dữ liệu của Trường. Sinh viên theo dõi H ệ thống
+thông tin sinh viên (sis.ou.edu.vn) để biết kết quả học tập của cá nhân.
+2. Trong quá trình h ọc, sinh viên có quy ền đề nghị Trường cấp bảng
+điểm chính thức của một hay nhiều học kỳ đã học. Bảng điểm này ghi kết quả
+học tập (đạt hoặc không đạt) của tất cả các môn học mà sinh viên có đăng ký
+trong học kỳ hay trong giai đoạn học tập tại Trường.
+3. Sinh viên t ốt nghiệp được cấp phụ lục văn b ằng thể hiện kết quả
+của toàn b ộ quá trình h ọc tập của sinh viên theo chương trình đào t ạo tại
+Trường và các thông tin khác theo quy định của Bộ Giáo dục và Đào tạo.
+
+Điều 23. Phúc tra và khiếu nại điểm
+1. Đối với điểm quá trình, sinh viên khi ếu nại trực tiếp với giảng viên
+khi công bố điểm trên lớp hoặc trên LMS. Sinh viên sẽ không còn quyền khiếu
+nại sau khi bảng ghi điểm đã nộp về Phòng Khảo thí trừ trường hợp quy định
+tại khoản 2 Điều này.
+2. Khi phát hiện có bất cứ sự khác biệt nào giữa bảng ghi điểm đã công
+bố và điểm được nhập, lưu tr ữ trong hệ thống quản lý h ọc vụ, sinh viên có
+trách nhiệm thông báo và yêu c ầu Phòng Kh ảo thí ki ểm tra l ại các c ột điểm
+tương ứng.
+3. Đối với điểm đánh giá cuối kỳ, sinh viên làm đơn đề nghị xem lại kết
+
+
+PDF PAGE: 60
+MATCHED: dang ky mon hoc
+quả chấm thi kết thúc môn học nộp tại Phòng Thanh tra – Pháp chế để được
+giải quyết theo quy định của Trường.
+
+Điều 24. Xử lý kết quả học tập theo tín chỉ
+1. Trường thực hiện cảnh báo học tập sau mỗi học kỳ trong thời gian
+đào tạo chuẩn để sinh viên có kết quả học tập kém biết và lập phương án học
+tập thích hợp để hoàn thành chương trình đào tạo trong thời hạn tối đa được
+phép học.
+2. Sinh viên bị cảnh báo học tập khi điểm trung bình h ọc kỳ đạt dưới
+0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo hoặc
+tự ý nghỉ học (không đăng ký môn học).
+3. Phòng Quản lý đào t ạo là đơn v ị thực hiện việc cảnh báo học tập,
+gửi thông tin đ ến sinh viên và Khoa qu ản lý ngành đào t ạo để Khoa có biện
+pháp hỗ trợ sinh viên học tập.
+
+Điều 25. Công nhận kết quả học tập và chuyển đổi tín chỉ (Miễn,
+giảm môn học)
+1. Trường công nh ận và chuy ển đổi sang tín ch ỉ các môn h ọc trong
+chương trình đào t ạo (xét mi ễn, giảm môn h ọc) căn c ứ vào kết quả học tập
+của người học đã tích lũy từ trình độ đào tạo khác, ngành đào tạo khác, khóa
+học khác hoặc từ cơ sở đào tạo khác.
+2. Trường xét miễn, giảm môn học trên cơ sở đối sánh chuẩn đầu ra,
+nội dung và khối lượng học tập, cách thức đánh giá môn học và các điều kiện
+bảo đảm chất lượng thực hiện chương trình theo các cấp độ:
+a) Xét miễn, giảm theo từng môn học;
+b) Xét miễn, giảm theo từng nhóm môn học;
+c) Xét miễn, giảm theo cả chương trình đào tạo.
+3. Trường công b ố công khai Quy đ ịnh xét mi ễn, giảm môn h ọc trên
+trang thông tin điện tử của Trường và của Phòng Quản lý đào tạo. Số tín chỉ
+được xét miễn, giảm không vượt quá 50% số tín chỉ tối thiểu của chương trình
+đào tạo.
+
+Điều 26. Công nhận tốt nghiệp và cấp bằng tốt nghiệp
+1. Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện
+sau:
+a) Tích lũy đ ủ môn học, số tín chỉ và hoàn thành các n ội dung b ắt
+buộc khác theo yêu c ầu của chương trình đào t ạo, đạt chuẩn đầu ra c ủa
+chương trình đào tạo;
+b) Điểm trung bình tích lũy c ủa toàn khóa h ọc đạt từ trung bình tr ở
+lên;
+c) Tại thời điểm xét tốt nghiệp không bị truy cứu trách nhiệm hình sự
+hoặc không đang trong thời gian bị kỷ luật ở mức đình chỉ học tập.
+d) Có đơn g ửi Phòng Qu ản lý đào t ạo đề nghị được xét t ốt nghiệp
+trong trư ờng hợp đ ủ điều kiện t ốt nghi ệp s ớm ho ặc muộn hơn so v ới k ế
+
+
+PDF PAGE: 62
+MATCHED: dang ky mon hoc
+các kỳ thi, giải đấu quốc tế;
+c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận
+của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế;
+d) Vì lý do cá nhân khác nhưng đã ph ải h ọc t ối thi ểu 01 h ọc k ỳ ở
+Trường và không thu ộc các trư ờng hợp bị xem xét bu ộc thôi h ọc hoặc xem
+xét kỷ luật.
+2. Thời gian nghỉ học tạm thời vì nhu cầu cá nhân phải được tính vào
+thời gian học tập t ối đa quy định tại
+khoản 5 Điều 2 của Quy chế này.
+3. Sinh viên chỉ được nghỉ học tạm thời và bảo lưu kết quả học tập sau
+khi đã làm thủ tục và nhận quyết định tạm dừng học tập của Trường. Đối với
+trường hợp nghỉ học tạm thời vì lý do cá nhân, sinh viên ph ải làm thủ tục xin
+tạm nghỉ trước khi kết thúc thời gian đăng ký môn h ọc bình thường tối thiểu
+một tuần.
+4. Sinh viên nghỉ học tạm thời, khi muốn trở lại học tiếp phải làm thủ
+tục theo quy định của Trường ít nhất một tuần trước khi bắt đầu học kỳ mới và
+được Trường quyết định cho phép tiếp tục học tập.
+5. Sinh viên xin thôi h ọc vì lý do cá nhân, tr ừ trường hợp bị xem xét
+buộc thôi h ọc hoặc xem xét k ỷ luật. Những sinh viên này mu ốn quay tr ở lại
+học phải dự tuyển đầu vào như những thí sinh khác.
+
+Điều 28. Buộc nghỉ học tạm thời, thôi học
+1. Buộc nghỉ học tạm thời
+Sinh viên b ị buộc nghỉ học tạm thời ở học kỳ tiếp theo khi thu ộc một
+trong các trường hợp sau:
+a) Tự ý bỏ học không lý do trong học kỳ chính khóa;
+b) Không hoàn thành nghĩa vụ học phí trong học kỳ đang học theo quy
+định của Trường;
+c) Vi phạm kỷ luật đến mức phải buộc nghỉ học tạm thời. Trường hợp
+này thời gian buộc nghỉ học tạm thời căn cứ vào các quy định hiện hành.
+Kết thúc thời gian bị buộc nghỉ học tạm thời, sinh viên phải làm thủ tục
+theo hướng dẫn của Phòng Quản lý đào tạo để tiếp tục học tập.
+Thời gian bị buộc nghỉ học tạm thời của sinh viên phải tính vào thời gian
+học tập tối đa của khóa h ọc được quy đ ịnh tại khoản 5 Điều 2 c ủa Quy ch ế
+này.
+2. Buộc thôi học
+Sinh viên bị buộc thôi học khi thuộc một trong các trường hợp sau:
+a) Đã hết thời gian đào t ạo, kể cả thời gian kéo dài h ọc tập theo quy
+định của Trường nhưng chưa đủ điều kiện để tốt nghiệp và nhận bằng;
+b) Vi phạm kỷ luật đến mức phải buộc thôi học;
+c) Bị cảnh báo học tập 02 lần liên tiếp.
+3. Phòng Quản lý đào t ạo chịu trách nhi ệm trình Ban Giám hi ệu ký
+Quyết định kèm danh sách sinh viên b ị buộc thôi h ọc và bu ộc nghỉ học tạm
+thời mỗi học kỳ đồng thời thông báo cho sinh viên và Khoa quản lý ngành đào
+
+========== test_missing_02 ==========
+
+PDF PAGE: 53
+MATCHED: trong so
+Điều 16. Đánh giá và tính điểm môn học
+1. Đối với mỗi môn học, sinh viên được đánh giá qua tối thiểu hai điểm
+thành phần là đi ểm quá trình và đi ểm cuối kỳ, đối với các môn h ọc có kh ối
+lượng nhỏ hơn 02 tín ch ỉ có thể chỉ có một điểm đánh giá. Các đi ểm thành
+phần được đánh giá theo thang đi ểm 10. Phương pháp đánh giá, hình th ức
+đánh giá và trọng số của mỗi điểm thành phần được quy định trong đề cương
+chi tiết của môn h ọc. Hình th ức đánh giá tr ực tuyến được áp d ụng khi đ ảm
+bảo trung thực, công bằng và khách quan như đánh giá tr ực tiếp, đồng thời
+đóng góp không quá 50% trọng số điểm môn học.
+2. Điểm quá trình có thể gồm một số hay tất cả các dạng điểm như sau:
+a) Điểm kiểm tra thường xuyên trong quá trình học tập;
+b) Điểm đánh giá nhận thức và thái độ tham gia thảo luận;
+c) Điểm thực hành của từng bài/phần thí nghiệm, hay thi thí nghiệm;
+d) Điểm chuyên cần;
+đ) Điểm thi giữa kỳ;
+e) Điểm làm bài tập hoặc tham gia các hoạt động trên LMS;
+g) Điểm bài tập lớn, tiểu luận;
+3. Điểm môn học được tính từ tổng các điểm thành phần nhân với trọng
+số tương ứng, được làm tròn tới một chữ số thập phân và xếp loại điểm chữ
+như dưới đây, trừ các trường hợp được quy định tại điểm d khoản này.
+a) Loại đạt có phân mức, áp dụng cho các môn học được tính vào điểm
+trung bình học tập, bao gồm:
+Xếp loại Thang điểm 10 Thang điểm chữ
+Đạt
+9,0 – 10 A+
+8,5 – 8,9 A
+8,0 – 8,4 B+
+7,0 – 7,9 B
+6,5 – 6,9 C+
+5,5 – 6,4 C
+5,0 – 5,4 D+
+4,0 – 4,9 D
+
+
+PDF PAGE: 54
+MATCHED: trong so
+a) Loại đạt không phân m ức, áp d ụng cho các môn h ọc chỉ yêu cầu
+đạt, không tính vào điểm trung bình học tập: P từ 5,0 trở lên.
+b) Loại không đạt: F dưới 4,0.
+c) Một số trường hợp đặc biệt sử dụng các điểm chữ xếp loại, không
+tính vào điểm trung bình học tập:
+I: Điểm chưa hoàn thiện do được phép hoãn thi, kiểm tra;
+X: Điểm chưa hoàn thiện do chưa đủ dữ liệu;
+R: Điểm môn học được miễn học và công nhận tín chỉ;
+D: Điểm đạt;
+K: Điểm không đạt.
+2. Học lại, thi và học cải thiện điểm:
+a) Sinh viên có điểm môn học không đạt phải đăng ký học lại theo quy
+định tại khoản 2 Điều 6 của Quy chế này.
+b) Sinh viên đã có điểm môn học đạt được đăng ký học lại để cải thiện
+điểm. Điểm được công nhận là điểm cao nhất trong các lần thi.
+
+Điều 17. Tổ chức đánh giá quá trình
+1. Giảng viên phụ trách môn học trực tiếp ra đề đánh giá và cho điểm
+quá trình. Các thành phần của điểm quá trình được công bố tại lớp học. Điểm
+quá trình được công bố tại lớp hoặc trên LMS chậm nhất 10 ngày sau khi kết
+thúc môn học.
+2. Sinh viên vắng mặt trong buổi đánh giá không có lý do chính đáng
+phải nhận điểm 0. Sinh viên vắng mặt có lý do chính đáng và được giảng viên
+chấp thuận được tham gia đánh giá ở một đợt khác do giảng viên quyết định
+và được tính điểm lần đầu.
+3. Giảng viên ph ụ trách môn h ọc nhập điểm quá trình trên h ệ thống
+thông tin viên chức (FSIS), nộp bản in có chữ ký của giảng viên chấm bài về
+Phòng Khảo thí để lưu trữ chậm nhất 10 ngày sau khi công bố điểm cho sinh
+viên.
+Điều 18. Tổ chức đánh giá cuối kỳ
+1. Hình thức đánh giá cu ối kỳ có thể là thi vi ết (trắc nghiệm hoặc tự
+luận), thi tại phòng máy, thi v ấn đáp, viết tiểu luận, làm bài t ập lớn, hoặc kết
+hợp giữa các hình thức trên và được quy định trong đề cương môn học.
+2. Bài đánh giá cu ối kỳ và kết quả đánh giá đư ợc lưu tr ữ tại Phòng
+Khảo thí theo quy đ ịnh bảo quản tài li ệu chuyên môn nghi ệp vụ của ngành
+giáo dục.
+3. Mỗi môn học được tổ chức đánh giá cuối kỳ 01 lần sau khi kết thúc.
+Việc tổ chức đánh giá cuối kỳ được thực hiện theo quy định của Trường.
+4. Trường tổ chức đánh giá cuối kỳ theo hình thức trực tuyến khi kỳ thi
+đảm bảo trung thực, công bằng và khách quan như đánh giá trực tiếp và trọng
+số điểm đánh giá cuối kỳ không vượt quá 50% trọng số điểm môn học. Trong
+các trường hợp thiên tai, dịch bệnh, Trường tổ chức đánh giá theo hướng dẫn
+của Bộ Giáo dục và Đào tạo.
+5. Thời gian dành cho sinh viên ôn tập cho đánh giá cuối kỳ tỷ lệ thuận
+
+
+PDF PAGE: 58
+MATCHED: trong so
+1. Kết quả học tập của sinh viên được đánh giá sau từng học kỳ hoặc
+sau từng năm h ọc, dựa trên k ết quả các môn h ọc nằm trong yêu c ầu của
+chương trình đào t ạo mà sinh viên đã h ọc và có đi ểm theo các tiêu chí sau
+đây:
+a) Tổng số tín chỉ của những môn h ọc mà sinh viên không đ ạt trong
+một học kỳ, trong một năm học, hoặc nợ đọng từ đầu khoá học;
+b) Số tín chỉ tích lũy: Tổng số tín chỉ của những môn học mà sinh viên
+đã đạt từ đầu khóa học, tính cả các môn học được miễn học, được công nhận
+tín chỉ. Số tín chỉ tích lũy không bao gồm số tín chỉ của các môn học Giáo dục
+quốc phòng và an ninh, Giáo dục thể chất.
+c) Điểm trung bình của những môn học mà sinh viên đã học trong một
+học kỳ (điểm trung bình học kỳ), trong một năm học (điểm trung bình năm học)
+hoặc tính từ đầu khóa học (điểm trung bình tích lũy), tính theo điểm chính thức
+của môn học và trọng số là số tín chỉ của môn học đó.
+
+2. Để tính điểm trung bình, đi ểm chữ của môn h ọc được quy đ ổi về
+điểm số theo thang điểm 4 như dưới đây.
+Xếp loại Thang điểm chữ Thang điểm 4
+Đạt
+A+ 4,0
+A 4,0
+B+ 3,5
+B 3,0
+C+ 2,5
+C 2,0
+D+ 1,5
+D 1,0
+Không đạt F 0,0
+
+3. Những điểm chữ không được quy định tại khoản 2 Điều này không
+được tính vào các đi ểm trung bình h ọc kỳ, năm h ọc hoặc tích lũy. Giáo d ục
+quốc phòng – an ninh, giáo dục thể chất và những môn học không nằm trong
+yêu cầu của chương trình đào tạo không tính vào các tiêu chí đánh giá kết quả
+học tập của sinh viên (bao gồm các môn tiếng Anh căn bản từ 1 đến 5).
+4. Sinh viên được xếp loại học lực theo điểm trung bình học kỳ, điểm
+trung bình năm học hoặc điểm trung bình tích lũy như sau:
+
+Xếp loại Điểm trung bình
+
+
+PDF PAGE: 61
+MATCHED: dau vao
+hoạch học tập chuẩn toàn khóa.
+2. Hạng tốt nghiệp được xác định căn cứ vào điểm trung bình tích lũy
+toàn khoá được quy định tại khoản 4 Điều 21 của Quy chế này, trong đó, hạng
+tốt nghiệp của sinh viên có điểm trung bình tích lũy lo ại xuất sắc và giỏi sẽ bị
+giảm đi một mức nếu thuộc một trong các trường hợp sau:
+a) Khối lượng của các môn học phải học lại vượt quá 5% so v ới tổng
+số tín chỉ quy định cho toàn chương trình;
+b) Sinh viên đã bị kỷ luật từ mức cảnh cáo trở lên trong thời gian học.
+3. Trường tổ chức xét t ốt nghiệp 3 l ần/năm học theo k ế hoạch năm
+học. Phòng Quản lý đào tạo công bố công khai kế hoạch chi tiết từng đợt xét
+tốt nghiệp.
+4. Hội đồng xét tốt nghiệp do Hiệu trưởng hoặc Phó Hiệu trưởng được
+Hiệu trưởng uỷ quyền làm Chủ tịch, Trưởng hoặc Phó phòng Quản lý đào tạo
+làm Thư ký và các thành viên là các Trư ởng hoặc Phó khoa phụ trách ngành
+đào tạo, Trưởng hoặc Phó phòng Công tác sinh viên và truyền thông, Trưởng
+hoặc Phó phòng Thanh tra- Pháp chế, các trợ lý đào tạo của các khoa và một
+số chuyên viên phụ trách xét tốt nghiệp của Phòng Quản lý đào tạo và chuyên
+viên của Phòng Công tác sinh viên và truy ền thông. Hội đồng xét tốt nghiệp
+căn cứ các điều kiện công nhận tốt nghiệp quy định tại Khoản 1 Điều này để
+lập danh sách những sinh viên đủ điều kiện tốt nghiệp.
+5. Căn cứ đề nghị của Hội đồng xét tốt nghiệp, Hiệu trưởng ký quyết
+định công nhận tốt nghiệp và cấp bằng tốt nghiệp cho những sinh viên đủ điều
+kiện tốt nghiệp trong vòng 30 ngày k ể từ ngày có quy ết định công nh ận tốt
+nghiệp.
+6. Sinh viên đã hết thời gian học tập tối đa theo quy định nhưng chưa
+đủ điều kiện tốt nghiệp do chưa hoàn thành nh ững nhóm môn h ọc Giáo dục
+quốc phòng-an ninh hoặc Giáo dục thể chất hoặc chưa đạt chuẩn đầu ra về
+ngoại ngữ, công nghệ thông tin trong thời hạn 03 năm tính từ khi thôi học được
+hoàn thiện các điều kiện còn thiếu và đề nghị xét công nhận tốt nghiệp.
+7. Sinh viên không t ốt nghiệp được cấp chứng nhận về các môn học
+đã tích lũy trong chương trình đào t ạo. Những sinh viên này n ếu đăng ký thi
+lại tuyển sinh đ ầu vào đư ợc xét mi ễn những môn đã h ọc theo quy đ ịnh xét
+miễn, giảm môn học hiện hành của Trường.
+
+Chương IV
+NHỮNG QUY ĐỊNH KHÁC ĐỐI VỚI SINH VIÊN
+Điều 27. Nghỉ học tạm thời, thôi học
+1. Sinh viên đư ợc xin ngh ỉ học tạm thời và b ảo lưu k ết quả học tập
+trong các trường hợp sau:
+a) Được điều động vào lực lượng vũ trang;
+b) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự
+
+
+PDF PAGE: 62
+MATCHED: dau vao
+các kỳ thi, giải đấu quốc tế;
+c) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận
+của cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế;
+d) Vì lý do cá nhân khác nhưng đã ph ải h ọc t ối thi ểu 01 h ọc k ỳ ở
+Trường và không thu ộc các trư ờng hợp bị xem xét bu ộc thôi h ọc hoặc xem
+xét kỷ luật.
+2. Thời gian nghỉ học tạm thời vì nhu cầu cá nhân phải được tính vào
+thời gian học tập t ối đa quy định tại
+khoản 5 Điều 2 của Quy chế này.
+3. Sinh viên chỉ được nghỉ học tạm thời và bảo lưu kết quả học tập sau
+khi đã làm thủ tục và nhận quyết định tạm dừng học tập của Trường. Đối với
+trường hợp nghỉ học tạm thời vì lý do cá nhân, sinh viên ph ải làm thủ tục xin
+tạm nghỉ trước khi kết thúc thời gian đăng ký môn h ọc bình thường tối thiểu
+một tuần.
+4. Sinh viên nghỉ học tạm thời, khi muốn trở lại học tiếp phải làm thủ
+tục theo quy định của Trường ít nhất một tuần trước khi bắt đầu học kỳ mới và
+được Trường quyết định cho phép tiếp tục học tập.
+5. Sinh viên xin thôi h ọc vì lý do cá nhân, tr ừ trường hợp bị xem xét
+buộc thôi h ọc hoặc xem xét k ỷ luật. Những sinh viên này mu ốn quay tr ở lại
+học phải dự tuyển đầu vào như những thí sinh khác.
+
+Điều 28. Buộc nghỉ học tạm thời, thôi học
+1. Buộc nghỉ học tạm thời
+Sinh viên b ị buộc nghỉ học tạm thời ở học kỳ tiếp theo khi thu ộc một
+trong các trường hợp sau:
+a) Tự ý bỏ học không lý do trong học kỳ chính khóa;
+b) Không hoàn thành nghĩa vụ học phí trong học kỳ đang học theo quy
+định của Trường;
+c) Vi phạm kỷ luật đến mức phải buộc nghỉ học tạm thời. Trường hợp
+này thời gian buộc nghỉ học tạm thời căn cứ vào các quy định hiện hành.
+Kết thúc thời gian bị buộc nghỉ học tạm thời, sinh viên phải làm thủ tục
+theo hướng dẫn của Phòng Quản lý đào tạo để tiếp tục học tập.
+Thời gian bị buộc nghỉ học tạm thời của sinh viên phải tính vào thời gian
+học tập tối đa của khóa h ọc được quy đ ịnh tại khoản 5 Điều 2 c ủa Quy ch ế
+này.
+2. Buộc thôi học
+Sinh viên bị buộc thôi học khi thuộc một trong các trường hợp sau:
+a) Đã hết thời gian đào t ạo, kể cả thời gian kéo dài h ọc tập theo quy
+định của Trường nhưng chưa đủ điều kiện để tốt nghiệp và nhận bằng;
+b) Vi phạm kỷ luật đến mức phải buộc thôi học;
+c) Bị cảnh báo học tập 02 lần liên tiếp.
+3. Phòng Quản lý đào t ạo chịu trách nhi ệm trình Ban Giám hi ệu ký
+Quyết định kèm danh sách sinh viên b ị buộc thôi h ọc và bu ộc nghỉ học tạm
+thời mỗi học kỳ đồng thời thông báo cho sinh viên và Khoa quản lý ngành đào
+
+
+PDF PAGE: 67
+MATCHED: dau vao
+theo chức năng, nhiệm vụ đã được phân công.
+h) Tiếp nhận các phản ánh của giảng viên, sinh viên và các đơn vị liên
+quan, thường xuyên rà soát, cập nhật để Quy chế này không trái với Thông tư
+08/2021/TT-BGDĐT ngày 18/03/2021 của Bộ trưởng Bộ Giáo dục và Đào tạo
+và phù hợp với điều kiện thực tế của Trường.
+3. Phòng Khảo thí
+a) Căn cứ vào các điều khoản của quy chế này soạn thảo chi tiết các
+quy định, hướng dẫn, biểu mẫu liên quan đến đề thi, công tác tổ chức thi, chấm
+thi, công bố điểm thi và lưu trữ bài thi, điểm thi trình Hiệu trưởng phê duyệt;
+b) Lưu trữ các tài li ệu liên quan đ ến công tác kh ảo thí theo quy đ ịnh
+hiện hành của nhà nước và của Trường, trong đó bảng điểm gốc được lưu trữ
+vĩnh viễn.
+c) Thực hiện các công tác khác liên quan đến đánh giá kết quả học tập
+của sinh viên theo chức năng, nhiệm vụ đã được phân công.
+4. Các đơn vị khác
+a) Phòng Công tác sinh viên và truyền thông, Thư viện, Phòng Hợp tác
+và Quản lý khoa h ọc, Phòng Hành chính -Quản trị, Phòng Tài chính -Kế toán,
+Phòng T ổ chức-Nhân s ự phối h ợp v ới các Khoa, Phòng Qu ản lý đào t ạo,
+Phòng Khảo thí hỗ trợ công tác đào tạo theo chức năng nhiệm vụ được phân
+công.
+b) Phòng Thanh tra- Pháp chế thực hiện công tác thanh tra, giám sát
+việc thực hiện Quy chế này theo chức năng, nhiệm vụ được phân công.
+
+Điều 37. Trách nhiệm của giảng viên
+1. Tham gia đầy đủ các cuộc họp của Khoa để nắm vững định hướng
+về công tác giảng dạy và các quy định của Trường.
+2. Thực hiện công tác giảng dạy theo đề cương môn học đã công bố;
+thực hiện hồ sơ môn học.
+3. Thực hiện nghiêm túc các quy đ ịnh, nội quy c ủa Trường về hoạt
+động giảng dạy;
+4. Đánh giá k ết qu ả học t ập c ủa sinh viên khách quan, công b ằng.
+Công bố điểm đánh giá quá trình và ch ấm bài thi đánh giá cu ối kỳ đúng thời
+gian quy định.
+
+Điều 38. Trách nhiệm của sinh viên
+1. Tuân thủ nội quy học tập; quy tắc ứng xử trong Trường;
+2. Thực hiện đầy đủ các yêu cầu của giảng viên trong lớp học.
+
+Điều 39. Chế độ báo cáo và công khai thông tin
+1. Trường thực hiện báo cáo s ố liệu sinh viên tuy ển mới, tốt nghiệp,
+thôi học và đang học trong năm, dự kiến tốt nghiệp trong năm sau, tốt nghiệp
+đã có vi ệc làm trong th ời gian 12 tháng; phân lo ại theo đ ối tượng đầu vào,
+
+
+PDF PAGE: 68
+MATCHED: dau vao
+ngành đào tạo, khóa đào tạo trước ngày 31 tháng 12 hằng năm cho Bộ Giáo
+dục và Đào tạo.
+2. Trường th ực hi ện vi ệc công khai trên trang thông tin đi ện t ử của
+Trường chậm nhất 45 ngày trước khi tổ chức đào tạo các thông tin sau:
+a) Quy chế đào tạo trình độ đại học hình thức đào tạo chính quy và các
+quy định đào tạo khác liên quan;
+b) Quyết định mở ngành, chương trình đào tạo, các điều kiện bảo đảm
+chất lượng theo quy định hiện hành của Bộ Giáo dục và Đào tạo
+c) Các minh chứng về việc các chương trình đào t ạo đáp ứng chuẩn
+chương trình đào tạo do Bộ Giáo dục và Đào tạo ban hành;
+d) Thông báo tuyển sinh theo quy chế tuyển sinh hiện hành.
+
+
+2. QUY ĐỊNH
+Đào tạo ngoại ngữ không chuyên
+thuộc các chương trình đào tạo trình độ đại học
+hình thức đào tạo chính quy
+(Kèm theo Quyết định số /QĐ-ĐHM ngày tháng năm 2024
+của Hiệu trưởng Trường Đại học Mở Thành phố Hồ Chí Minh)
+
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Văn bản này quy định về đào tạo ngoại ngữ không chuyên thuộc các
+chương trình đào t ạo trình độ đại học tại Trường Đại học Mở Thành phố Hồ
+Chí Minh (sau đây gọi là Trường).
+2. Quy định này áp d ụng cho gi ảng viên, viên ch ức, người lao đ ộng
+tham gia tổ chức đào tạo và sinh viên theo học đại học hình thức đào tạo chính
+quy của Trường từ khoá tuyển sinh 2024 trở về sau.
+Điều 2. Giải thích từ ngữ
+1. Ngoại ngữ không chuyên là tiếng Anh trong chương trình đào tạo
+(CTĐT) các ngành không chuyên ng ữ, ngoại ngữ hai trong CTĐT các ngành
+chuyên ngữ và ngành Đông Nam Á học.
+2. Chuẩn đ ầu vào ngoại ng ữ không chuyên là tiếng Anh trong
+chương trình đào t ạo (CTĐT) các ngành không chuyên ng ữ, ngoại ngữ hai
+trong CTĐT các ngành chuyên ngữ và ngành Đông Nam Á học.
+
+
+PDF PAGE: 69
+MATCHED: xep lop, dau vao
+3. Chuẩn đầu ra ngoại ngữ không chuyên là năng lực ngoại ngữ
+không chuyên tối thiểu mà sinh viên phải đạt để theo học chương trình ngoại
+ngữ không chuyên trong CTĐT.
+Điều 3. Chuẩn đầu vào ngoại ngữ không chuyên
+1. Tiếng Anh
+a) Chuẩn đầu vào tiếng Anh của Trường là bậc 2/6 theo Khung năng
+lực ngoại ngữ 6 bậc dành cho Việt Nam.
+b) Trường tổ chức kiểm tra trình đ ộ tiếng Anh cho tân sinh viên các
+ngành không chuyên ng ữ chương trình chu ẩn, các ngành ngôn ng ữ chất
+lượng cao (trừ ngành Ngôn ngữ Anh) để xếp lớp tiếng Anh phù hợp với năng
+lực.
+c) Sinh viên không đ ạt năng l ực ti ếng Anh đ ầu vào ph ải theo h ọc
+chương trình tiếng Anh dự bị.
+2. Ngoại ngữ hai
+a) Trường không quy định chuẩn đầu vào ngoại ngữ hai.
+b) Trường không tổ chức kiểm tra trình độ đầu vào ngoại ngữ hai cho
+tân sinh viên (trừ các ngành ngôn ng ữ chất lượng cao có đào t ạo ngoại ngữ
+hai là tiếng Anh).
+Điều 4. Chương trình Tiếng Anh dự bị
+1. Chương trình tiếng Anh dự bị có khối lượng 15 tín chỉ, chia thành 5
+cấp độ từ căn bản 1 đến căn bản 5, mỗi cấp độ có khối lượng 3 tín chỉ.
+2. Chương trình tiếng Anh dự bị được tổ chức học theo phương thức
+trực tuyến theo thời khóa biểu do Phòng Quản lý đào tạo quy định đầu học kỳ
+và tổ chức thi cuối kỳ trực tiếp theo lịch thi chung.
+3. Sinh viên được đăng ký học chương trình tiếng Anh trong CTĐT sau
+khi hoàn thành chương trình tiếng Anh dự bị và đạt môn tiếng Anh căn bản 5
+từ 5,0 điểm (theo thang điểm 10) trở lên.
+Điều 5. Tiếng Anh và Chuẩn đầu ra tiếng Anh
+1. Chương trình chuẩn
+
+
+PDF PAGE: 71
+MATCHED: dau vao
+c) Sinh viên tốt nghiệp các ngành ngôn ng ữ (Anh, Trung Quốc, Nhật,
+Hàn Quốc) và ngành Đông Nam Á học đạt chuẩn đầu ra ngoại ngữ hai tương
+đương bậc 3/6 theo Khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam.
+2. Chương trình chất lượng cao
+a) Ngoại ngữ hai dành cho sinh viên các ngành Ngôn ngữ (khác ngành
+Ngôn ngữ Anh) chương trình ch ất lượng cao là ti ếng Anh như các ngành
+không chuyên ngữ thuộc chương trình chất lượng cao quy định ở Khoản 2
+Điều 5 của Quy định này.
+b) Ngoại ngữ hai dành cho sinh viên ngành Ngôn ng ữ Anh chương
+trình chất lượng cao có khối lượng 15 tín chỉ, chia làm 5 cấp độ từ 1 đến 5,
+mỗi cấp độ có khối lượng 3 tín chỉ.
+Sinh viên đ ạt chuẩn đầu ra ngo ại ngữ hai ngành Ngôn ng ữ Anh chất
+lượng cao sau khi hoàn thành chương trình ngoại ngữ hai với tất cả các môn
+học đạt từ 5,0 trở lên (theo thang điểm 10).
+Sinh viên tốt nghiệp ngành ngôn ngữ Anh chương trình chất lượng cao
+đạt chuẩn đầu ra ngo ại ngữ hai tương đương b ậc 3/6 theo Khung năng l ực
+ngoại ngữ 6 bậc dành cho Việt Nam.
+
+Điều 7. Tổ chức đào tạo ngoại ngữ không chuyên
+1. Tiếng Anh
+a) Sinh viên bắt buộc phải đăng ký học tiếng Anh theo lộ trình học tiếng
+Anh cá nhân, được xác định tại kỳ kiểm tra trình độ tiếng Anh đầu vào.
+b) Khối lượng tiếng Anh đăng ký tối thiểu 6 tín chỉ mỗi học kỳ.
+2. Ngoại ngữ hai
+Không bắt buộc đăng ký h ọc mỗi học kỳ. Sinh viên đăng ký h ọc theo
+trình tự các môn học của chương trình.
+Điều 8. Kỳ thi đánh giá năng lực sử dụng tiếng Anh đầu ra
+1. Trường tổ chức kỳ thi đánh giá năng lực sử dụng tiếng Anh đầu ra
+3 lần/năm theo K ế hoạch đào t ạo năm h ọc. Phòng Qu ản lý đào t ạo lập kế
+hoạch chi tiết cho mỗi lần thi.

@@ -1,0 +1,65 @@
+{
+  "baseline": {
+    "source_files": [
+      "dev_20261114T102351627014Z.json",
+      "dev_20261114T105743862256Z.json",
+      "dev_20261114T110009099441Z.json"
+    ],
+    "completed_count": 17,
+    "statuses": {
+      "answered": 13,
+      "abstain": 4
+    },
+    "missing_ids": [],
+    "duplicate_completed_ids": [],
+    "failed_attempts": [
+      {
+        "query_id": "q12",
+        "source_run": "dev_20261114T105743862256Z.json",
+        "error_type": "ClientError"
+      }
+    ],
+    "model_request_attempts": 38
+  },
+  "top5": {
+    "source_files": [
+      "dev_20261114T124806149969Z.json",
+      "dev_20261114T125151239109Z.json",
+      "dev_20261114T125539688753Z.json"
+    ],
+    "completed_count": 17,
+    "statuses": {
+      "answered": 14,
+      "abstain": 3
+    },
+    "missing_ids": [],
+    "duplicate_completed_ids": [],
+    "failed_attempts": [
+      {
+        "query_id": "q01",
+        "source_run": "dev_20261114T124806149969Z.json",
+        "error_type": "ConnectionTimeout"
+      },
+      {
+        "query_id": "q02",
+        "source_run": "dev_20261114T125151239109Z.json",
+        "error_type": "ServerError"
+      }
+    ],
+    "model_request_attempts": 41
+  },
+  "single_search": {
+    "source_files": [
+      "dev_20261114T130317821368Z.json"
+    ],
+    "completed_count": 17,
+    "statuses": {
+      "answered": 13,
+      "abstain": 4
+    },
+    "missing_ids": [],
+    "duplicate_completed_ids": [],
+    "failed_attempts": [],
+    "model_request_attempts": 34
+  }
+}

@@ -1,0 +1,252 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "answerable": true,
+    "question": "Theo mục công tác sinh viên trong Sổ tay sinh viên 2024, sinh viên dân tộc thiểu số thuộc hộ nghèo phải bổ sung hồ sơ xác nhận hộ nghèo vào tháng nào hằng năm?",
+    "expected_answer": "Tháng 01 hằng năm.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 39,
+        "evidence": "riêng đối với các đối tượng sinh viên thuộc dân tộc thiểu số thuộc hộ nghèo phải nộp bổ sung hồ sơ xác nhận hộ nghèo vào tháng 01 hằng năm"
+      }
+    ],
+    "filter": {
+      "section": "cong_tac_sinh_vien"
+    }
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "answerable": true,
+    "question": "Chương trình tiếng Anh dự bị có tổng cộng bao nhiêu tín chỉ và được chia thành bao nhiêu cấp độ?",
+    "expected_answer": "15 tín chỉ, chia thành 5 cấp độ từ căn bản 1 đến căn bản 5; mỗi cấp độ 3 tín chỉ.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 69,
+        "evidence": "Chương trình tiếng Anh dự bị có khối lượng 15 tín chỉ, chia thành 5 cấp độ từ căn bản 1 đến căn bản 5, mỗi cấp độ có khối lượng 3 tín chỉ."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "answerable": true,
+    "question": "Theo quy định ngoại ngữ không chuyên, sinh viên phải đáp ứng những điều kiện nào để được đăng ký học chương trình tiếng Anh trong chương trình đào tạo sau giai đoạn dự bị?",
+    "expected_answer": "Hoàn thành chương trình tiếng Anh dự bị và đạt môn tiếng Anh căn bản 5 từ 5,0 điểm theo thang điểm 10 trở lên.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 69,
+        "evidence": "Sinh viên được đăng ký học chương trình tiếng Anh trong CTĐT sau khi hoàn thành chương trình tiếng Anh dự bị và đạt môn tiếng Anh căn bản 5 từ 5,0 điểm (theo thang điểm 10) trở lên."
+      }
+    ],
+    "filter": {
+      "section": "ngoai_ngu_khong_chuyen"
+    }
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "answerable": true,
+    "question": "Điểm quá trình phải được công bố cho sinh viên ở đâu và chậm nhất bao lâu sau khi kết thúc môn học?",
+    "expected_answer": "Tại lớp hoặc trên LMS, chậm nhất 10 ngày sau khi kết thúc môn học.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 54,
+        "evidence": "Điểm quá trình được công bố tại lớp hoặc trên LMS chậm nhất 10 ngày sau khi kết thúc môn học."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "answerable": true,
+    "question": "Sinh viên vắng buổi đánh giá quá trình có lý do chính đáng cần được ai chấp thuận để tham gia đánh giá đợt khác, và kết quả được tính là lần đánh giá nào?",
+    "expected_answer": "Cần được giảng viên chấp thuận; được tham gia đợt đánh giá khác do giảng viên quyết định và được tính điểm lần đầu.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 54,
+        "evidence": "Sinh viên vắng mặt có lý do chính đáng và được giảng viên chấp thuận được tham gia đánh giá ở một đợt khác do giảng viên quyết định và được tính điểm lần đầu."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "answerable": true,
+    "question": "Theo quy chế đào tạo, môn học có khối lượng dưới 2 tín chỉ có bắt buộc phải có ít nhất hai điểm đánh giá thành phần không?",
+    "expected_answer": "Không bắt buộc; môn học có khối lượng nhỏ hơn 2 tín chỉ có thể chỉ có một điểm đánh giá.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 53,
+        "evidence": "Đối với mỗi môn học, sinh viên được đánh giá qua tối thiểu hai điểm thành phần là đi ểm quá trình và đi ểm cuối kỳ, đối với các môn h ọc có kh ối lượng nhỏ hơn 02 tín ch ỉ có thể chỉ có một điểm đánh giá."
+      }
+    ],
+    "filter": {
+      "section": "quy_che_dao_tao"
+    },
+    "evidence_review": "Day07 preparation: retain the complete general rule and under-2-credit exception; remove unrelated assessment details. Day06 benchmark is unchanged."
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "answerable": true,
+    "question": "Sinh viên đã đạt môn học và đăng ký học lại để cải thiện điểm thì điểm được công nhận được chọn như thế nào?",
+    "expected_answer": "Điểm được công nhận là điểm cao nhất trong các lần thi.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 54,
+        "evidence": "Sinh viên đã có điểm môn học đạt được đăng ký học lại để cải thiện điểm. Điểm được công nhận là điểm cao nhất trong các lần thi."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "answerable": true,
+    "question": "Theo Sổ tay sinh viên 2024, hằng năm trường có hơn bao nhiêu suất học bổng trao tặng sinh viên?",
+    "expected_answer": "Hơn 5000 suất học bổng.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 39,
+        "evidence": "Hằng năm Trường có hơn 5000 suất học bổng trao tặng cho sinh viên"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "answerable": true,
+    "question": "Sổ tay liệt kê những học bổng nào liên quan đến danh hiệu Sinh viên 5 tốt và Thanh niên tiên tiến?",
+    "expected_answer": "Học bổng Sinh viên 5 tốt và Học bổng Thanh niên tiên tiến làm theo lời Bác.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 39,
+        "evidence": "Học bổng Sinh viên 5 tốt + Học bổng Thanh niên tiên tiến làm theo lời Bác"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "answerable": true,
+    "question": "Quy chế đào tạo đại học chính quy có áp dụng đối với giảng viên, viên chức và người lao động của trường hay chỉ áp dụng cho sinh viên?",
+    "expected_answer": "Có áp dụng đối với giảng viên, viên chức, người lao động và sinh viên trình độ đại học hình thức đào tạo chính quy của trường.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 46,
+        "evidence": "Quy chế này áp dụng đối với giảng viên, viên chức, người lao động, sinh viên trình độ đại học hình thức đào tạo chính quy của Trường Đại học Mở Thành phố Hồ Chí Minh"
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "answerable": true,
+    "question": "Các chương trình liên kết đào tạo áp dụng quy chế đào tạo chính quy theo căn cứ nào?",
+    "expected_answer": "Theo thỏa thuận liên kết giữa trường và đối tác.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 46,
+        "evidence": "Các chương trình liên k ết đào t ạo áp d ụng quy ch ế này theo th ỏa thuận liên kết giữa Trường và đối tác."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "answerable": true,
+    "question": "Chuẩn đầu vào tiếng Anh của trường là bậc mấy theo Khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam?",
+    "expected_answer": "Bậc 2/6.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 69,
+        "evidence": "Chuẩn đầu vào tiếng Anh của Trường là bậc 2/6 theo Khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "answerable": true,
+    "question": "Trường có quy định chuẩn đầu vào đối với ngoại ngữ hai không?",
+    "expected_answer": "Trường không quy định chuẩn đầu vào ngoại ngữ hai.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 69,
+        "evidence": "Trường không quy định chuẩn đầu vào ngoại ngữ hai."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "answerable": true,
+    "question": "Chương trình tiếng Anh dự bị được học và thi cuối kỳ theo hình thức nào?",
+    "expected_answer": "Học trực tuyến theo thời khóa biểu do Phòng Quản lý đào tạo quy định đầu học kỳ; thi cuối kỳ trực tiếp theo lịch thi chung.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 69,
+        "evidence": "Chương trình tiếng Anh dự bị được tổ chức học theo phương thức trực tuyến theo thời khóa biểu do Phòng Quản lý đào tạo quy định đầu học kỳ và tổ chức thi cuối kỳ trực tiếp theo lịch thi chung."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "answerable": true,
+    "question": "Sinh viên vắng mặt trong buổi đánh giá quá trình mà không có lý do chính đáng nhận điểm bao nhiêu?",
+    "expected_answer": "Điểm 0.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 54,
+        "evidence": "Sinh viên vắng mặt trong buổi đánh giá không có lý do chính đáng phải nhận điểm 0."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "dev_missing_01",
+    "split": "dev",
+    "answerable": false,
+    "question": "Lịch thi cuối kỳ cụ thể — ngày, giờ và phòng thi — của môn Trí tuệ nhân tạo trong học kỳ I năm học 2026–2027 là gì?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus chỉ gồm trang PDF 39–77. Đã rà soát nội dung liên quan và tìm kiếm toàn phạm vi sau chuẩn hóa. Trang 48 và 69 chỉ nói về lịch/kế hoạch thi chung; không cung cấp lịch thi cụ thể của môn và học kỳ được hỏi.",
+    "filter": null
+  },
+  {
+    "id": "dev_missing_02",
+    "split": "dev",
+    "answerable": false,
+    "question": "Mức tiền chính xác của học bổng Tài năng cho năm học 2026–2027 là bao nhiêu?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Corpus chỉ gồm trang PDF 39–77. Đã rà soát nội dung liên quan và tìm kiếm toàn phạm vi sau chuẩn hóa. Trang 39 liệt kê học bổng Tài năng nhưng không nêu mức tiền cho năm học được hỏi. Trang 40 và 42 nói về học bổng/rèn luyện/nghiên cứu khác, không đủ trả lời.",
+    "filter": null
+  }
+]

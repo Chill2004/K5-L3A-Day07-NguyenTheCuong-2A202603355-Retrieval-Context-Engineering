@@ -1,0 +1,25 @@
+{
+  "source_id": "ou_handbook_2024",
+  "title": "Sổ tay sinh viên Đại học Mở TP. Hồ Chí Minh 2024",
+  "source_url": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+  "physical_page_count": 167,
+  "content_page_count": 39,
+  "selected_pdf_pages": {
+    "from": 39,
+    "to": 77,
+    "inclusive": true
+  },
+  "page_count_rule": "Count each selected physical PDF page once; page 68 contains two source units.",
+  "source_unit_count": 40,
+  "chunk_count": 192,
+  "day6_strategy": "A",
+  "chunk_size_chars": 500,
+  "overlap_chars": 50,
+  "acquisition": "Export existing strategy A records read-only from Day06 PostgreSQL using src/export_day6.py.",
+  "snapshot": "starter/data/day6/snapshot.json",
+  "freeze": "starter/data/day6/benchmark_freeze.json",
+  "redistribution_permission": "Confirmed by the user on 2026-11-14; underlying authorization not independently inspected.",
+  "license_review": "docs/DATA_ACCESS.md; inherited Day06 data/LICENSE_REVIEW.md",
+  "sharing": "User confirms rights for PDF, benchmark and traces; files remain local/ignored until explicitly packaged for submission.",
+  "sharing_confirmation": "artifacts/data_sharing_confirmation.json"
+}

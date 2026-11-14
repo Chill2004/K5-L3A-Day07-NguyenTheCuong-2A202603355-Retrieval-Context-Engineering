@@ -1,0 +1,97 @@
+[
+  {
+    "id": "test_01",
+    "split": "test",
+    "answerable": true,
+    "question": "Sinh viên bị xếp loại rèn luyện yếu, kém dưới 50 điểm trong hai học kỳ liên tiếp sẽ bị xử lý thế nào và vào thời điểm nào?",
+    "expected_answer": "Bị khóa mã số sinh viên trong học kỳ tiếp theo.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 40,
+        "evidence": "Sinh viên bị xếp loại rèn luyện yếu, kém 2 học kỳ liên tiếp (dưới 50 điểm) sẽ bị khóa mã số sinh viên trong học kỳ tiếp theo."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "test_02",
+    "split": "test",
+    "answerable": true,
+    "question": "Theo mục công tác sinh viên, không đăng ký thông tin ngoại trú bị trừ bao nhiêu điểm rèn luyện mỗi học kỳ?",
+    "expected_answer": "Bị trừ 05 điểm rèn luyện mỗi học kỳ.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 41,
+        "evidence": "Sinh viên không tham gia đăng ký thông tin ngoại trú sẽ bị trừ 05 (năm) điểm rèn luyện/học kỳ."
+      }
+    ],
+    "filter": {
+      "section": "cong_tac_sinh_vien"
+    }
+  },
+  {
+    "id": "test_03",
+    "split": "test",
+    "answerable": true,
+    "question": "Khi xin rút bớt khối lượng học tập vì tai nạn đột xuất hoặc nằm viện dài ngày không thể theo học, sinh viên cần giấy xác nhận của cơ quan y tế cấp nào?",
+    "expected_answer": "Cơ quan y tế cấp quận, huyện trở lên.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 49,
+        "evidence": "Sinh viên bị tai nạn đột xuất hoặc nằm viện trong thời gian dài, không thể theo học học kỳ đã đăng ký môn h ọc. Trường hợp này sinh viên ph ải có giấy xác nhận của cơ quan y tế cấp quận, huyện trở lên cấp."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "test_04",
+    "split": "test",
+    "answerable": true,
+    "question": "Số tín chỉ được xét miễn, giảm tối đa bằng bao nhiêu phần trăm số tín chỉ tối thiểu của chương trình đào tạo?",
+    "expected_answer": "Không vượt quá 50% số tín chỉ tối thiểu của chương trình đào tạo.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 60,
+        "evidence": "Số tín chỉ được xét miễn, giảm không vượt quá 50% số tín chỉ tối thiểu của chương trình đào tạo."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "test_05",
+    "split": "test",
+    "answerable": true,
+    "question": "Theo quy định tổ chức đào tạo ngoại ngữ không chuyên, khối lượng tiếng Anh đăng ký tối thiểu mỗi học kỳ là bao nhiêu tín chỉ?",
+    "expected_answer": "Tối thiểu 6 tín chỉ mỗi học kỳ.",
+    "gold": [
+      {
+        "source_id": "ou_handbook_2024",
+        "page": 71,
+        "evidence": "Khối lượng tiếng Anh đăng ký tối thiểu 6 tín chỉ mỗi học kỳ."
+      }
+    ],
+    "filter": null
+  },
+  {
+    "id": "test_missing_01",
+    "split": "test",
+    "answerable": false,
+    "question": "Hệ thống đăng ký môn học của Trường được xây dựng bằng ngôn ngữ lập trình và hệ quản trị cơ sở dữ liệu nào?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Trong corpus trang 39–77, các trang 48–49 mô tả đăng ký môn học trực tuyến; trang 59 nhắc cơ sở dữ liệu và SIS nhưng không nêu ngôn ngữ lập trình hoặc hệ quản trị cơ sở dữ liệu của hệ thống đăng ký môn học.",
+    "filter": null
+  },
+  {
+    "id": "test_missing_02",
+    "split": "test",
+    "answerable": false,
+    "question": "Thuật toán xếp lớp tiếng Anh đầu vào sử dụng công thức tính điểm và trọng số cụ thể nào?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Trong corpus trang 39–77, trang 69 mô tả kiểm tra trình độ tiếng Anh để xếp lớp, trang 71 nhắc lộ trình cá nhân xác định từ kỳ kiểm tra đầu vào; không cung cấp thuật toán, công thức tính điểm hoặc trọng số để xếp lớp.",
+    "filter": null
+  }
+]

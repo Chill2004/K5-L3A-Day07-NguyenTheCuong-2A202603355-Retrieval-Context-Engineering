@@ -1,0 +1,49 @@
+{
+  "checked_on": "2026-11-14",
+  "unit_tests": {
+    "passed": 17,
+    "failed": 0,
+    "command": "python -m unittest discover -s tests -v"
+  },
+  "benchmark_freeze_check": {
+    "chunks.json": {
+      "expected": "2cc13672fd815c137cc28ac4d4b4f234bf862bb000dc09a1ff17a9081742d221",
+      "actual": "2cc13672fd815c137cc28ac4d4b4f234bf862bb000dc09a1ff17a9081742d221",
+      "matches": true
+    },
+    "snapshot.json": {
+      "expected": "b1c06203d99cf50e50e5be23017a197e245412ba36446fb8c7e512be33fab373",
+      "actual": "b1c06203d99cf50e50e5be23017a197e245412ba36446fb8c7e512be33fab373",
+      "matches": true
+    },
+    "dev_questions.json": {
+      "expected": "d5c61f578a9671f2d3430b53c0e9ae5cbd7155946a59f7d744207c6c83f185c4",
+      "actual": "d5c61f578a9671f2d3430b53c0e9ae5cbd7155946a59f7d744207c6c83f185c4",
+      "matches": true
+    },
+    "test_questions.json": {
+      "expected": "de5bd28516c8cd3fbbe67e1a0e058e76df1120eff67abadfb201d218e1c5e085",
+      "actual": "de5bd28516c8cd3fbbe67e1a0e058e76df1120eff67abadfb201d218e1c5e085",
+      "matches": true
+    },
+    "benchmark_protocol.md": {
+      "expected": "61c3aa9a2ebc499d1dd067fcbc7c6894f079aba0cfc926883dd95807abae558d",
+      "actual": "c33656a1ea4c8978f34498df617ebe85cf528dc52da5a69bb7fa5ea0ca3bd166",
+      "matches": false
+    }
+  },
+  "protocol_mismatch_explanation": "Unknown; no original protocol bytes available for comparison. Original freeze retained.",
+  "readme_changes_in_git_diff": false,
+  "gemini_requests_during_documentation_work": 0,
+  "audit_status": "Human-confirmed AI-assisted test review",
+  "redistribution_status": "Unconfirmed; no raw data or traces published",
+  "aggregate_artifacts": [
+    "artifacts/dev_retrieval_summary.json",
+    "artifacts/dev_context_summary.json",
+    "artifacts/test_automatic_summary.json",
+    "artifacts/test_review_summary_proposed.json"
+  ],
+  "commit_or_push_performed": false,
+  "protocol_completion_note": "Post-experiment supplement explicitly dated; earlier mismatching protocol preserved separately. Original freeze unchanged.",
+  "confirmation_record": "artifacts/test_review_confirmation.json"
+}

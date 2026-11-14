@@ -4,8 +4,10 @@ Adapters are intentionally not provided: Day 6 has no fixed database schema and
 model providers differ. Never use fake adapters to report benchmark quality.
 """
 from typing import Any, Protocol
-from baseline import pack_context
-
+if __package__:
+    from .baseline import pack_context
+else:
+    from baseline import pack_context
 
 class Controller(Protocol):
     def decide(self, question: str, history: list[dict[str, Any]]) -> dict[str, Any]:
@@ -13,6 +15,7 @@ class Controller(Protocol):
 
         Search: {'action': 'search', 'query': '...'}.
         Final: {'action': 'answer', 'answer': '...', 'citations': ['chunk-id']}.
+        Abstain: {'action': 'abstain', 'reason': '...'}.
         Citations must also appear as [chunk-id] in the answer text.
         """
         ...
@@ -57,11 +60,53 @@ def run_agent(question: str, controller: Controller, retriever: Retriever, *,
             candidates.extend(results)
             context, ids = pack_context(candidates, budget=budget)
             chunks = {c['id']: c for c in candidates if c['id'] in ids}
-            events.append({'event': 'search', 'query': query, 'filter': filters, 'results': results,
-                           'context': context, 'context_ids': ids})
-            # Send only the latest cumulative context; avoid multiplying the budget.
-            history = [{'tool': 'search', 'queries': [e['query'] for e in events if e['event'] == 'search'],
-                        'context': context, 'context_ids': ids}]
+            previous_search = next(
+                (
+                    event for event in reversed(events)
+                    if event["event"] == "search"
+                ),
+                None,
+            )
+            context_changed = (
+                previous_search is None
+                or ids != previous_search["context_ids"]
+                or context != previous_search["context"]
+            )
+
+            events.append({
+                "event": "search",
+                "query": query,
+                "filter": filters,
+                "results": results,
+                "context": context,
+                "context_ids": ids,
+                "context_changed": context_changed,
+            })
+
+            history = [{
+                "tool": "search",
+                "queries": [
+                    event["query"] for event in events
+                    if event["event"] == "search"
+                ],
+                "context": context,
+                "context_ids": ids,
+                "context_changed": context_changed,
+            }]
+        elif action.get("action") == "abstain":
+            reason = action.get("reason")
+            if not isinstance(reason, str) or not reason.strip():
+                raise ValueError("Abstention reason must be non-empty.")
+
+            return {
+                "status": "abstain",
+                "answer": "Không đủ bằng chứng để trả lời.",
+                "citations": [],
+                "events": events + [{
+                    "event": "model_abstain",
+                    "reason": reason.strip(),
+                }],
+            }
         elif action.get('action') == 'answer':
             answer, citations = action.get('answer'), action.get('citations')
             if not isinstance(answer, str) or not isinstance(citations, list) or any(not isinstance(i, str) for i in citations):
@@ -71,5 +116,5 @@ def run_agent(question: str, controller: Controller, retriever: Retriever, *,
                 return {'status': 'answered', 'answer': answer, 'citations': citations, 'events': events + [{'event': 'answer'}]}
             return {'status': 'abstain', 'answer': 'Không đủ bằng chứng để trả lời.', 'citations': [], 'events': events + [{'event': 'invalid_or_missing_citations'}]}
         else:
-            raise ValueError('action phải là search hoặc answer')
+            raise ValueError("action phải là search, answer hoặc abstain")
     return {'status': 'abstain', 'answer': 'Không đủ bằng chứng để trả lời.', 'citations': [], 'events': events}

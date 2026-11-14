@@ -1,0 +1,7 @@
+psycopg[binary]==3.3.8
+python-dotenv==1.2.4
+sentence-transformers==6.3.0
+torch==2.15.0
+google-genai==3.3.0
+
+PyMuPDF==2.1

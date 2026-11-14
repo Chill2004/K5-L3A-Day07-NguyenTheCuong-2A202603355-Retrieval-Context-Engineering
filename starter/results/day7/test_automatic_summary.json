@@ -1,0 +1,52 @@
+{
+  "baseline": {
+    "source_run": "starter\\results\\day7\\agent_test\\baseline\\test_20261114T131936803449Z.json",
+    "split": "test",
+    "question_count": 7,
+    "answerable_count": 5,
+    "unanswerable_count": 2,
+    "answered_on_answerable": 5,
+    "false_abstentions": 0,
+    "final_abstentions_on_unanswerable": 2,
+    "explicit_abstentions_on_unanswerable": 0,
+    "first_tool_evidence_hit_at_1_count": 4,
+    "first_tool_evidence_hit_at_3_count": 5,
+    "final_context_evidence_complete_count": 5,
+    "retrieval_metric_scope": "First model-generated search query; cutoff 1 and 3 for both configurations. Not the original-query benchmark.",
+    "model_request_attempts": 17,
+    "search_calls_total": 10,
+    "median_question_seconds_including_pacing": 12.57598710000002,
+    "reported_token_usage": {
+      "prompt_token_count": 16501,
+      "candidates_token_count": 1166,
+      "thoughts_token_count": 0,
+      "total_token_count": 17667
+    },
+    "grading_note": "Answer correctness and semantic citation support require separate reviewed labels."
+  },
+  "top5": {
+    "source_run": "starter\\results\\day7\\agent_test\\top5\\test_20261114T132252908347Z.json",
+    "split": "test",
+    "question_count": 7,
+    "answerable_count": 5,
+    "unanswerable_count": 2,
+    "answered_on_answerable": 4,
+    "false_abstentions": 1,
+    "final_abstentions_on_unanswerable": 2,
+    "explicit_abstentions_on_unanswerable": 1,
+    "first_tool_evidence_hit_at_1_count": 4,
+    "first_tool_evidence_hit_at_3_count": 5,
+    "final_context_evidence_complete_count": 5,
+    "retrieval_metric_scope": "First model-generated search query; cutoff 1 and 3 for both configurations. Not the original-query benchmark.",
+    "model_request_attempts": 16,
+    "search_calls_total": 9,
+    "median_question_seconds_including_pacing": 12.401902999999947,
+    "reported_token_usage": {
+      "prompt_token_count": 16789,
+      "candidates_token_count": 1288,
+      "thoughts_token_count": 0,
+      "total_token_count": 18077
+    },
+    "grading_note": "Answer correctness and semantic citation support require separate reviewed labels."
+  }
+}

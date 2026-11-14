@@ -1,0 +1,59 @@
+[
+  {
+    "query_id": "test_01",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2,
+    "reason": "Final answer matches the requested facts; the cited retrieved text supports the answer."
+  },
+  {
+    "query_id": "test_02",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2,
+    "reason": "Final answer matches the requested facts; the cited retrieved text supports the answer."
+  },
+  {
+    "query_id": "test_03",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2,
+    "reason": "Final answer matches the requested facts; the cited retrieved text supports the answer."
+  },
+  {
+    "query_id": "test_04",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2,
+    "reason": "Final answer matches the requested facts; the cited retrieved text supports the answer."
+  },
+  {
+    "query_id": "test_05",
+    "citation_support": [
+      true
+    ],
+    "answer_grade": 2,
+    "context_grade": 2,
+    "reason": "Final answer matches the requested facts; the cited retrieved text supports the answer."
+  },
+  {
+    "query_id": "test_missing_01",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Final output abstains on a question reviewed as unanswerable within corpus pages 39-77. See trace events for the stopping mechanism."
+  },
+  {
+    "query_id": "test_missing_02",
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Final output abstains on a question reviewed as unanswerable within corpus pages 39-77. See trace events for the stopping mechanism."
+  }
+]

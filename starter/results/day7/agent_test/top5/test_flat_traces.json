@@ -1,0 +1,1387 @@
+[
+  {
+    "query_id": "test_01",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "xếp loại rèn luyện yếu kém dưới 50 điểm hai học kỳ liên tiếp xử lý thời điểm",
+        "filter": null,
+        "results": [
+          {
+            "id": "c88c95325d2dc6e14431a0a140f5caea85cddcaf153327b749bd62de5a19b4f2",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 40,
+            "text": "được dùng để xét học bổng khuyến khích học tập mỗi\nhọc kỳ và sẽ được ghi vào bảng điểm tốt nghiệp của sinh viên.\n- Sinh viên bị xếp loại rèn luyện yếu, kém 2 học kỳ liên tiếp (dưới 50 điểm)\nsẽ bị khóa mã số sinh viên trong học kỳ tiếp theo.\n- Đánh giá k ết quả rèn luyện online đư ợc tích lũy đi ểm thông qua quá\ntrình học tập và rèn luyện ngoại khóa của sinh viên trong năm h ọc. Điểm rèn\nluyện sẽ được tích lũy và c ập nhật thường xuyên trên website đánh giá k ết\nquả rèn luyện online để Sinh viên ",
+            "metadata": {
+              "overlap": 50,
+              "section": "cong_tac_sinh_vien",
+              "unit_id": "ou_handbook_2024-p40-1",
+              "chunking": "fixed",
+              "end_char": 1850,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 1,
+              "lexical": 1
+            },
+            "component_scores": {
+              "dense": 0.8926546839670747,
+              "lexical": 0.5327852046459836
+            }
+          },
+          {
+            "id": "3b5ed26a90f3aa89b8e6e3b4fe78b8fa63f1d75301f6d9823cfde07cceb24bd5",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 40,
+            "text": "ữa Nhà trường – Chủ nhiệm lớp, cố vấn học\ntập – Sinh viên.\n- Định hướng nghề nghiệp cho sinh viên.\n- Hướng dẫn công tác liên quan đến sinh viên.\n- Hướng dẫn và gi ải đáp các vư ớng mắc của sinh viên trong quá trình\nhọc tập và rèn luyện tại Trường.\n- SV tham khảo tại website: cvht.ou.edu.vn.\n4. ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN ONLINE\n- Đánh giá k ết quả rèn luyện online đư ợc thực hiện bắt buộc theo Quy\nđịnh của Bộ Giáo dục và Đào tạo.\n- Điểm rèn luyện được dùng để xét học bổng khuyến khích học tập mỗi",
+            "metadata": {
+              "overlap": 50,
+              "section": "cong_tac_sinh_vien",
+              "unit_id": "ou_handbook_2024-p40-1",
+              "chunking": "fixed",
+              "end_char": 1400,
+              "chunk_size": 500,
+              "start_char": 900
+            },
+            "score": 0.0315136476426799,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 5,
+              "lexical": 2
+            },
+            "component_scores": {
+              "dense": 0.8627333722869547,
+              "lexical": 0.28380948879435874
+            }
+          },
+          {
+            "id": "0b749964d9f1fa41fa1c12dc5de0a63ddf0dd9bf99cec3d6be13cc3c494eb3c2",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 58,
+            "text": "trình đào tạo không tính vào các tiêu chí đánh giá kết quả\nhọc tập của sinh viên (bao gồm các môn tiếng Anh căn bản từ 1 đến 5).\n4. Sinh viên được xếp loại học lực theo điểm trung bình học kỳ, điểm\ntrung bình năm học hoặc điểm trung bình tích lũy như sau:\n\nXếp loại Điểm trung bình",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p58-1",
+              "chunking": "fixed",
+              "end_char": 1631,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.03149801587301587,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 4,
+              "lexical": 3
+            },
+            "component_scores": {
+              "dense": 0.8632801175117493,
+              "lexical": 0.2439451295438981
+            }
+          },
+          {
+            "id": "3a80a515ebce2025b2253987d6111d30564992a887bfa843950baf905b2eda52",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 54,
+            "text": "a) Loại đạt không phân m ức, áp d ụng cho các môn h ọc chỉ yêu cầu\nđạt, không tính vào điểm trung bình học tập: P từ 5,0 trở lên.\nb) Loại không đạt: F dưới 4,0.\nc) Một số trường hợp đặc biệt sử dụng các điểm chữ xếp loại, không\ntính vào điểm trung bình học tập:\nI: Điểm chưa hoàn thiện do được phép hoãn thi, kiểm tra;\nX: Điểm chưa hoàn thiện do chưa đủ dữ liệu;\nR: Điểm môn học được miễn học và công nhận tín chỉ;\nD: Điểm đạt;\nK: Điểm không đạt.\n2. Học lại, thi và học cải thiện điểm:\na) Sinh viên c",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p54-1",
+              "chunking": "fixed",
+              "end_char": 500,
+              "chunk_size": 500,
+              "start_char": 0
+            },
+            "score": 0.031024531024531024,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 3,
+              "lexical": 6
+            },
+            "component_scores": {
+              "dense": 0.8640698194503784,
+              "lexical": 0.22314232119592672
+            }
+          },
+          {
+            "id": "f0048ad43683436f4df5fb4f115b5a087c8aa4cdd2c91c2bf50e3e5767ce323a",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 64,
+            "text": "ểm trung bình tích lũy xếp loại khá trở lên và đáp\nứng ngưỡng bảo đảm chất lượng của chương trình thứ hai trong năm tuyển\nsinh;\nb) Học lực tính theo điểm trung bình tích lũy xếp loại trung bình và đáp\nứng điều kiện trúng tuyển của chương trình thứ hai trong năm tuyển sinh theo\ncùng phương thức và đợt xét tuyển.\n3. Trong quá trình sinh viên h ọc cùng lúc hai chương trình, n ếu điểm\ntrung bình tích lũy c ủa chương trình th ứ nhất đạt dưới điểm trung bình ho ặc\nthuộc diện cảnh báo học tập thì phải ",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p64-1",
+              "chunking": "fixed",
+              "end_char": 1850,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.0304147465437788,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 2,
+              "lexical": 10
+            },
+            "component_scores": {
+              "dense": 0.8704747557640076,
+              "lexical": 0.18752184136372738
+            }
+          }
+        ],
+        "context": "[c88c95325d2dc6e14431a0a140f5caea85cddcaf153327b749bd62de5a19b4f2 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 40]\nđược dùng để xét học bổng khuyến khích học tập mỗi\nhọc kỳ và sẽ được ghi vào bảng điểm tốt nghiệp của sinh viên.\n- Sinh viên bị xếp loại rèn luyện yếu, kém 2 học kỳ liên tiếp (dưới 50 điểm)\nsẽ bị khóa mã số sinh viên trong học kỳ tiếp theo.\n- Đánh giá k ết quả rèn luyện online đư ợc tích lũy đi ểm thông qua quá\ntrình học tập và rèn luyện ngoại khóa của sinh viên trong năm h ọc. Điểm rèn\nluyện sẽ được tích lũy và c ập nhật thường xuyên trên website đánh giá k ết\nquả rèn luyện online để Sinh viên \n\n[3b5ed26a90f3aa89b8e6e3b4fe78b8fa63f1d75301f6d9823cfde07cceb24bd5 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 40]\nữa Nhà trường – Chủ nhiệm lớp, cố vấn học\ntập – Sinh viên.\n- Định hướng nghề nghiệp cho sinh viên.\n- Hướng dẫn công tác liên quan đến sinh viên.\n- Hướng dẫn và gi ải đáp các vư ớng mắc của sinh viên trong quá trình\nhọc tập và rèn luyện tại Trường.\n- SV tham khảo tại website: cvht.ou.edu.vn.\n4. ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN ONLINE\n- Đánh giá k ết quả rèn luyện online đư ợc thực hiện bắt buộc theo Quy\nđịnh của Bộ Giáo dục và Đào tạo.\n- Điểm rèn luyện được dùng để xét học bổng khuyến khích học tập mỗi\n\n[0b749964d9f1fa41fa1c12dc5de0a63ddf0dd9bf99cec3d6be13cc3c494eb3c2 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 58]\ntrình đào tạo không tính vào các tiêu chí đánh giá kết quả\nhọc tập của sinh viên (bao gồm các môn tiếng Anh căn bản từ 1 đến 5).\n4. Sinh viên được xếp loại học lực theo điểm trung bình học kỳ, điểm\ntrung bình năm học hoặc điểm trung bình tích lũy như sau:\n\nXếp loại Điểm trung bình\n\n[3a80a515ebce2025b2253987d6111d30564992a887bfa843950baf905b2eda52 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 54]\na) Loại đạt không phân m ức, áp d ụng cho các môn h ọc chỉ yêu cầu\nđạt, không tính vào điểm trung bình học tập: P từ 5,0 trở lên.\nb) Loại không đạt: F dưới 4,0.\nc) Một số trường hợp đặc biệt sử dụng các điểm chữ xếp loại, không\ntính vào điểm trung bình học tập:\nI: Điểm chưa hoàn thiện do được phép hoãn thi, kiểm tra;\nX: Điểm chưa hoàn thiện do chưa đủ dữ liệu;\nR: Điểm môn học được miễn học và công nhận tín chỉ;\nD: Điểm đạt;\nK: Điểm không đạt.\n2. Học lại, thi và học cải thiện điểm:\na) Sinh viên c",
+        "context_ids": [
+          "c88c95325d2dc6e14431a0a140f5caea85cddcaf153327b749bd62de5a19b4f2",
+          "3b5ed26a90f3aa89b8e6e3b4fe78b8fa63f1d75301f6d9823cfde07cceb24bd5",
+          "0b749964d9f1fa41fa1c12dc5de0a63ddf0dd9bf99cec3d6be13cc3c494eb3c2",
+          "3a80a515ebce2025b2253987d6111d30564992a887bfa843950baf905b2eda52"
+        ],
+        "context_changed": true
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "citations": [
+      "c88c95325d2dc6e14431a0a140f5caea85cddcaf153327b749bd62de5a19b4f2"
+    ]
+  },
+  {
+    "query_id": "test_02",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "đăng ký thông tin ngoại trú điểm rèn luyện",
+        "filter": {
+          "section": "cong_tac_sinh_vien"
+        },
+        "results": [
+          {
+            "id": "ca9f5f4632e66123feaf25a702eb8ad2b18e5e430e8217e008b983fe0ff62bfe",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 41,
+            "text": "5. NGOẠI TRÚ\n- Là hoạt động bắt buộc. Sinh viên phải thực hiện đăng ký, khai báo thông\ntin ngoại trú trên website của Nhà trường và vào đầu khóa học và đầu mỗi học\nkỳ và trong thời hạn sau 20 ngày nếu có thay đổi địa chỉ tạm trú.\n- Sinh viên không tham gia đăng ký thông tin ngoại trú sẽ bị trừ 05 (năm)\nđiểm rèn luyện/học kỳ.\n- Sinh viên đăng ký thông tin ngoại trú theo hướng dẫn sau:\n+ Sinh viên vào website: http://sis.ou.edu.vn\n+ Danh sách dịch vụ/ tiện ích/ -> chọn [Đăng ký ngoại trú]\n+ Chọn h",
+            "metadata": {
+              "overlap": 50,
+              "section": "cong_tac_sinh_vien",
+              "unit_id": "ou_handbook_2024-p41-1",
+              "chunking": "fixed",
+              "end_char": 500,
+              "chunk_size": 500,
+              "start_char": 0
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 1,
+              "lexical": 1
+            },
+            "component_scores": {
+              "dense": 0.8997544050216675,
+              "lexical": 0.6676879741319638
+            }
+          },
+          {
+            "id": "3b5ed26a90f3aa89b8e6e3b4fe78b8fa63f1d75301f6d9823cfde07cceb24bd5",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 40,
+            "text": "ữa Nhà trường – Chủ nhiệm lớp, cố vấn học\ntập – Sinh viên.\n- Định hướng nghề nghiệp cho sinh viên.\n- Hướng dẫn công tác liên quan đến sinh viên.\n- Hướng dẫn và gi ải đáp các vư ớng mắc của sinh viên trong quá trình\nhọc tập và rèn luyện tại Trường.\n- SV tham khảo tại website: cvht.ou.edu.vn.\n4. ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN ONLINE\n- Đánh giá k ết quả rèn luyện online đư ợc thực hiện bắt buộc theo Quy\nđịnh của Bộ Giáo dục và Đào tạo.\n- Điểm rèn luyện được dùng để xét học bổng khuyến khích học tập mỗi",
+            "metadata": {
+              "overlap": 50,
+              "section": "cong_tac_sinh_vien",
+              "unit_id": "ou_handbook_2024-p40-1",
+              "chunking": "fixed",
+              "end_char": 1400,
+              "chunk_size": 500,
+              "start_char": 900
+            },
+            "score": 0.031746031746031744,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 3,
+              "lexical": 3
+            },
+            "component_scores": {
+              "dense": 0.8617900096303234,
+              "lexical": 0.3793531297636397
+            }
+          },
+          {
+            "id": "3645202c578a3aeb4707c5f960e7930b00cff0192b555b83401cc038906f7776",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 41,
+            "text": "vụ/ tiện ích/ -> chọn [Đăng ký ngoại trú]\n+ Chọn học kỳ hiện tại - > Cung cấp thông tin -> [lưu thông tin]\n6. HOẠT ĐỘNG NGOẠI KHÓA\n6.1 VĂN HÓA VĂN NGHỆ - THỂ DỤC THỂ THAO\nGồm các hoạt động cấp Trường, cấp khoa như:\n- Hội diễn văn nghệ truyền thống\n- Hội thao truyền thống...\nCác hoạt động này được tổ chức để nâng cao đời sống tinh thần cho sinh\nviên và tập hợp lực lượng nòng cốt thành đội tuyển đại diện Nhà trường tham\ngia các cuộc thi như: Tiếng hát sinh viên toàn thành, Tiếng hát sinh viên toàn",
+            "metadata": {
+              "overlap": 50,
+              "section": "cong_tac_sinh_vien",
+              "unit_id": "ou_handbook_2024-p41-1",
+              "chunking": "fixed",
+              "end_char": 950,
+              "chunk_size": 500,
+              "start_char": 450
+            },
+            "score": 0.0315136476426799,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 2,
+              "lexical": 5
+            },
+            "component_scores": {
+              "dense": 0.8661200066244608,
+              "lexical": 0.1920511380558192
+            }
+          },
+          {
+            "id": "c88c95325d2dc6e14431a0a140f5caea85cddcaf153327b749bd62de5a19b4f2",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 40,
+            "text": "được dùng để xét học bổng khuyến khích học tập mỗi\nhọc kỳ và sẽ được ghi vào bảng điểm tốt nghiệp của sinh viên.\n- Sinh viên bị xếp loại rèn luyện yếu, kém 2 học kỳ liên tiếp (dưới 50 điểm)\nsẽ bị khóa mã số sinh viên trong học kỳ tiếp theo.\n- Đánh giá k ết quả rèn luyện online đư ợc tích lũy đi ểm thông qua quá\ntrình học tập và rèn luyện ngoại khóa của sinh viên trong năm h ọc. Điểm rèn\nluyện sẽ được tích lũy và c ập nhật thường xuyên trên website đánh giá k ết\nquả rèn luyện online để Sinh viên ",
+            "metadata": {
+              "overlap": 50,
+              "section": "cong_tac_sinh_vien",
+              "unit_id": "ou_handbook_2024-p40-1",
+              "chunking": "fixed",
+              "end_char": 1850,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.0315136476426799,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 5,
+              "lexical": 2
+            },
+            "component_scores": {
+              "dense": 0.8501284375825062,
+              "lexical": 0.4575427578535871
+            }
+          },
+          {
+            "id": "5267fe36de0a8903b9f5c95edd13de3c7a687ce02ffc2d4cb4e3f66d252d0f0b",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 40,
+            "text": "e đánh giá k ết\nquả rèn luyện online để Sinh viên theo dõi.\n- Sinh viên thực hiện đánh giá kết quả rèn luyện online tại website:\nhttp://diemrl.ou.edu.vn",
+            "metadata": {
+              "overlap": 50,
+              "section": "cong_tac_sinh_vien",
+              "unit_id": "ou_handbook_2024-p40-1",
+              "chunking": "fixed",
+              "end_char": 1952,
+              "chunk_size": 500,
+              "start_char": 1800
+            },
+            "score": 0.030776515151515152,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 6,
+              "lexical": 4
+            },
+            "component_scores": {
+              "dense": 0.8477063179016113,
+              "lexical": 0.3349078979851998
+            }
+          }
+        ],
+        "context": "[ca9f5f4632e66123feaf25a702eb8ad2b18e5e430e8217e008b983fe0ff62bfe | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 41]\n5. NGOẠI TRÚ\n- Là hoạt động bắt buộc. Sinh viên phải thực hiện đăng ký, khai báo thông\ntin ngoại trú trên website của Nhà trường và vào đầu khóa học và đầu mỗi học\nkỳ và trong thời hạn sau 20 ngày nếu có thay đổi địa chỉ tạm trú.\n- Sinh viên không tham gia đăng ký thông tin ngoại trú sẽ bị trừ 05 (năm)\nđiểm rèn luyện/học kỳ.\n- Sinh viên đăng ký thông tin ngoại trú theo hướng dẫn sau:\n+ Sinh viên vào website: http://sis.ou.edu.vn\n+ Danh sách dịch vụ/ tiện ích/ -> chọn [Đăng ký ngoại trú]\n+ Chọn h\n\n[3b5ed26a90f3aa89b8e6e3b4fe78b8fa63f1d75301f6d9823cfde07cceb24bd5 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 40]\nữa Nhà trường – Chủ nhiệm lớp, cố vấn học\ntập – Sinh viên.\n- Định hướng nghề nghiệp cho sinh viên.\n- Hướng dẫn công tác liên quan đến sinh viên.\n- Hướng dẫn và gi ải đáp các vư ớng mắc của sinh viên trong quá trình\nhọc tập và rèn luyện tại Trường.\n- SV tham khảo tại website: cvht.ou.edu.vn.\n4. ĐÁNH GIÁ KẾT QUẢ RÈN LUYỆN ONLINE\n- Đánh giá k ết quả rèn luyện online đư ợc thực hiện bắt buộc theo Quy\nđịnh của Bộ Giáo dục và Đào tạo.\n- Điểm rèn luyện được dùng để xét học bổng khuyến khích học tập mỗi\n\n[3645202c578a3aeb4707c5f960e7930b00cff0192b555b83401cc038906f7776 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 41]\nvụ/ tiện ích/ -> chọn [Đăng ký ngoại trú]\n+ Chọn học kỳ hiện tại - > Cung cấp thông tin -> [lưu thông tin]\n6. HOẠT ĐỘNG NGOẠI KHÓA\n6.1 VĂN HÓA VĂN NGHỆ - THỂ DỤC THỂ THAO\nGồm các hoạt động cấp Trường, cấp khoa như:\n- Hội diễn văn nghệ truyền thống\n- Hội thao truyền thống...\nCác hoạt động này được tổ chức để nâng cao đời sống tinh thần cho sinh\nviên và tập hợp lực lượng nòng cốt thành đội tuyển đại diện Nhà trường tham\ngia các cuộc thi như: Tiếng hát sinh viên toàn thành, Tiếng hát sinh viên toàn\n\n[5267fe36de0a8903b9f5c95edd13de3c7a687ce02ffc2d4cb4e3f66d252d0f0b | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 40]\ne đánh giá k ết\nquả rèn luyện online để Sinh viên theo dõi.\n- Sinh viên thực hiện đánh giá kết quả rèn luyện online tại website:\nhttp://diemrl.ou.edu.vn",
+        "context_ids": [
+          "ca9f5f4632e66123feaf25a702eb8ad2b18e5e430e8217e008b983fe0ff62bfe",
+          "3b5ed26a90f3aa89b8e6e3b4fe78b8fa63f1d75301f6d9823cfde07cceb24bd5",
+          "3645202c578a3aeb4707c5f960e7930b00cff0192b555b83401cc038906f7776",
+          "5267fe36de0a8903b9f5c95edd13de3c7a687ce02ffc2d4cb4e3f66d252d0f0b"
+        ],
+        "context_changed": true
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "citations": [
+      "ca9f5f4632e66123feaf25a702eb8ad2b18e5e430e8217e008b983fe0ff62bfe"
+    ]
+  },
+  {
+    "query_id": "test_03",
+    "status": "abstain",
+    "events": [
+      {
+        "event": "search",
+        "query": "rút bớt khối lượng học tập tai nạn nằm viện cơ quan y tế cấp nào",
+        "filter": null,
+        "results": [
+          {
+            "id": "c53d32b84480fe7ad847b2451b93b9a6e72b08170a3f2006d1f0933880167872",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 49,
+            "text": "nhận điểm 0.\n2. Phòng Quản lý đào tạo giải quyết rút bớt khối lượng học tập cho các\ntrường hợp sau:\na) Trùng lịch học do Trường thay đổi thời khóa biểu sau khi sinh viên\nđã đăng ký môn học;\nb) Môn h ọc sinh viên đã đăng ký nhưng Trư ờng không m ở lớp do\nkhông đủ sĩ số tối thiểu theo quy định;\nc) Sinh viên được Trường cho phép miễn môn học;\nd) Sinh viên bị tai nạn đột xuất hoặc nằm viện trong thời gian dài, không\nthể theo học học kỳ đã đăng ký môn h ọc. Trường hợp này sinh viên ph ải có\ngiấy xác ",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p49-1",
+              "chunking": "fixed",
+              "end_char": 950,
+              "chunk_size": 500,
+              "start_char": 450
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 1,
+              "lexical": 1
+            },
+            "component_scores": {
+              "dense": 0.8707453166550082,
+              "lexical": 0.3131245530762219
+            }
+          },
+          {
+            "id": "d0a09b068258b89d86c27d3942ff655bb6330cbfa7f6cb23b9f8915e64222125",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 49,
+            "text": " h ọc. Trường hợp này sinh viên ph ải có\ngiấy xác nhận của cơ quan y tế cấp quận, huyện trở lên cấp.\n3. Phòng Quản lý đào tạo giải quyết đăng ký thêm khối lượng học tập\nvào các lớp học chưa đầy sĩ số cho các trường hợp:\na) Sinh viên có kết quả thi không đạt của môn học đăng ký học học kỳ\ntrước đó sau khi đã kết thúc thời gian đăng ký môn học trực tuyến;\nb) Sinh viên bị trùng lịch học do Trường thay đổi thời khóa biểu;\nc) Sinh viên đăng ký b ổ sung thêm môn h ọc do môn h ọc đã đăng ký\nkhông được ",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p49-1",
+              "chunking": "fixed",
+              "end_char": 1400,
+              "chunk_size": 500,
+              "start_char": 900
+            },
+            "score": 0.03200204813108039,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 2,
+              "lexical": 3
+            },
+            "component_scores": {
+              "dense": 0.8605501651763916,
+              "lexical": 0.16068918104207822
+            }
+          },
+          {
+            "id": "ba5d6673b249c29e6f892d0cc046efd31e49bddbb7c1fdbb30e0abc04c3d221e",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 62,
+            "text": "các kỳ thi, giải đấu quốc tế;\nc) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận\ncủa cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế;\nd) Vì lý do cá nhân khác nhưng đã ph ải h ọc t ối thi ểu 01 h ọc k ỳ ở\nTrường và không thu ộc các trư ờng hợp bị xem xét bu ộc thôi h ọc hoặc xem\nxét kỷ luật.\n2. Thời gian nghỉ học tạm thời vì nhu cầu cá nhân phải được tính vào\nthời gian học tập t ối đa quy định tại\nkhoản 5 Điều 2 của Quy chế này.\n3. Sinh viên chỉ được ngh",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p62-1",
+              "chunking": "fixed",
+              "end_char": 500,
+              "chunk_size": 500,
+              "start_char": 0
+            },
+            "score": 0.03128054740957967,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 6,
+              "lexical": 2
+            },
+            "component_scores": {
+              "dense": 0.8469689579624574,
+              "lexical": 0.16651748102578456
+            }
+          },
+          {
+            "id": "749afaed8ea2905834d3bd1f56b281332f223ebffb615a460a16399f4c085d4b",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 61,
+            "text": " viên đư ợc xin ngh ỉ học tạm thời và b ảo lưu k ết quả học tập\ntrong các trường hợp sau:\na) Được điều động vào lực lượng vũ trang;\nb) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p61-1",
+              "chunking": "fixed",
+              "end_char": 2448,
+              "chunk_size": 500,
+              "start_char": 2250
+            },
+            "score": 0.030158730158730156,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 3,
+              "lexical": 10
+            },
+            "component_scores": {
+              "dense": 0.8578876256942749,
+              "lexical": 0.087471619879978
+            }
+          },
+          {
+            "id": "07a9da9cf969b5c601b786feff6e174e2564b441756b143eb85c1fb27ad5b067",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 60,
+            "text": "chương trình đào t ạo (xét mi ễn, giảm môn h ọc) căn c ứ vào kết quả học tập\ncủa người học đã tích lũy từ trình độ đào tạo khác, ngành đào tạo khác, khóa\nhọc khác hoặc từ cơ sở đào tạo khác.\n2. Trường xét miễn, giảm môn học trên cơ sở đối sánh chuẩn đầu ra,\nnội dung và khối lượng học tập, cách thức đánh giá môn học và các điều kiện\nbảo đảm chất lượng thực hiện chương trình theo các cấp độ:\na) Xét miễn, giảm theo từng môn học;\nb) Xét miễn, giảm theo từng nhóm môn học;\nc) Xét miễn, giảm theo cả ch",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p60-1",
+              "chunking": "fixed",
+              "end_char": 1400,
+              "chunk_size": 500,
+              "start_char": 900
+            },
+            "score": 0.028991596638655463,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 10,
+              "lexical": 8
+            },
+            "component_scores": {
+              "dense": 0.8418122028224362,
+              "lexical": 0.09509634779561135
+            }
+          }
+        ],
+        "context": "[c53d32b84480fe7ad847b2451b93b9a6e72b08170a3f2006d1f0933880167872 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 49]\nnhận điểm 0.\n2. Phòng Quản lý đào tạo giải quyết rút bớt khối lượng học tập cho các\ntrường hợp sau:\na) Trùng lịch học do Trường thay đổi thời khóa biểu sau khi sinh viên\nđã đăng ký môn học;\nb) Môn h ọc sinh viên đã đăng ký nhưng Trư ờng không m ở lớp do\nkhông đủ sĩ số tối thiểu theo quy định;\nc) Sinh viên được Trường cho phép miễn môn học;\nd) Sinh viên bị tai nạn đột xuất hoặc nằm viện trong thời gian dài, không\nthể theo học học kỳ đã đăng ký môn h ọc. Trường hợp này sinh viên ph ải có\ngiấy xác \n\n[d0a09b068258b89d86c27d3942ff655bb6330cbfa7f6cb23b9f8915e64222125 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 49]\n h ọc. Trường hợp này sinh viên ph ải có\ngiấy xác nhận của cơ quan y tế cấp quận, huyện trở lên cấp.\n3. Phòng Quản lý đào tạo giải quyết đăng ký thêm khối lượng học tập\nvào các lớp học chưa đầy sĩ số cho các trường hợp:\na) Sinh viên có kết quả thi không đạt của môn học đăng ký học học kỳ\ntrước đó sau khi đã kết thúc thời gian đăng ký môn học trực tuyến;\nb) Sinh viên bị trùng lịch học do Trường thay đổi thời khóa biểu;\nc) Sinh viên đăng ký b ổ sung thêm môn h ọc do môn h ọc đã đăng ký\nkhông được \n\n[ba5d6673b249c29e6f892d0cc046efd31e49bddbb7c1fdbb30e0abc04c3d221e | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 62]\ncác kỳ thi, giải đấu quốc tế;\nc) Bị ốm, thai sản hoặc tai nạn phải điều trị thời gian dài có chứng nhận\ncủa cơ sở khám bệnh, chữa bệnh có thẩm quyền theo quy định của Bộ Y tế;\nd) Vì lý do cá nhân khác nhưng đã ph ải h ọc t ối thi ểu 01 h ọc k ỳ ở\nTrường và không thu ộc các trư ờng hợp bị xem xét bu ộc thôi h ọc hoặc xem\nxét kỷ luật.\n2. Thời gian nghỉ học tạm thời vì nhu cầu cá nhân phải được tính vào\nthời gian học tập t ối đa quy định tại\nkhoản 5 Điều 2 của Quy chế này.\n3. Sinh viên chỉ được ngh\n\n[749afaed8ea2905834d3bd1f56b281332f223ebffb615a460a16399f4c085d4b | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 61]\n viên đư ợc xin ngh ỉ học tạm thời và b ảo lưu k ết quả học tập\ntrong các trường hợp sau:\na) Được điều động vào lực lượng vũ trang;\nb) Được cơ quan có thẩm quyền điều động, đại diện quốc gia tham dự",
+        "context_ids": [
+          "c53d32b84480fe7ad847b2451b93b9a6e72b08170a3f2006d1f0933880167872",
+          "d0a09b068258b89d86c27d3942ff655bb6330cbfa7f6cb23b9f8915e64222125",
+          "ba5d6673b249c29e6f892d0cc046efd31e49bddbb7c1fdbb30e0abc04c3d221e",
+          "749afaed8ea2905834d3bd1f56b281332f223ebffb615a460a16399f4c085d4b"
+        ],
+        "context_changed": true
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "citations": []
+  },
+  {
+    "query_id": "test_04",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "miễn giảm tối đa bao nhiêu phần trăm số tín chỉ tối thiểu của chương trình đào tạo",
+        "filter": null,
+        "results": [
+          {
+            "id": "ffda54b3dc0e8e5a8584fead888ea7ac3db407d1ebf61120782a6f95e4172179",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 60,
+            "text": "eo từng nhóm môn học;\nc) Xét miễn, giảm theo cả chương trình đào tạo.\n3. Trường công b ố công khai Quy đ ịnh xét mi ễn, giảm môn h ọc trên\ntrang thông tin điện tử của Trường và của Phòng Quản lý đào tạo. Số tín chỉ\nđược xét miễn, giảm không vượt quá 50% số tín chỉ tối thiểu của chương trình\nđào tạo.\n\nĐiều 26. Công nhận tốt nghiệp và cấp bằng tốt nghiệp\n1. Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện\nsau:\na) Tích lũy đ ủ môn học, số tín chỉ và hoàn thành các n ội dung b ắt\nb",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p60-1",
+              "chunking": "fixed",
+              "end_char": 1850,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 1,
+              "lexical": 1
+            },
+            "component_scores": {
+              "dense": 0.8758137896171949,
+              "lexical": 0.41899025815255464
+            }
+          },
+          {
+            "id": "691e66c08c7c8c00d5a4aeed3934f7bf27599f4addb0f671b5a303b5e5e5ea6a",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 47,
+            "text": " theo k ế\nhoạch học tập chuẩn toàn khoá giảm tương ứng với khối lượng được miễn.\nĐiều 3. Phương thức tổ chức đào tạo\nTrường tổ chức đào tạo trình độ đại học hình thức đào tạo chính quy\ntheo phương thức đào tạo theo tín chỉ, cụ thể như sau:\n1. Tổ chức đào tạo theo từng lớp môn học, cho phép sinh viên tích lũy\ntín chỉ của từng môn học và thực hiện chương trình đào tạo theo kế hoạch học\ntập của cá nhân, phù hợp với kế hoạch giảng dạy của Trường;\n2. Sinh viên không đạt một môn học bắt buộc sẽ phải h",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p47-1",
+              "chunking": "fixed",
+              "end_char": 950,
+              "chunk_size": 500,
+              "start_char": 450
+            },
+            "score": 0.03125763125763126,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 3,
+              "lexical": 5
+            },
+            "component_scores": {
+              "dense": 0.8730793670964634,
+              "lexical": 0.24169961376956278
+            }
+          },
+          {
+            "id": "a35521660ab345d658a82aff62f68d8e1330f275319c66e31cb9522570855883",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 47,
+            "text": "khoá phù h ợp với thời gian quy đ ịnh trong Khung cơ c ấu hệ thống giáo d ục\nquốc dân, đ ồng thời đảm bảo đa s ố sinh viên hoàn thành chương trình đào\ntạo.\n5. Thời gian tối đa để sinh viên hoàn thành khoá h ọc không vượt quá\n02 lần thời gian theo kế hoạch học tập chuẩn toàn khoá. Đối với sinh viên học\nliên thông đã đư ợc miễn, giảm khối lượng tín chỉ tích lũy, thời gian tối đa để\nsinh viên hoàn thành khóa h ọc được xác đ ịnh trên cơ s ở thời gian theo k ế\nhoạch học tập chuẩn toàn khoá giảm tương",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p47-1",
+              "chunking": "fixed",
+              "end_char": 500,
+              "chunk_size": 500,
+              "start_char": 0
+            },
+            "score": 0.03125763125763126,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 5,
+              "lexical": 3
+            },
+            "component_scores": {
+              "dense": 0.8719685750026376,
+              "lexical": 0.2791669137100287
+            }
+          },
+          {
+            "id": "07a9da9cf969b5c601b786feff6e174e2564b441756b143eb85c1fb27ad5b067",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 60,
+            "text": "chương trình đào t ạo (xét mi ễn, giảm môn h ọc) căn c ứ vào kết quả học tập\ncủa người học đã tích lũy từ trình độ đào tạo khác, ngành đào tạo khác, khóa\nhọc khác hoặc từ cơ sở đào tạo khác.\n2. Trường xét miễn, giảm môn học trên cơ sở đối sánh chuẩn đầu ra,\nnội dung và khối lượng học tập, cách thức đánh giá môn học và các điều kiện\nbảo đảm chất lượng thực hiện chương trình theo các cấp độ:\na) Xét miễn, giảm theo từng môn học;\nb) Xét miễn, giảm theo từng nhóm môn học;\nc) Xét miễn, giảm theo cả ch",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p60-1",
+              "chunking": "fixed",
+              "end_char": 1400,
+              "chunk_size": 500,
+              "start_char": 900
+            },
+            "score": 0.03055037313432836,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 7,
+              "lexical": 4
+            },
+            "component_scores": {
+              "dense": 0.8685745157510619,
+              "lexical": 0.2790279460816075
+            }
+          },
+          {
+            "id": "f51970378363535cd39db86468102cbb2a6ac78069a0fe932d212641b38968b7",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 60,
+            "text": "dưới\n0,8 đối với học kỳ đầu của khóa học, dưới 1,0 đối với các học kỳ tiếp theo hoặc\ntự ý nghỉ học (không đăng ký môn học).\n3. Phòng Quản lý đào t ạo là đơn v ị thực hiện việc cảnh báo học tập,\ngửi thông tin đ ến sinh viên và Khoa qu ản lý ngành đào t ạo để Khoa có biện\npháp hỗ trợ sinh viên học tập.\n\nĐiều 25. Công nhận kết quả học tập và chuyển đổi tín chỉ (Miễn,\ngiảm môn học)\n1. Trường công nh ận và chuy ển đổi sang tín ch ỉ các môn h ọc trong\nchương trình đào t ạo (xét mi ễn, giảm môn h ọc) c",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p60-1",
+              "chunking": "fixed",
+              "end_char": 950,
+              "chunk_size": 500,
+              "start_char": 450
+            },
+            "score": 0.030017921146953404,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 2,
+              "lexical": 12
+            },
+            "component_scores": {
+              "dense": 0.8745166808942937,
+              "lexical": 0.17033757623138193
+            }
+          }
+        ],
+        "context": "[ffda54b3dc0e8e5a8584fead888ea7ac3db407d1ebf61120782a6f95e4172179 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 60]\neo từng nhóm môn học;\nc) Xét miễn, giảm theo cả chương trình đào tạo.\n3. Trường công b ố công khai Quy đ ịnh xét mi ễn, giảm môn h ọc trên\ntrang thông tin điện tử của Trường và của Phòng Quản lý đào tạo. Số tín chỉ\nđược xét miễn, giảm không vượt quá 50% số tín chỉ tối thiểu của chương trình\nđào tạo.\n\nĐiều 26. Công nhận tốt nghiệp và cấp bằng tốt nghiệp\n1. Sinh viên được xét và công nhận tốt nghiệp khi có đủ các điều kiện\nsau:\na) Tích lũy đ ủ môn học, số tín chỉ và hoàn thành các n ội dung b ắt\nb\n\n[691e66c08c7c8c00d5a4aeed3934f7bf27599f4addb0f671b5a303b5e5e5ea6a | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 47]\n theo k ế\nhoạch học tập chuẩn toàn khoá giảm tương ứng với khối lượng được miễn.\nĐiều 3. Phương thức tổ chức đào tạo\nTrường tổ chức đào tạo trình độ đại học hình thức đào tạo chính quy\ntheo phương thức đào tạo theo tín chỉ, cụ thể như sau:\n1. Tổ chức đào tạo theo từng lớp môn học, cho phép sinh viên tích lũy\ntín chỉ của từng môn học và thực hiện chương trình đào tạo theo kế hoạch học\ntập của cá nhân, phù hợp với kế hoạch giảng dạy của Trường;\n2. Sinh viên không đạt một môn học bắt buộc sẽ phải h\n\n[a35521660ab345d658a82aff62f68d8e1330f275319c66e31cb9522570855883 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 47]\nkhoá phù h ợp với thời gian quy đ ịnh trong Khung cơ c ấu hệ thống giáo d ục\nquốc dân, đ ồng thời đảm bảo đa s ố sinh viên hoàn thành chương trình đào\ntạo.\n5. Thời gian tối đa để sinh viên hoàn thành khoá h ọc không vượt quá\n02 lần thời gian theo kế hoạch học tập chuẩn toàn khoá. Đối với sinh viên học\nliên thông đã đư ợc miễn, giảm khối lượng tín chỉ tích lũy, thời gian tối đa để\nsinh viên hoàn thành khóa h ọc được xác đ ịnh trên cơ s ở thời gian theo k ế\nhoạch học tập chuẩn toàn khoá giảm tương",
+        "context_ids": [
+          "ffda54b3dc0e8e5a8584fead888ea7ac3db407d1ebf61120782a6f95e4172179",
+          "691e66c08c7c8c00d5a4aeed3934f7bf27599f4addb0f671b5a303b5e5e5ea6a",
+          "a35521660ab345d658a82aff62f68d8e1330f275319c66e31cb9522570855883"
+        ],
+        "context_changed": true
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "citations": [
+      "ffda54b3dc0e8e5a8584fead888ea7ac3db407d1ebf61120782a6f95e4172179"
+    ]
+  },
+  {
+    "query_id": "test_05",
+    "status": "answered",
+    "events": [
+      {
+        "event": "search",
+        "query": "tổ chức đào tạo ngoại ngữ không chuyên khối lượng tiếng Anh đăng ký tối thiểu mỗi học kỳ",
+        "filter": null,
+        "results": [
+          {
+            "id": "f34d018a852453569068a8df7700ab4cfef49a65e48eca73cae0591f5da3eb79",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 71,
+            "text": "cao\nđạt chuẩn đầu ra ngo ại ngữ hai tương đương b ậc 3/6 theo Khung năng l ực\nngoại ngữ 6 bậc dành cho Việt Nam.\n\nĐiều 7. Tổ chức đào tạo ngoại ngữ không chuyên\n1. Tiếng Anh\na) Sinh viên bắt buộc phải đăng ký học tiếng Anh theo lộ trình học tiếng\nAnh cá nhân, được xác định tại kỳ kiểm tra trình độ tiếng Anh đầu vào.\nb) Khối lượng tiếng Anh đăng ký tối thiểu 6 tín chỉ mỗi học kỳ.\n2. Ngoại ngữ hai\nKhông bắt buộc đăng ký h ọc mỗi học kỳ. Sinh viên đăng ký h ọc theo\ntrình tự các môn học của chương t",
+            "metadata": {
+              "overlap": 50,
+              "section": "ngoai_ngu_khong_chuyen",
+              "unit_id": "ou_handbook_2024-p71-1",
+              "chunking": "fixed",
+              "end_char": 1400,
+              "chunk_size": 500,
+              "start_char": 900
+            },
+            "score": 0.03278688524590164,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 1,
+              "lexical": 1
+            },
+            "component_scores": {
+              "dense": 0.9210033416748047,
+              "lexical": 0.6336428803310706
+            }
+          },
+          {
+            "id": "3442077b494818af37126c41bdcec4c8cc53dd1e7ae56c9041437b285ef3b721",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 74,
+            "text": "tiếng\nAnh\nchươn\ng trình\nchất\nlượng\ncao\n\nĐiều 9. Xét miễn ngoại ngữ không chuyên\nTrường xét miễn ngoại ngữ không chuyên vào đầu mỗi học kỳ, theo kế\nhoạch đào tạo năm học.\n1. Xét miễn tiếng Anh\nTrường xét miễn tiếng Anh căn cứ vào lộ trình học tiếng Anh của từng\nsinh viên. Các c ấp độ tiếng Anh sinh viên không đăng ký h ọc khi chưa n ộp",
+            "metadata": {
+              "overlap": 50,
+              "section": "ngoai_ngu_khong_chuyen",
+              "unit_id": "ou_handbook_2024-p74-1",
+              "chunking": "fixed",
+              "end_char": 1686,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.031754032258064516,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 2,
+              "lexical": 4
+            },
+            "component_scores": {
+              "dense": 0.9055620431900024,
+              "lexical": 0.47606791726916836
+            }
+          },
+          {
+            "id": "cc5790e42f30a2b3a0bd98f60896b2636dbb6705792044c0e5b3cd7a3ccd2d7d",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 69,
+            "text": "3. Chuẩn đầu ra ngoại ngữ không chuyên là năng lực ngoại ngữ\nkhông chuyên tối thiểu mà sinh viên phải đạt để theo học chương trình ngoại\nngữ không chuyên trong CTĐT.\nĐiều 3. Chuẩn đầu vào ngoại ngữ không chuyên\n1. Tiếng Anh\na) Chuẩn đầu vào tiếng Anh của Trường là bậc 2/6 theo Khung năng\nlực ngoại ngữ 6 bậc dành cho Việt Nam.\nb) Trường tổ chức kiểm tra trình đ ộ tiếng Anh cho tân sinh viên các\nngành không chuyên ng ữ chương trình chu ẩn, các ngành ngôn ng ữ chất\nlượng cao (trừ ngành Ngôn ngữ Anh",
+            "metadata": {
+              "overlap": 50,
+              "section": "ngoai_ngu_khong_chuyen",
+              "unit_id": "ou_handbook_2024-p69-1",
+              "chunking": "fixed",
+              "end_char": 500,
+              "chunk_size": 500,
+              "start_char": 0
+            },
+            "score": 0.031754032258064516,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 4,
+              "lexical": 2
+            },
+            "component_scores": {
+              "dense": 0.9002693891525269,
+              "lexical": 0.5008658588499477
+            }
+          },
+          {
+            "id": "fe5d51bfa2f416809019987f96be27463f3a17143ad16b7cf8ee0ca0a8918dd8",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 68,
+            "text": ").\n2. Quy định này áp d ụng cho gi ảng viên, viên ch ức, người lao đ ộng\ntham gia tổ chức đào tạo và sinh viên theo học đại học hình thức đào tạo chính\nquy của Trường từ khoá tuyển sinh 2024 trở về sau.\nĐiều 2. Giải thích từ ngữ\n1. Ngoại ngữ không chuyên là tiếng Anh trong chương trình đào tạo\n(CTĐT) các ngành không chuyên ng ữ, ngoại ngữ hai trong CTĐT các ngành\nchuyên ngữ và ngành Đông Nam Á học.\n2. Chuẩn đ ầu vào ngoại ng ữ không chuyên là tiếng Anh trong\nchương trình đào t ạo (CTĐT) các ngàn",
+            "metadata": {
+              "overlap": 50,
+              "section": "ngoai_ngu_khong_chuyen",
+              "unit_id": "ou_handbook_2024-p68-2",
+              "chunking": "fixed",
+              "end_char": 950,
+              "chunk_size": 500,
+              "start_char": 450
+            },
+            "score": 0.03125763125763126,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 3,
+              "lexical": 5
+            },
+            "component_scores": {
+              "dense": 0.9010924369422332,
+              "lexical": 0.39459504867743034
+            }
+          },
+          {
+            "id": "a55ef6b1135c49332b7ab3bb57607329cb5274aeaad01cbb547b9dcfe21ab41a",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 69,
+            "text": "h ngôn ng ữ chất\nlượng cao (trừ ngành Ngôn ngữ Anh) để xếp lớp tiếng Anh phù hợp với năng\nlực.\nc) Sinh viên không đ ạt năng l ực ti ếng Anh đ ầu vào ph ải theo h ọc\nchương trình tiếng Anh dự bị.\n2. Ngoại ngữ hai\na) Trường không quy định chuẩn đầu vào ngoại ngữ hai.\nb) Trường không tổ chức kiểm tra trình độ đầu vào ngoại ngữ hai cho\ntân sinh viên (trừ các ngành ngôn ng ữ chất lượng cao có đào t ạo ngoại ngữ\nhai là tiếng Anh).\nĐiều 4. Chương trình Tiếng Anh dự bị\n1. Chương trình tiếng Anh dự bị có",
+            "metadata": {
+              "overlap": 50,
+              "section": "ngoai_ngu_khong_chuyen",
+              "unit_id": "ou_handbook_2024-p69-1",
+              "chunking": "fixed",
+              "end_char": 950,
+              "chunk_size": 500,
+              "start_char": 450
+            },
+            "score": 0.030303030303030304,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 6,
+              "lexical": 6
+            },
+            "component_scores": {
+              "dense": 0.886807918548584,
+              "lexical": 0.3890358923112337
+            }
+          }
+        ],
+        "context": "[f34d018a852453569068a8df7700ab4cfef49a65e48eca73cae0591f5da3eb79 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 71]\ncao\nđạt chuẩn đầu ra ngo ại ngữ hai tương đương b ậc 3/6 theo Khung năng l ực\nngoại ngữ 6 bậc dành cho Việt Nam.\n\nĐiều 7. Tổ chức đào tạo ngoại ngữ không chuyên\n1. Tiếng Anh\na) Sinh viên bắt buộc phải đăng ký học tiếng Anh theo lộ trình học tiếng\nAnh cá nhân, được xác định tại kỳ kiểm tra trình độ tiếng Anh đầu vào.\nb) Khối lượng tiếng Anh đăng ký tối thiểu 6 tín chỉ mỗi học kỳ.\n2. Ngoại ngữ hai\nKhông bắt buộc đăng ký h ọc mỗi học kỳ. Sinh viên đăng ký h ọc theo\ntrình tự các môn học của chương t\n\n[3442077b494818af37126c41bdcec4c8cc53dd1e7ae56c9041437b285ef3b721 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 74]\ntiếng\nAnh\nchươn\ng trình\nchất\nlượng\ncao\n\nĐiều 9. Xét miễn ngoại ngữ không chuyên\nTrường xét miễn ngoại ngữ không chuyên vào đầu mỗi học kỳ, theo kế\nhoạch đào tạo năm học.\n1. Xét miễn tiếng Anh\nTrường xét miễn tiếng Anh căn cứ vào lộ trình học tiếng Anh của từng\nsinh viên. Các c ấp độ tiếng Anh sinh viên không đăng ký h ọc khi chưa n ộp\n\n[cc5790e42f30a2b3a0bd98f60896b2636dbb6705792044c0e5b3cd7a3ccd2d7d | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 69]\n3. Chuẩn đầu ra ngoại ngữ không chuyên là năng lực ngoại ngữ\nkhông chuyên tối thiểu mà sinh viên phải đạt để theo học chương trình ngoại\nngữ không chuyên trong CTĐT.\nĐiều 3. Chuẩn đầu vào ngoại ngữ không chuyên\n1. Tiếng Anh\na) Chuẩn đầu vào tiếng Anh của Trường là bậc 2/6 theo Khung năng\nlực ngoại ngữ 6 bậc dành cho Việt Nam.\nb) Trường tổ chức kiểm tra trình đ ộ tiếng Anh cho tân sinh viên các\nngành không chuyên ng ữ chương trình chu ẩn, các ngành ngôn ng ữ chất\nlượng cao (trừ ngành Ngôn ngữ Anh\n\n[fe5d51bfa2f416809019987f96be27463f3a17143ad16b7cf8ee0ca0a8918dd8 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 68]\n).\n2. Quy định này áp d ụng cho gi ảng viên, viên ch ức, người lao đ ộng\ntham gia tổ chức đào tạo và sinh viên theo học đại học hình thức đào tạo chính\nquy của Trường từ khoá tuyển sinh 2024 trở về sau.\nĐiều 2. Giải thích từ ngữ\n1. Ngoại ngữ không chuyên là tiếng Anh trong chương trình đào tạo\n(CTĐT) các ngành không chuyên ng ữ, ngoại ngữ hai trong CTĐT các ngành\nchuyên ngữ và ngành Đông Nam Á học.\n2. Chuẩn đ ầu vào ngoại ng ữ không chuyên là tiếng Anh trong\nchương trình đào t ạo (CTĐT) các ngàn",
+        "context_ids": [
+          "f34d018a852453569068a8df7700ab4cfef49a65e48eca73cae0591f5da3eb79",
+          "3442077b494818af37126c41bdcec4c8cc53dd1e7ae56c9041437b285ef3b721",
+          "cc5790e42f30a2b3a0bd98f60896b2636dbb6705792044c0e5b3cd7a3ccd2d7d",
+          "fe5d51bfa2f416809019987f96be27463f3a17143ad16b7cf8ee0ca0a8918dd8"
+        ],
+        "context_changed": true
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "citations": [
+      "f34d018a852453569068a8df7700ab4cfef49a65e48eca73cae0591f5da3eb79"
+    ]
+  },
+  {
+    "query_id": "test_missing_01",
+    "status": "abstain",
+    "events": [
+      {
+        "event": "search",
+        "query": "hệ thống đăng ký môn học ngôn ngữ lập trình hệ quản trị cơ sở dữ liệu",
+        "filter": null,
+        "results": [
+          {
+            "id": "81e93137fe241b6f178665ea6cbc9ff9d002ccfff2cd5708140c73562dead42b",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 48,
+            "text": " biểu của\ncác lớp môn học bình thường được bố trí đều trong các tuần của học kỳ. Trong\ntrường hợp cần thiết phải xếp lịch học tập trung thời gian, số giờ giảng đối với\nmột môn học bất kỳ không vượt quá 15 giờ/tuần và 4 giờ/ngày.\nĐiều 6. Tổ chức đăng ký học tập\n1. Mỗi học kỳ, Phòng Quản lý đào t ạo tổ chức cho sinh viên đăng ký\nmôn học 02 lần, bao gồm: đăng ký bình thường (đăng ký môn học trực tuyến)\nvà đăng ký trễ hạn.\na) Đăng ký môn học trực tuyến là hình thức đăng ký thông qua Internet\nđược th",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p48-1",
+              "chunking": "fixed",
+              "end_char": 950,
+              "chunk_size": 500,
+              "start_char": 450
+            },
+            "score": 0.03200204813108039,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 3,
+              "lexical": 2
+            },
+            "component_scores": {
+              "dense": 0.8788036108016968,
+              "lexical": 0.18051097437707636
+            }
+          },
+          {
+            "id": "721ee115a9bf38c5e7ef797337bbc6d80d734dbe608a4012b2dd8304079c84dc",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 48,
+            "text": "kế hoạch học tập chuẩn;\nb) Khối lượng tối đa không vượt quá 3/2 khối lượng trung bình một học\nkỳ theo kế hoạch học tập chuẩn.\nĐiều 7. Đăng ký môn học trực tuyến\n1. Trước khi bắt đầu mỗi học kỳ, Phòng Quản lý đào t ạo công bố kế\nhoạch đăng ký môn h ọc trực tuyến và tổ chức các lớp tập huấn, hướng dẫn\nsinh viên đăng ký môn học trực tuyến.\n2. Trong thời gian đăng ký môn học trực tuyến, căn cứ vào danh sách\nmôn học được mở và điều kiện đăng ký của mỗi môn học, sinh viên đăng ký\nlớp của các môn học d",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p48-1",
+              "chunking": "fixed",
+              "end_char": 1850,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.03149801587301587,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 4,
+              "lexical": 3
+            },
+            "component_scores": {
+              "dense": 0.8759265207030337,
+              "lexical": 0.17742673582382404
+            }
+          },
+          {
+            "id": "85d0afa5d941514bd10442147948a4703f2b0dc25ae0c015d09226f5c30084b4",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 48,
+            "text": "i môn học, sinh viên đăng ký\nlớp của các môn học dự định sẽ học trong học kỳ theo sự tư vấn của cố vấn\nhọc tập, gồm:\na) Những môn học mới,\nb) Một số môn học chưa đạt (học lại),\nc) Một số môn học đã đạt (cải thiện điểm),\nd) Một số môn học của khóa trước (học vượt).\n3. Để được đăng ký học vư ợt các môn h ọc cơ s ở ngành, ngành,\nchuyên ngành, sinh viên ph ải làm đơn xin phép học vượt, được cố vấn học\ntập phê duyệt và gửi đơn cho Phòng Quản lý đào tạo để đăng ký môn học.\n4. Tổ chức các lớp học theo ",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p48-1",
+              "chunking": "fixed",
+              "end_char": 2300,
+              "chunk_size": 500,
+              "start_char": 1800
+            },
+            "score": 0.030309988518943745,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 5,
+              "lexical": 7
+            },
+            "component_scores": {
+              "dense": 0.8719554023769274,
+              "lexical": 0.1561476916336074
+            }
+          },
+          {
+            "id": "4cc8e22a1265c3c7d21244cad65f9567464f1835b66d8167d48663731cef95d8",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 49,
+            "text": "g thêm môn h ọc do môn h ọc đã đăng ký\nkhông được mở lớp.\nĐiều 9. Tổ chức giảng dạy và học tập\n1. Trường thực hiện ứng dụng công nghệ thông tin trong quản lý và tổ\nchức giảng dạy nhằm đổi mới phương pháp dạy và học, nâng cao chất lượng\nđào tạo. Các hoạt động dạy và học trực tuyến (bài giảng, video clip, bài t ập,\ndiễn đàn thảo luận…) được thực hiện trên Hệ thống quản lý học tập (LMS).\n2. Trường t ổ chức th ực hi ện t ối đa 30% kh ối lư ợng gi ảng d ạy c ủa\nchương trình đào tạo theo hình thức trự",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p49-1",
+              "chunking": "fixed",
+              "end_char": 1850,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.03028233151183971,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 1,
+              "lexical": 12
+            },
+            "component_scores": {
+              "dense": 0.885708577292648,
+              "lexical": 0.14656072390953154
+            }
+          },
+          {
+            "id": "d0a09b068258b89d86c27d3942ff655bb6330cbfa7f6cb23b9f8915e64222125",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 49,
+            "text": " h ọc. Trường hợp này sinh viên ph ải có\ngiấy xác nhận của cơ quan y tế cấp quận, huyện trở lên cấp.\n3. Phòng Quản lý đào tạo giải quyết đăng ký thêm khối lượng học tập\nvào các lớp học chưa đầy sĩ số cho các trường hợp:\na) Sinh viên có kết quả thi không đạt của môn học đăng ký học học kỳ\ntrước đó sau khi đã kết thúc thời gian đăng ký môn học trực tuyến;\nb) Sinh viên bị trùng lịch học do Trường thay đổi thời khóa biểu;\nc) Sinh viên đăng ký b ổ sung thêm môn h ọc do môn h ọc đã đăng ký\nkhông được ",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p49-1",
+              "chunking": "fixed",
+              "end_char": 1400,
+              "chunk_size": 500,
+              "start_char": 900
+            },
+            "score": 0.02844551282051282,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 18,
+              "lexical": 4
+            },
+            "component_scores": {
+              "dense": 0.8619470596313477,
+              "lexical": 0.16857382622872738
+            }
+          }
+        ],
+        "context": "[81e93137fe241b6f178665ea6cbc9ff9d002ccfff2cd5708140c73562dead42b | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 48]\n biểu của\ncác lớp môn học bình thường được bố trí đều trong các tuần của học kỳ. Trong\ntrường hợp cần thiết phải xếp lịch học tập trung thời gian, số giờ giảng đối với\nmột môn học bất kỳ không vượt quá 15 giờ/tuần và 4 giờ/ngày.\nĐiều 6. Tổ chức đăng ký học tập\n1. Mỗi học kỳ, Phòng Quản lý đào t ạo tổ chức cho sinh viên đăng ký\nmôn học 02 lần, bao gồm: đăng ký bình thường (đăng ký môn học trực tuyến)\nvà đăng ký trễ hạn.\na) Đăng ký môn học trực tuyến là hình thức đăng ký thông qua Internet\nđược th\n\n[721ee115a9bf38c5e7ef797337bbc6d80d734dbe608a4012b2dd8304079c84dc | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 48]\nkế hoạch học tập chuẩn;\nb) Khối lượng tối đa không vượt quá 3/2 khối lượng trung bình một học\nkỳ theo kế hoạch học tập chuẩn.\nĐiều 7. Đăng ký môn học trực tuyến\n1. Trước khi bắt đầu mỗi học kỳ, Phòng Quản lý đào t ạo công bố kế\nhoạch đăng ký môn h ọc trực tuyến và tổ chức các lớp tập huấn, hướng dẫn\nsinh viên đăng ký môn học trực tuyến.\n2. Trong thời gian đăng ký môn học trực tuyến, căn cứ vào danh sách\nmôn học được mở và điều kiện đăng ký của mỗi môn học, sinh viên đăng ký\nlớp của các môn học d\n\n[85d0afa5d941514bd10442147948a4703f2b0dc25ae0c015d09226f5c30084b4 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 48]\ni môn học, sinh viên đăng ký\nlớp của các môn học dự định sẽ học trong học kỳ theo sự tư vấn của cố vấn\nhọc tập, gồm:\na) Những môn học mới,\nb) Một số môn học chưa đạt (học lại),\nc) Một số môn học đã đạt (cải thiện điểm),\nd) Một số môn học của khóa trước (học vượt).\n3. Để được đăng ký học vư ợt các môn h ọc cơ s ở ngành, ngành,\nchuyên ngành, sinh viên ph ải làm đơn xin phép học vượt, được cố vấn học\ntập phê duyệt và gửi đơn cho Phòng Quản lý đào tạo để đăng ký môn học.\n4. Tổ chức các lớp học theo ",
+        "context_ids": [
+          "81e93137fe241b6f178665ea6cbc9ff9d002ccfff2cd5708140c73562dead42b",
+          "721ee115a9bf38c5e7ef797337bbc6d80d734dbe608a4012b2dd8304079c84dc",
+          "85d0afa5d941514bd10442147948a4703f2b0dc25ae0c015d09226f5c30084b4"
+        ],
+        "context_changed": true
+      },
+      {
+        "event": "search",
+        "query": "ngôn ngữ lập trình hệ quản trị cơ sở dữ liệu hệ thống đăng ký môn học",
+        "filter": null,
+        "results": [
+          {
+            "id": "81e93137fe241b6f178665ea6cbc9ff9d002ccfff2cd5708140c73562dead42b",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 48,
+            "text": " biểu của\ncác lớp môn học bình thường được bố trí đều trong các tuần của học kỳ. Trong\ntrường hợp cần thiết phải xếp lịch học tập trung thời gian, số giờ giảng đối với\nmột môn học bất kỳ không vượt quá 15 giờ/tuần và 4 giờ/ngày.\nĐiều 6. Tổ chức đăng ký học tập\n1. Mỗi học kỳ, Phòng Quản lý đào t ạo tổ chức cho sinh viên đăng ký\nmôn học 02 lần, bao gồm: đăng ký bình thường (đăng ký môn học trực tuyến)\nvà đăng ký trễ hạn.\na) Đăng ký môn học trực tuyến là hình thức đăng ký thông qua Internet\nđược th",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p48-1",
+              "chunking": "fixed",
+              "end_char": 950,
+              "chunk_size": 500,
+              "start_char": 450
+            },
+            "score": 0.03225806451612903,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 2,
+              "lexical": 2
+            },
+            "component_scores": {
+              "dense": 0.8834162950515747,
+              "lexical": 0.18051097437707636
+            }
+          },
+          {
+            "id": "721ee115a9bf38c5e7ef797337bbc6d80d734dbe608a4012b2dd8304079c84dc",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 48,
+            "text": "kế hoạch học tập chuẩn;\nb) Khối lượng tối đa không vượt quá 3/2 khối lượng trung bình một học\nkỳ theo kế hoạch học tập chuẩn.\nĐiều 7. Đăng ký môn học trực tuyến\n1. Trước khi bắt đầu mỗi học kỳ, Phòng Quản lý đào t ạo công bố kế\nhoạch đăng ký môn h ọc trực tuyến và tổ chức các lớp tập huấn, hướng dẫn\nsinh viên đăng ký môn học trực tuyến.\n2. Trong thời gian đăng ký môn học trực tuyến, căn cứ vào danh sách\nmôn học được mở và điều kiện đăng ký của mỗi môn học, sinh viên đăng ký\nlớp của các môn học d",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p48-1",
+              "chunking": "fixed",
+              "end_char": 1850,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.03149801587301587,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 4,
+              "lexical": 3
+            },
+            "component_scores": {
+              "dense": 0.8812954688458289,
+              "lexical": 0.17742673582382404
+            }
+          },
+          {
+            "id": "85d0afa5d941514bd10442147948a4703f2b0dc25ae0c015d09226f5c30084b4",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 48,
+            "text": "i môn học, sinh viên đăng ký\nlớp của các môn học dự định sẽ học trong học kỳ theo sự tư vấn của cố vấn\nhọc tập, gồm:\na) Những môn học mới,\nb) Một số môn học chưa đạt (học lại),\nc) Một số môn học đã đạt (cải thiện điểm),\nd) Một số môn học của khóa trước (học vượt).\n3. Để được đăng ký học vư ợt các môn h ọc cơ s ở ngành, ngành,\nchuyên ngành, sinh viên ph ải làm đơn xin phép học vượt, được cố vấn học\ntập phê duyệt và gửi đơn cho Phòng Quản lý đào tạo để đăng ký môn học.\n4. Tổ chức các lớp học theo ",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p48-1",
+              "chunking": "fixed",
+              "end_char": 2300,
+              "chunk_size": 500,
+              "start_char": 1800
+            },
+            "score": 0.030309988518943745,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 5,
+              "lexical": 7
+            },
+            "component_scores": {
+              "dense": 0.8778716994600491,
+              "lexical": 0.1561476916336074
+            }
+          },
+          {
+            "id": "4cc8e22a1265c3c7d21244cad65f9567464f1835b66d8167d48663731cef95d8",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 49,
+            "text": "g thêm môn h ọc do môn h ọc đã đăng ký\nkhông được mở lớp.\nĐiều 9. Tổ chức giảng dạy và học tập\n1. Trường thực hiện ứng dụng công nghệ thông tin trong quản lý và tổ\nchức giảng dạy nhằm đổi mới phương pháp dạy và học, nâng cao chất lượng\nđào tạo. Các hoạt động dạy và học trực tuyến (bài giảng, video clip, bài t ập,\ndiễn đàn thảo luận…) được thực hiện trên Hệ thống quản lý học tập (LMS).\n2. Trường t ổ chức th ực hi ện t ối đa 30% kh ối lư ợng gi ảng d ạy c ủa\nchương trình đào tạo theo hình thức trự",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p49-1",
+              "chunking": "fixed",
+              "end_char": 1850,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.03028233151183971,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 1,
+              "lexical": 12
+            },
+            "component_scores": {
+              "dense": 0.893172926117605,
+              "lexical": 0.14656072390953154
+            }
+          },
+          {
+            "id": "f34d018a852453569068a8df7700ab4cfef49a65e48eca73cae0591f5da3eb79",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 71,
+            "text": "cao\nđạt chuẩn đầu ra ngo ại ngữ hai tương đương b ậc 3/6 theo Khung năng l ực\nngoại ngữ 6 bậc dành cho Việt Nam.\n\nĐiều 7. Tổ chức đào tạo ngoại ngữ không chuyên\n1. Tiếng Anh\na) Sinh viên bắt buộc phải đăng ký học tiếng Anh theo lộ trình học tiếng\nAnh cá nhân, được xác định tại kỳ kiểm tra trình độ tiếng Anh đầu vào.\nb) Khối lượng tiếng Anh đăng ký tối thiểu 6 tín chỉ mỗi học kỳ.\n2. Ngoại ngữ hai\nKhông bắt buộc đăng ký h ọc mỗi học kỳ. Sinh viên đăng ký h ọc theo\ntrình tự các môn học của chương t",
+            "metadata": {
+              "overlap": 50,
+              "section": "ngoai_ngu_khong_chuyen",
+              "unit_id": "ou_handbook_2024-p71-1",
+              "chunking": "fixed",
+              "end_char": 1400,
+              "chunk_size": 500,
+              "start_char": 900
+            },
+            "score": 0.02813852813852814,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 17,
+              "lexical": 6
+            },
+            "component_scores": {
+              "dense": 0.8677812814712524,
+              "lexical": 0.1615486529731219
+            }
+          }
+        ],
+        "context": "[81e93137fe241b6f178665ea6cbc9ff9d002ccfff2cd5708140c73562dead42b | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 48]\n biểu của\ncác lớp môn học bình thường được bố trí đều trong các tuần của học kỳ. Trong\ntrường hợp cần thiết phải xếp lịch học tập trung thời gian, số giờ giảng đối với\nmột môn học bất kỳ không vượt quá 15 giờ/tuần và 4 giờ/ngày.\nĐiều 6. Tổ chức đăng ký học tập\n1. Mỗi học kỳ, Phòng Quản lý đào t ạo tổ chức cho sinh viên đăng ký\nmôn học 02 lần, bao gồm: đăng ký bình thường (đăng ký môn học trực tuyến)\nvà đăng ký trễ hạn.\na) Đăng ký môn học trực tuyến là hình thức đăng ký thông qua Internet\nđược th\n\n[721ee115a9bf38c5e7ef797337bbc6d80d734dbe608a4012b2dd8304079c84dc | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 48]\nkế hoạch học tập chuẩn;\nb) Khối lượng tối đa không vượt quá 3/2 khối lượng trung bình một học\nkỳ theo kế hoạch học tập chuẩn.\nĐiều 7. Đăng ký môn học trực tuyến\n1. Trước khi bắt đầu mỗi học kỳ, Phòng Quản lý đào t ạo công bố kế\nhoạch đăng ký môn h ọc trực tuyến và tổ chức các lớp tập huấn, hướng dẫn\nsinh viên đăng ký môn học trực tuyến.\n2. Trong thời gian đăng ký môn học trực tuyến, căn cứ vào danh sách\nmôn học được mở và điều kiện đăng ký của mỗi môn học, sinh viên đăng ký\nlớp của các môn học d\n\n[85d0afa5d941514bd10442147948a4703f2b0dc25ae0c015d09226f5c30084b4 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 48]\ni môn học, sinh viên đăng ký\nlớp của các môn học dự định sẽ học trong học kỳ theo sự tư vấn của cố vấn\nhọc tập, gồm:\na) Những môn học mới,\nb) Một số môn học chưa đạt (học lại),\nc) Một số môn học đã đạt (cải thiện điểm),\nd) Một số môn học của khóa trước (học vượt).\n3. Để được đăng ký học vư ợt các môn h ọc cơ s ở ngành, ngành,\nchuyên ngành, sinh viên ph ải làm đơn xin phép học vượt, được cố vấn học\ntập phê duyệt và gửi đơn cho Phòng Quản lý đào tạo để đăng ký môn học.\n4. Tổ chức các lớp học theo ",
+        "context_ids": [
+          "81e93137fe241b6f178665ea6cbc9ff9d002ccfff2cd5708140c73562dead42b",
+          "721ee115a9bf38c5e7ef797337bbc6d80d734dbe608a4012b2dd8304079c84dc",
+          "85d0afa5d941514bd10442147948a4703f2b0dc25ae0c015d09226f5c30084b4"
+        ],
+        "context_changed": false
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "citations": []
+  },
+  {
+    "query_id": "test_missing_02",
+    "status": "abstain",
+    "events": [
+      {
+        "event": "search",
+        "query": "xếp lớp tiếng Anh đầu vào công thức tính điểm trọng số",
+        "filter": null,
+        "results": [
+          {
+            "id": "fa8ea1dc5cb5fdd88956f16106693a8d20b542d7afac3973145e98b245032795",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 53,
+            "text": "\ne) Điểm làm bài tập hoặc tham gia các hoạt động trên LMS;\ng) Điểm bài tập lớn, tiểu luận;\n3. Điểm môn học được tính từ tổng các điểm thành phần nhân với trọng\nsố tương ứng, được làm tròn tới một chữ số thập phân và xếp loại điểm chữ\nnhư dưới đây, trừ các trường hợp được quy định tại điểm d khoản này.\na) Loại đạt có phân mức, áp dụng cho các môn học được tính vào điểm\ntrung bình học tập, bao gồm:\nXếp loại Thang điểm 10 Thang điểm chữ\nĐạt\n9,0 – 10 A+\n8,5 – 8,9 A\n8,0 – 8,4 B+\n7,0 – 7,9 B\n6,5 – 6,9",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p53-1",
+              "chunking": "fixed",
+              "end_char": 1400,
+              "chunk_size": 500,
+              "start_char": 900
+            },
+            "score": 0.03131881575727918,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 1,
+              "lexical": 7
+            },
+            "component_scores": {
+              "dense": 0.8737827689906696,
+              "lexical": 0.2566647263941978
+            }
+          },
+          {
+            "id": "8f341cb69ba4cbca5739dc3a53beea51ede24239fb9e63dd89d73fea34035b32",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 58,
+            "text": "h cả các môn học được miễn học, được công nhận\ntín chỉ. Số tín chỉ tích lũy không bao gồm số tín chỉ của các môn học Giáo dục\nquốc phòng và an ninh, Giáo dục thể chất.\nc) Điểm trung bình của những môn học mà sinh viên đã học trong một\nhọc kỳ (điểm trung bình học kỳ), trong một năm học (điểm trung bình năm học)\nhoặc tính từ đầu khóa học (điểm trung bình tích lũy), tính theo điểm chính thức\ncủa môn học và trọng số là số tín chỉ của môn học đó.\n\n2. Để tính điểm trung bình, đi ểm chữ của môn h ọc đư",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p58-1",
+              "chunking": "fixed",
+              "end_char": 950,
+              "chunk_size": 500,
+              "start_char": 450
+            },
+            "score": 0.031024531024531024,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 3,
+              "lexical": 6
+            },
+            "component_scores": {
+              "dense": 0.8633444472140794,
+              "lexical": 0.2585726684465826
+            }
+          },
+          {
+            "id": "85db23e8ba072fcad71fb03c0e6612a7339ab1fd7367998c81ae6a58465a2200",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 69,
+            "text": "tiếng Anh dự bị và đạt môn tiếng Anh căn bản 5\ntừ 5,0 điểm (theo thang điểm 10) trở lên.\nĐiều 5. Tiếng Anh và Chuẩn đầu ra tiếng Anh\n1. Chương trình chuẩn",
+            "metadata": {
+              "overlap": 50,
+              "section": "ngoai_ngu_khong_chuyen",
+              "unit_id": "ou_handbook_2024-p69-1",
+              "chunking": "fixed",
+              "end_char": 1504,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.03009207275993712,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 13,
+              "lexical": 1
+            },
+            "component_scores": {
+              "dense": 0.8454433863826589,
+              "lexical": 0.3469400871225747
+            }
+          },
+          {
+            "id": "0b749964d9f1fa41fa1c12dc5de0a63ddf0dd9bf99cec3d6be13cc3c494eb3c2",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 58,
+            "text": "trình đào tạo không tính vào các tiêu chí đánh giá kết quả\nhọc tập của sinh viên (bao gồm các môn tiếng Anh căn bản từ 1 đến 5).\n4. Sinh viên được xếp loại học lực theo điểm trung bình học kỳ, điểm\ntrung bình năm học hoặc điểm trung bình tích lũy như sau:\n\nXếp loại Điểm trung bình",
+            "metadata": {
+              "overlap": 50,
+              "section": "quy_che_dao_tao",
+              "unit_id": "ou_handbook_2024-p58-1",
+              "chunking": "fixed",
+              "end_char": 1631,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.030090497737556562,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 8,
+              "lexical": 5
+            },
+            "component_scores": {
+              "dense": 0.8535111125098394,
+              "lexical": 0.2773822965802175
+            }
+          },
+          {
+            "id": "3442077b494818af37126c41bdcec4c8cc53dd1e7ae56c9041437b285ef3b721",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 74,
+            "text": "tiếng\nAnh\nchươn\ng trình\nchất\nlượng\ncao\n\nĐiều 9. Xét miễn ngoại ngữ không chuyên\nTrường xét miễn ngoại ngữ không chuyên vào đầu mỗi học kỳ, theo kế\nhoạch đào tạo năm học.\n1. Xét miễn tiếng Anh\nTrường xét miễn tiếng Anh căn cứ vào lộ trình học tiếng Anh của từng\nsinh viên. Các c ấp độ tiếng Anh sinh viên không đăng ký h ọc khi chưa n ộp",
+            "metadata": {
+              "overlap": 50,
+              "section": "ngoai_ngu_khong_chuyen",
+              "unit_id": "ou_handbook_2024-p74-1",
+              "chunking": "fixed",
+              "end_char": 1686,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.028958333333333336,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 15,
+              "lexical": 4
+            },
+            "component_scores": {
+              "dense": 0.8434133716328953,
+              "lexical": 0.28134955153659236
+            }
+          }
+        ],
+        "context": "[fa8ea1dc5cb5fdd88956f16106693a8d20b542d7afac3973145e98b245032795 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 53]\n\ne) Điểm làm bài tập hoặc tham gia các hoạt động trên LMS;\ng) Điểm bài tập lớn, tiểu luận;\n3. Điểm môn học được tính từ tổng các điểm thành phần nhân với trọng\nsố tương ứng, được làm tròn tới một chữ số thập phân và xếp loại điểm chữ\nnhư dưới đây, trừ các trường hợp được quy định tại điểm d khoản này.\na) Loại đạt có phân mức, áp dụng cho các môn học được tính vào điểm\ntrung bình học tập, bao gồm:\nXếp loại Thang điểm 10 Thang điểm chữ\nĐạt\n9,0 – 10 A+\n8,5 – 8,9 A\n8,0 – 8,4 B+\n7,0 – 7,9 B\n6,5 – 6,9\n\n[8f341cb69ba4cbca5739dc3a53beea51ede24239fb9e63dd89d73fea34035b32 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 58]\nh cả các môn học được miễn học, được công nhận\ntín chỉ. Số tín chỉ tích lũy không bao gồm số tín chỉ của các môn học Giáo dục\nquốc phòng và an ninh, Giáo dục thể chất.\nc) Điểm trung bình của những môn học mà sinh viên đã học trong một\nhọc kỳ (điểm trung bình học kỳ), trong một năm học (điểm trung bình năm học)\nhoặc tính từ đầu khóa học (điểm trung bình tích lũy), tính theo điểm chính thức\ncủa môn học và trọng số là số tín chỉ của môn học đó.\n\n2. Để tính điểm trung bình, đi ểm chữ của môn h ọc đư\n\n[85db23e8ba072fcad71fb03c0e6612a7339ab1fd7367998c81ae6a58465a2200 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 69]\ntiếng Anh dự bị và đạt môn tiếng Anh căn bản 5\ntừ 5,0 điểm (theo thang điểm 10) trở lên.\nĐiều 5. Tiếng Anh và Chuẩn đầu ra tiếng Anh\n1. Chương trình chuẩn\n\n[0b749964d9f1fa41fa1c12dc5de0a63ddf0dd9bf99cec3d6be13cc3c494eb3c2 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 58]\ntrình đào tạo không tính vào các tiêu chí đánh giá kết quả\nhọc tập của sinh viên (bao gồm các môn tiếng Anh căn bản từ 1 đến 5).\n4. Sinh viên được xếp loại học lực theo điểm trung bình học kỳ, điểm\ntrung bình năm học hoặc điểm trung bình tích lũy như sau:\n\nXếp loại Điểm trung bình\n\n[3442077b494818af37126c41bdcec4c8cc53dd1e7ae56c9041437b285ef3b721 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 74]\ntiếng\nAnh\nchươn\ng trình\nchất\nlượng\ncao\n\nĐiều 9. Xét miễn ngoại ngữ không chuyên\nTrường xét miễn ngoại ngữ không chuyên vào đầu mỗi học kỳ, theo kế\nhoạch đào tạo năm học.\n1. Xét miễn tiếng Anh\nTrường xét miễn tiếng Anh căn cứ vào lộ trình học tiếng Anh của từng\nsinh viên. Các c ấp độ tiếng Anh sinh viên không đăng ký h ọc khi chưa n ộp",
+        "context_ids": [
+          "fa8ea1dc5cb5fdd88956f16106693a8d20b542d7afac3973145e98b245032795",
+          "8f341cb69ba4cbca5739dc3a53beea51ede24239fb9e63dd89d73fea34035b32",
+          "85db23e8ba072fcad71fb03c0e6612a7339ab1fd7367998c81ae6a58465a2200",
+          "0b749964d9f1fa41fa1c12dc5de0a63ddf0dd9bf99cec3d6be13cc3c494eb3c2",
+          "3442077b494818af37126c41bdcec4c8cc53dd1e7ae56c9041437b285ef3b721"
+        ],
+        "context_changed": true
+      },
+      {
+        "event": "search",
+        "query": "xếp lớp tiếng Anh đầu vào",
+        "filter": null,
+        "results": [
+          {
+            "id": "85db23e8ba072fcad71fb03c0e6612a7339ab1fd7367998c81ae6a58465a2200",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 69,
+            "text": "tiếng Anh dự bị và đạt môn tiếng Anh căn bản 5\ntừ 5,0 điểm (theo thang điểm 10) trở lên.\nĐiều 5. Tiếng Anh và Chuẩn đầu ra tiếng Anh\n1. Chương trình chuẩn",
+            "metadata": {
+              "overlap": 50,
+              "section": "ngoai_ngu_khong_chuyen",
+              "unit_id": "ou_handbook_2024-p69-1",
+              "chunking": "fixed",
+              "end_char": 1504,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.032266458495966696,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 3,
+              "lexical": 1
+            },
+            "component_scores": {
+              "dense": 0.8672294099790225,
+              "lexical": 0.4332319613648923
+            }
+          },
+          {
+            "id": "3442077b494818af37126c41bdcec4c8cc53dd1e7ae56c9041437b285ef3b721",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 74,
+            "text": "tiếng\nAnh\nchươn\ng trình\nchất\nlượng\ncao\n\nĐiều 9. Xét miễn ngoại ngữ không chuyên\nTrường xét miễn ngoại ngữ không chuyên vào đầu mỗi học kỳ, theo kế\nhoạch đào tạo năm học.\n1. Xét miễn tiếng Anh\nTrường xét miễn tiếng Anh căn cứ vào lộ trình học tiếng Anh của từng\nsinh viên. Các c ấp độ tiếng Anh sinh viên không đăng ký h ọc khi chưa n ộp",
+            "metadata": {
+              "overlap": 50,
+              "section": "ngoai_ngu_khong_chuyen",
+              "unit_id": "ou_handbook_2024-p74-1",
+              "chunking": "fixed",
+              "end_char": 1686,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.032018442622950824,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 1,
+              "lexical": 4
+            },
+            "component_scores": {
+              "dense": 0.8718702273446202,
+              "lexical": 0.3927340535948295
+            }
+          },
+          {
+            "id": "b77507cc3e6dfcd432b127a702af8f7e301058743f17f2fc0ee452f91f2b8475",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 70,
+            "text": "a) Tiếng Anh dành cho sinh viên chương trình chuẩn gồm 5 cấp độ từ\ntiếng Anh nâng cao 1 đ ến tiếng Anh nâng cao 5, m ỗi cấp độ có khối lượng 3\ntín chỉ.\nb) Sinh viên đ ủ điều kiện dự kỳ thi đánh giá năng l ực sử dụng tiếng\nAnh đầu ra khi hoàn thành chương trình tiếng Anh và đạt môn tiếng Anh nâng\ncao 5 từ 5,0 điểm (theo thang điểm 10) trở lên.\nc) Sinh viên đ ạt chuẩn đầu ra ti ếng Anh sau khi hoàn thành chương\ntrình tiếng Anh và đ ạt kỳ thi đánh giá năng l ực sử dụng tiếng Anh đầu ra tại\nTrường.\n",
+            "metadata": {
+              "overlap": 50,
+              "section": "ngoai_ngu_khong_chuyen",
+              "unit_id": "ou_handbook_2024-p70-1",
+              "chunking": "fixed",
+              "end_char": 500,
+              "chunk_size": 500,
+              "start_char": 0
+            },
+            "score": 0.03125763125763126,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 5,
+              "lexical": 3
+            },
+            "component_scores": {
+              "dense": 0.8606237256155193,
+              "lexical": 0.41827103077005956
+            }
+          },
+          {
+            "id": "a55ef6b1135c49332b7ab3bb57607329cb5274aeaad01cbb547b9dcfe21ab41a",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 69,
+            "text": "h ngôn ng ữ chất\nlượng cao (trừ ngành Ngôn ngữ Anh) để xếp lớp tiếng Anh phù hợp với năng\nlực.\nc) Sinh viên không đ ạt năng l ực ti ếng Anh đ ầu vào ph ải theo h ọc\nchương trình tiếng Anh dự bị.\n2. Ngoại ngữ hai\na) Trường không quy định chuẩn đầu vào ngoại ngữ hai.\nb) Trường không tổ chức kiểm tra trình độ đầu vào ngoại ngữ hai cho\ntân sinh viên (trừ các ngành ngôn ng ữ chất lượng cao có đào t ạo ngoại ngữ\nhai là tiếng Anh).\nĐiều 4. Chương trình Tiếng Anh dự bị\n1. Chương trình tiếng Anh dự bị có",
+            "metadata": {
+              "overlap": 50,
+              "section": "ngoai_ngu_khong_chuyen",
+              "unit_id": "ou_handbook_2024-p69-1",
+              "chunking": "fixed",
+              "end_char": 950,
+              "chunk_size": 500,
+              "start_char": 450
+            },
+            "score": 0.030621785881252923,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 9,
+              "lexical": 2
+            },
+            "component_scores": {
+              "dense": 0.85800982367934,
+              "lexical": 0.43203084853311224
+            }
+          },
+          {
+            "id": "5ce2460448cf09d1ed395cfc12e095824d1a75ac1ce4e1e8911e0c3b44255853",
+            "source_id": "ou_handbook_2024",
+            "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+            "page": 71,
+            "text": "ăng ký h ọc theo\ntrình tự các môn học của chương trình.\nĐiều 8. Kỳ thi đánh giá năng lực sử dụng tiếng Anh đầu ra\n1. Trường tổ chức kỳ thi đánh giá năng lực sử dụng tiếng Anh đầu ra\n3 lần/năm theo K ế hoạch đào t ạo năm h ọc. Phòng Qu ản lý đào t ạo lập kế\nhoạch chi tiết cho mỗi lần thi.",
+            "metadata": {
+              "overlap": 50,
+              "section": "ngoai_ngu_khong_chuyen",
+              "unit_id": "ou_handbook_2024-p71-1",
+              "chunking": "fixed",
+              "end_char": 1638,
+              "chunk_size": 500,
+              "start_char": 1350
+            },
+            "score": 0.029827662395050816,
+            "strategy": "hybrid_rrf",
+            "component_ranks": {
+              "dense": 2,
+              "lexical": 13
+            },
+            "component_scores": {
+              "dense": 0.8714339886386409,
+              "lexical": 0.2097993333933556
+            }
+          }
+        ],
+        "context": "[fa8ea1dc5cb5fdd88956f16106693a8d20b542d7afac3973145e98b245032795 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 53]\n\ne) Điểm làm bài tập hoặc tham gia các hoạt động trên LMS;\ng) Điểm bài tập lớn, tiểu luận;\n3. Điểm môn học được tính từ tổng các điểm thành phần nhân với trọng\nsố tương ứng, được làm tròn tới một chữ số thập phân và xếp loại điểm chữ\nnhư dưới đây, trừ các trường hợp được quy định tại điểm d khoản này.\na) Loại đạt có phân mức, áp dụng cho các môn học được tính vào điểm\ntrung bình học tập, bao gồm:\nXếp loại Thang điểm 10 Thang điểm chữ\nĐạt\n9,0 – 10 A+\n8,5 – 8,9 A\n8,0 – 8,4 B+\n7,0 – 7,9 B\n6,5 – 6,9\n\n[8f341cb69ba4cbca5739dc3a53beea51ede24239fb9e63dd89d73fea34035b32 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 58]\nh cả các môn học được miễn học, được công nhận\ntín chỉ. Số tín chỉ tích lũy không bao gồm số tín chỉ của các môn học Giáo dục\nquốc phòng và an ninh, Giáo dục thể chất.\nc) Điểm trung bình của những môn học mà sinh viên đã học trong một\nhọc kỳ (điểm trung bình học kỳ), trong một năm học (điểm trung bình năm học)\nhoặc tính từ đầu khóa học (điểm trung bình tích lũy), tính theo điểm chính thức\ncủa môn học và trọng số là số tín chỉ của môn học đó.\n\n2. Để tính điểm trung bình, đi ểm chữ của môn h ọc đư\n\n[85db23e8ba072fcad71fb03c0e6612a7339ab1fd7367998c81ae6a58465a2200 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 69]\ntiếng Anh dự bị và đạt môn tiếng Anh căn bản 5\ntừ 5,0 điểm (theo thang điểm 10) trở lên.\nĐiều 5. Tiếng Anh và Chuẩn đầu ra tiếng Anh\n1. Chương trình chuẩn\n\n[0b749964d9f1fa41fa1c12dc5de0a63ddf0dd9bf99cec3d6be13cc3c494eb3c2 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 58]\ntrình đào tạo không tính vào các tiêu chí đánh giá kết quả\nhọc tập của sinh viên (bao gồm các môn tiếng Anh căn bản từ 1 đến 5).\n4. Sinh viên được xếp loại học lực theo điểm trung bình học kỳ, điểm\ntrung bình năm học hoặc điểm trung bình tích lũy như sau:\n\nXếp loại Điểm trung bình\n\n[3442077b494818af37126c41bdcec4c8cc53dd1e7ae56c9041437b285ef3b721 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 74]\ntiếng\nAnh\nchươn\ng trình\nchất\nlượng\ncao\n\nĐiều 9. Xét miễn ngoại ngữ không chuyên\nTrường xét miễn ngoại ngữ không chuyên vào đầu mỗi học kỳ, theo kế\nhoạch đào tạo năm học.\n1. Xét miễn tiếng Anh\nTrường xét miễn tiếng Anh căn cứ vào lộ trình học tiếng Anh của từng\nsinh viên. Các c ấp độ tiếng Anh sinh viên không đăng ký h ọc khi chưa n ộp",
+        "context_ids": [
+          "fa8ea1dc5cb5fdd88956f16106693a8d20b542d7afac3973145e98b245032795",
+          "8f341cb69ba4cbca5739dc3a53beea51ede24239fb9e63dd89d73fea34035b32",
+          "85db23e8ba072fcad71fb03c0e6612a7339ab1fd7367998c81ae6a58465a2200",
+          "0b749964d9f1fa41fa1c12dc5de0a63ddf0dd9bf99cec3d6be13cc3c494eb3c2",
+          "3442077b494818af37126c41bdcec4c8cc53dd1e7ae56c9041437b285ef3b721"
+        ],
+        "context_changed": false
+      },
+      {
+        "event": "model_abstain",
+        "reason": "The retrieved context does not contain information about the algorithm, scoring formula, or weights used for placing students into initial English classes."
+      }
+    ],
+    "citations": []
+  }
+]

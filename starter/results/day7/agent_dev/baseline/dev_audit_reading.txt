@@ -1,0 +1,719 @@
+========== q01 ==========
+ANSWERABLE: True
+QUESTION: Theo mục công tác sinh viên trong Sổ tay sinh viên 2024, sinh viên dân tộc thiểu số thuộc hộ nghèo phải bổ sung hồ sơ xác nhận hộ nghèo vào tháng nào hằng năm?
+STATUS: answered
+ANSWER: Theo Sổ tay sinh viên 2024, sinh viên thuộc đối tượng dân tộc thiểu số thuộc hộ nghèo phải nộp bổ sung hồ sơ xác nhận hộ nghèo vào tháng 01 hằng năm [9834cd6190bc9895130c9f1c7f0eec51842cab36325d304786c3c097669ef53f].
+CITATIONS: ['9834cd6190bc9895130c9f1c7f0eec51842cab36325d304786c3c097669ef53f']
+EVENTS: ['search', 'answer']
+FINAL CONTEXT:
+[9834cd6190bc9895130c9f1c7f0eec51842cab36325d304786c3c097669ef53f | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 39]
+i các sinh viên thu ộc đối tượng miễn, giảm học phí k ể từ khóa
+tuyển sinh 2015 trở đi.
+- Sinh viên phải nộp hồ sơ theo hướng dẫn vào đầu khóa học (riêng đối
+với các đối tượng sinh viên thuộc dân tộc thiểu số thuộc hộ nghèo phải nộp bổ
+sung hồ sơ xác nhận hộ nghèo vào tháng 01 hằng năm)
+- Sinh viên có thể tham khảo văn bản tại website: http://ou.edu.vn sau đó
+vào mục sinh viên
+1.2 HỌC BỔNG
+- Hằng năm Trường có hơn 5000 suất học bổng trao tặng cho sinh viên
+- Sinh viên có th ể tham kh ảo quy đ ịn
+
+[94a5cc81819686279facba272686d3999c6492ca814293e48ddfccb5fa9bcb81 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 40]
+1.3 XÁC NH ẬN VAY V ỐN NGÂN HÀNG CHÍNH SÁCH XÃ H ỘI – SỔ
+ƯU ĐÃI GIÁO DỤC
+- Xác nhận vay vốn: Sinh viên có nhu cầu vay vốn ngân hàng chính sách
+xã hội để trang trải chi phí học tập sẽ xin cấp giấy xác nhận mỗi học kỳ để nộp
+về Ngân hàng chính sách xã hội địa phương để làm hồ sơ vay vốn.
+- Xác nhận sổ ưu đãi: Sinh viên thuộc đối tượng con thương binh cần xác
+nhận sổ ưu đãi giáo dục để nộp địa phương chi trả tiền hỗ trợ chi phí học tập
+- Sinh viên liên hệ Phòng Công tác sinh viên và Truyền thông để
+
+[55df20d97dbcd820b91120c2c64c90f178ab0d7b6211094e5143e0f2d21351b8 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 40]
+iên hệ Phòng Công tác sinh viên và Truyền thông để làm thủ
+tục xác nh ận, th ời gian xác nh ận t ừ 3 – 5 ngày. Sinh viên tham kh ảo t ại
+website: https://ou.edu.vn sau đó vào mục [Sinh viên]
+2. HÀNH CHÍNH SINH VIÊN
+Các vấn đề liên quan đến xác nhận hạnh kiểm, tham gia hoạt động ngoại
+khóa, chuyển lớp sinh viên,.. liên hệ phòng Công tác sinh viên và truyền thông.
+3. CỔNG THÔNG TIN “CHỦ NHIỆM LỚP – CỐ VẤN HỌC TẬP”
+Làm cầu nối thông tin liên l ạc giữa Nhà trường – Chủ nhiệm lớp, cố vấn học
+tập – Si
+
+========== q02 ==========
+ANSWERABLE: True
+QUESTION: Chương trình tiếng Anh dự bị có tổng cộng bao nhiêu tín chỉ và được chia thành bao nhiêu cấp độ?
+STATUS: answered
+ANSWER: Chương trình tiếng Anh dự bị có tổng cộng 15 tín chỉ và được chia thành 5 cấp độ (từ căn bản 1 đến căn bản 5, mỗi cấp độ có khối lượng 3 tín chỉ) [5421e0757301f02c2e3069199eae3069683f2c6437b206f98302b8dc9d394282].
+CITATIONS: ['5421e0757301f02c2e3069199eae3069683f2c6437b206f98302b8dc9d394282']
+EVENTS: ['search', 'answer']
+FINAL CONTEXT:
+[5421e0757301f02c2e3069199eae3069683f2c6437b206f98302b8dc9d394282 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 69]
+Tiếng Anh dự bị
+1. Chương trình tiếng Anh dự bị có khối lượng 15 tín chỉ, chia thành 5
+cấp độ từ căn bản 1 đến căn bản 5, mỗi cấp độ có khối lượng 3 tín chỉ.
+2. Chương trình tiếng Anh dự bị được tổ chức học theo phương thức
+trực tuyến theo thời khóa biểu do Phòng Quản lý đào tạo quy định đầu học kỳ
+và tổ chức thi cuối kỳ trực tiếp theo lịch thi chung.
+3. Sinh viên được đăng ký học chương trình tiếng Anh trong CTĐT sau
+khi hoàn thành chương trình tiếng Anh dự bị và đạt môn tiếng Anh căn bản 5
+từ 
+
+[b77507cc3e6dfcd432b127a702af8f7e301058743f17f2fc0ee452f91f2b8475 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 70]
+a) Tiếng Anh dành cho sinh viên chương trình chuẩn gồm 5 cấp độ từ
+tiếng Anh nâng cao 1 đ ến tiếng Anh nâng cao 5, m ỗi cấp độ có khối lượng 3
+tín chỉ.
+b) Sinh viên đ ủ điều kiện dự kỳ thi đánh giá năng l ực sử dụng tiếng
+Anh đầu ra khi hoàn thành chương trình tiếng Anh và đạt môn tiếng Anh nâng
+cao 5 từ 5,0 điểm (theo thang điểm 10) trở lên.
+c) Sinh viên đ ạt chuẩn đầu ra ti ếng Anh sau khi hoàn thành chương
+trình tiếng Anh và đ ạt kỳ thi đánh giá năng l ực sử dụng tiếng Anh đầu ra tại
+Trường.
+
+
+[85db23e8ba072fcad71fb03c0e6612a7339ab1fd7367998c81ae6a58465a2200 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 69]
+tiếng Anh dự bị và đạt môn tiếng Anh căn bản 5
+từ 5,0 điểm (theo thang điểm 10) trở lên.
+Điều 5. Tiếng Anh và Chuẩn đầu ra tiếng Anh
+1. Chương trình chuẩn
+
+========== q03 ==========
+ANSWERABLE: True
+QUESTION: Theo quy định ngoại ngữ không chuyên, sinh viên phải đáp ứng những điều kiện nào để được đăng ký học chương trình tiếng Anh trong chương trình đào tạo sau giai đoạn dự bị?
+STATUS: abstain
+ANSWER: Không đủ bằng chứng để trả lời.
+CITATIONS: []
+EVENTS: ['search', 'search', 'search_limit']
+FINAL CONTEXT:
+[a55ef6b1135c49332b7ab3bb57607329cb5274aeaad01cbb547b9dcfe21ab41a | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 69]
+h ngôn ng ữ chất
+lượng cao (trừ ngành Ngôn ngữ Anh) để xếp lớp tiếng Anh phù hợp với năng
+lực.
+c) Sinh viên không đ ạt năng l ực ti ếng Anh đ ầu vào ph ải theo h ọc
+chương trình tiếng Anh dự bị.
+2. Ngoại ngữ hai
+a) Trường không quy định chuẩn đầu vào ngoại ngữ hai.
+b) Trường không tổ chức kiểm tra trình độ đầu vào ngoại ngữ hai cho
+tân sinh viên (trừ các ngành ngôn ng ữ chất lượng cao có đào t ạo ngoại ngữ
+hai là tiếng Anh).
+Điều 4. Chương trình Tiếng Anh dự bị
+1. Chương trình tiếng Anh dự bị có
+
+[f34d018a852453569068a8df7700ab4cfef49a65e48eca73cae0591f5da3eb79 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 71]
+cao
+đạt chuẩn đầu ra ngo ại ngữ hai tương đương b ậc 3/6 theo Khung năng l ực
+ngoại ngữ 6 bậc dành cho Việt Nam.
+
+Điều 7. Tổ chức đào tạo ngoại ngữ không chuyên
+1. Tiếng Anh
+a) Sinh viên bắt buộc phải đăng ký học tiếng Anh theo lộ trình học tiếng
+Anh cá nhân, được xác định tại kỳ kiểm tra trình độ tiếng Anh đầu vào.
+b) Khối lượng tiếng Anh đăng ký tối thiểu 6 tín chỉ mỗi học kỳ.
+2. Ngoại ngữ hai
+Không bắt buộc đăng ký h ọc mỗi học kỳ. Sinh viên đăng ký h ọc theo
+trình tự các môn học của chương t
+
+[cc5790e42f30a2b3a0bd98f60896b2636dbb6705792044c0e5b3cd7a3ccd2d7d | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 69]
+3. Chuẩn đầu ra ngoại ngữ không chuyên là năng lực ngoại ngữ
+không chuyên tối thiểu mà sinh viên phải đạt để theo học chương trình ngoại
+ngữ không chuyên trong CTĐT.
+Điều 3. Chuẩn đầu vào ngoại ngữ không chuyên
+1. Tiếng Anh
+a) Chuẩn đầu vào tiếng Anh của Trường là bậc 2/6 theo Khung năng
+lực ngoại ngữ 6 bậc dành cho Việt Nam.
+b) Trường tổ chức kiểm tra trình đ ộ tiếng Anh cho tân sinh viên các
+ngành không chuyên ng ữ chương trình chu ẩn, các ngành ngôn ng ữ chất
+lượng cao (trừ ngành Ngôn ngữ Anh
+
+========== q04 ==========
+ANSWERABLE: True
+QUESTION: Điểm quá trình phải được công bố cho sinh viên ở đâu và chậm nhất bao lâu sau khi kết thúc môn học?
+STATUS: answered
+ANSWER: Điểm quá trình được công bố tại lớp hoặc trên LMS, chậm nhất là 10 ngày sau khi kết thúc môn học [6dba168cdb80d778a5e7d9ca719b68478f9e6cdab83b0a7c45fffad26f671449].
+CITATIONS: ['6dba168cdb80d778a5e7d9ca719b68478f9e6cdab83b0a7c45fffad26f671449']
+EVENTS: ['search', 'answer']
+FINAL CONTEXT:
+[6dba168cdb80d778a5e7d9ca719b68478f9e6cdab83b0a7c45fffad26f671449 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 54]
+học. Điểm
+quá trình được công bố tại lớp hoặc trên LMS chậm nhất 10 ngày sau khi kết
+thúc môn học.
+2. Sinh viên vắng mặt trong buổi đánh giá không có lý do chính đáng
+phải nhận điểm 0. Sinh viên vắng mặt có lý do chính đáng và được giảng viên
+chấp thuận được tham gia đánh giá ở một đợt khác do giảng viên quyết định
+và được tính điểm lần đầu.
+3. Giảng viên ph ụ trách môn h ọc nhập điểm quá trình trên h ệ thống
+thông tin viên chức (FSIS), nộp bản in có chữ ký của giảng viên chấm bài về
+Phòng Khảo 
+
+[62fb4aca690ff04c5cf0ef2ae510eb47a003448ff540cb926f161a9d0217776f | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 54]
+Học lại, thi và học cải thiện điểm:
+a) Sinh viên có điểm môn học không đạt phải đăng ký học lại theo quy
+định tại khoản 2 Điều 6 của Quy chế này.
+b) Sinh viên đã có điểm môn học đạt được đăng ký học lại để cải thiện
+điểm. Điểm được công nhận là điểm cao nhất trong các lần thi.
+
+Điều 17. Tổ chức đánh giá quá trình
+1. Giảng viên phụ trách môn học trực tiếp ra đề đánh giá và cho điểm
+quá trình. Các thành phần của điểm quá trình được công bố tại lớp học. Điểm
+quá trình được công bố tại lớp hoặc trên
+
+[6d48bff2d7dc2a396357356f8949ee892f8a4b3f5741dcd1f697ef5b56764e34 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 57]
+o thang đi ểm 10)
+phải đăng ký làm l ại đồ án/khóa luận tốt nghiệp hoặc đăng ký h ọc thêm một
+số môn học thay thế đồ án/khóa luận tốt nghiệp (đã liệt kê cụ thể trong chương
+trình), đảm bảo hoàn thành khối lượng học tập theo quy định.
+đ) Điểm tổng kết đồ án/khóa luận tốt nghiệp do Phòng Khảo thí công bố
+chậm nhất 02 tuần kể từ ngày Khoa chuyển bảng điểm quá trình, bảng điểm
+bảo vệ của Hội đồng đánh giá về Phòng Khảo thí.
+Sinh viên thực hiện đóng quyển đồ án/khóa luận tốt nghiệp theo hướng
+dẫn của
+
+========== q05 ==========
+ANSWERABLE: True
+QUESTION: Sinh viên vắng buổi đánh giá quá trình có lý do chính đáng cần được ai chấp thuận để tham gia đánh giá đợt khác, và kết quả được tính là lần đánh giá nào?
+STATUS: abstain
+ANSWER: Không đủ bằng chứng để trả lời.
+CITATIONS: []
+EVENTS: ['search', 'invalid_or_missing_citations']
+FINAL CONTEXT:
+[6dba168cdb80d778a5e7d9ca719b68478f9e6cdab83b0a7c45fffad26f671449 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 54]
+học. Điểm
+quá trình được công bố tại lớp hoặc trên LMS chậm nhất 10 ngày sau khi kết
+thúc môn học.
+2. Sinh viên vắng mặt trong buổi đánh giá không có lý do chính đáng
+phải nhận điểm 0. Sinh viên vắng mặt có lý do chính đáng và được giảng viên
+chấp thuận được tham gia đánh giá ở một đợt khác do giảng viên quyết định
+và được tính điểm lần đầu.
+3. Giảng viên ph ụ trách môn h ọc nhập điểm quá trình trên h ệ thống
+thông tin viên chức (FSIS), nộp bản in có chữ ký của giảng viên chấm bài về
+Phòng Khảo 
+
+[77066d6bbc9a33f0eb03006c4c24e5d3f48ecab602ec2bb88f566c0a37db16da | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 55]
+ chấp thuận phải nhận điểm 0 kết quả đánh giá cuối kỳ và điểm
+0 tổng kết môn học.
+9. Sinh viên vắng mặt có lý do chính đáng ở kỳ đánh giá cuối kỳ chính,
+nếu được Phòng Quản lý đào t ạo cho phép, đư ợc tham dự kỳ đánh giá phụ
+ngay sau đó (n ếu có), điểm đánh giá cu ối kỳ của môn học được coi là đi ểm
+đánh giá lần đầu.
+10. Phòng Khảo thí t ổ chức chấm các bài thi đánh giá cu ối kỳ và
+công bố điểm tổng kết môn học chậm nhất sau 04 tuần kể từ ngày thi cuối kỳ.
+Một số trường hợp đặc biệt: tổ chức thi
+
+[3ed9e7fc3c381fae2f81331ecbc5be04018052496927bf7afc313a32c7a21154 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 54]
+ường hợp thiên tai, dịch bệnh, Trường tổ chức đánh giá theo hướng dẫn
+của Bộ Giáo dục và Đào tạo.
+5. Thời gian dành cho sinh viên ôn tập cho đánh giá cuối kỳ tỷ lệ thuận
+
+========== q06 ==========
+ANSWERABLE: True
+QUESTION: Theo quy chế đào tạo, môn học có khối lượng dưới 2 tín chỉ có bắt buộc phải có ít nhất hai điểm đánh giá thành phần không?
+STATUS: answered
+ANSWER: Theo quy chế đào tạo, đối với các môn học có khối lượng nhỏ hơn 02 tín chỉ thì có thể chỉ có một điểm đánh giá, do đó không bắt buộc phải có ít nhất hai điểm đánh giá thành phần [1f6b16e70c611933f64cc51df4da74aedee0f45d5a8237a0bcae7711194485c7].
+CITATIONS: ['1f6b16e70c611933f64cc51df4da74aedee0f45d5a8237a0bcae7711194485c7']
+EVENTS: ['search', 'answer']
+FINAL CONTEXT:
+[1f6b16e70c611933f64cc51df4da74aedee0f45d5a8237a0bcae7711194485c7 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 53]
+Điều 16. Đánh giá và tính điểm môn học
+1. Đối với mỗi môn học, sinh viên được đánh giá qua tối thiểu hai điểm
+thành phần là đi ểm quá trình và đi ểm cuối kỳ, đối với các môn h ọc có kh ối
+lượng nhỏ hơn 02 tín ch ỉ có thể chỉ có một điểm đánh giá. Các đi ểm thành
+phần được đánh giá theo thang đi ểm 10. Phương pháp đánh giá, hình th ức
+đánh giá và trọng số của mỗi điểm thành phần được quy định trong đề cương
+chi tiết của môn h ọc. Hình th ức đánh giá tr ực tuyến được áp d ụng khi đ ảm
+bảo trung th
+
+[982bf1e4ba0f555df6b1c85a2127aeda1b7a78a79ea10aa85ff0cb594037ac92 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 55]
+với số tín chỉ của môn học (ít nhất là 2/3 ngày cho một tín chỉ).
+6. Đề thi đánh giá cu ối kỳ phù hợp với hình th ức đánh giá quy đ ịnh
+trong đề cương môn học và được lấy từ ngân hàng đề thi hoặc do Khoa cung
+cấp.
+7. Điểm thi đánh giá cuối kỳ được ghi vào bảng điểm theo mẫu thống
+nhất của Trường, có chữ ký của giảng viên chấm bài và được lưu trữ tại Phòng
+Khảo thí.
+8. Sinh viên v ắng mặt khi đánh giá cu ối kỳ nếu không đư ợc Phòng
+Quản lý đào tạo chấp thuận phải nhận điểm 0 kết quả đánh giá cuối
+
+[8f341cb69ba4cbca5739dc3a53beea51ede24239fb9e63dd89d73fea34035b32 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 58]
+h cả các môn học được miễn học, được công nhận
+tín chỉ. Số tín chỉ tích lũy không bao gồm số tín chỉ của các môn học Giáo dục
+quốc phòng và an ninh, Giáo dục thể chất.
+c) Điểm trung bình của những môn học mà sinh viên đã học trong một
+học kỳ (điểm trung bình học kỳ), trong một năm học (điểm trung bình năm học)
+hoặc tính từ đầu khóa học (điểm trung bình tích lũy), tính theo điểm chính thức
+của môn học và trọng số là số tín chỉ của môn học đó.
+
+2. Để tính điểm trung bình, đi ểm chữ của môn h ọc đư
+
+========== q07 ==========
+ANSWERABLE: True
+QUESTION: Sinh viên đã đạt môn học và đăng ký học lại để cải thiện điểm thì điểm được công nhận được chọn như thế nào?
+STATUS: answered
+ANSWER: Sinh viên đã có điểm môn học đạt nếu đăng ký học lại để cải thiện điểm thì điểm được công nhận là điểm cao nhất trong các lần thi [62fb4aca690ff04c5cf0ef2ae510eb47a003448ff540cb926f161a9d0217776f].
+CITATIONS: ['62fb4aca690ff04c5cf0ef2ae510eb47a003448ff540cb926f161a9d0217776f']
+EVENTS: ['search', 'answer']
+FINAL CONTEXT:
+[62fb4aca690ff04c5cf0ef2ae510eb47a003448ff540cb926f161a9d0217776f | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 54]
+Học lại, thi và học cải thiện điểm:
+a) Sinh viên có điểm môn học không đạt phải đăng ký học lại theo quy
+định tại khoản 2 Điều 6 của Quy chế này.
+b) Sinh viên đã có điểm môn học đạt được đăng ký học lại để cải thiện
+điểm. Điểm được công nhận là điểm cao nhất trong các lần thi.
+
+Điều 17. Tổ chức đánh giá quá trình
+1. Giảng viên phụ trách môn học trực tiếp ra đề đánh giá và cho điểm
+quá trình. Các thành phần của điểm quá trình được công bố tại lớp học. Điểm
+quá trình được công bố tại lớp hoặc trên
+
+[3a80a515ebce2025b2253987d6111d30564992a887bfa843950baf905b2eda52 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 54]
+a) Loại đạt không phân m ức, áp d ụng cho các môn h ọc chỉ yêu cầu
+đạt, không tính vào điểm trung bình học tập: P từ 5,0 trở lên.
+b) Loại không đạt: F dưới 4,0.
+c) Một số trường hợp đặc biệt sử dụng các điểm chữ xếp loại, không
+tính vào điểm trung bình học tập:
+I: Điểm chưa hoàn thiện do được phép hoãn thi, kiểm tra;
+X: Điểm chưa hoàn thiện do chưa đủ dữ liệu;
+R: Điểm môn học được miễn học và công nhận tín chỉ;
+D: Điểm đạt;
+K: Điểm không đạt.
+2. Học lại, thi và học cải thiện điểm:
+a) Sinh viên c
+
+[c630bb512b37fd606dc224945161b93e94bd64d7d23d95dadad825b1fd4b5c85 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 59]
+ghi điểm đã công
+bố và điểm được nhập, lưu tr ữ trong hệ thống quản lý h ọc vụ, sinh viên có
+trách nhiệm thông báo và yêu c ầu Phòng Kh ảo thí ki ểm tra l ại các c ột điểm
+tương ứng.
+3. Đối với điểm đánh giá cuối kỳ, sinh viên làm đơn đề nghị xem lại kết
+
+========== q08 ==========
+ANSWERABLE: True
+QUESTION: Theo Sổ tay sinh viên 2024, hằng năm trường có hơn bao nhiêu suất học bổng trao tặng sinh viên?
+STATUS: answered
+ANSWER: Theo Sổ tay sinh viên 2024, hằng năm Trường có hơn 5000 suất học bổng trao tặng cho sinh viên [9834cd6190bc9895130c9f1c7f0eec51842cab36325d304786c3c097669ef53f].
+CITATIONS: ['9834cd6190bc9895130c9f1c7f0eec51842cab36325d304786c3c097669ef53f']
+EVENTS: ['search', 'answer']
+FINAL CONTEXT:
+[9834cd6190bc9895130c9f1c7f0eec51842cab36325d304786c3c097669ef53f | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 39]
+i các sinh viên thu ộc đối tượng miễn, giảm học phí k ể từ khóa
+tuyển sinh 2015 trở đi.
+- Sinh viên phải nộp hồ sơ theo hướng dẫn vào đầu khóa học (riêng đối
+với các đối tượng sinh viên thuộc dân tộc thiểu số thuộc hộ nghèo phải nộp bổ
+sung hồ sơ xác nhận hộ nghèo vào tháng 01 hằng năm)
+- Sinh viên có thể tham khảo văn bản tại website: http://ou.edu.vn sau đó
+vào mục sinh viên
+1.2 HỌC BỔNG
+- Hằng năm Trường có hơn 5000 suất học bổng trao tặng cho sinh viên
+- Sinh viên có th ể tham kh ảo quy đ ịn
+
+[d2a07bb062b88e26d7b3ba53310b213161a8f04d7dbb76235a8c96227bd50a4f | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 39]
+ sinh viên
+- Sinh viên có th ể tham kh ảo quy đ ịnh h ọc b ổng t ại website:
+wwww.ou.edu.vn sau đó vào mục Sinh viên, mục Học bổng
+- Các loại học bổng:
++ Học bổng khuyến khích học tập dành cho tân sinh viên
++ Học bổng Tài năng
++ Học bổng Khuyến khích học tập
++ Học bổng Vượt khó học tập
++ Học bổng Tiếp sức đến Trường
++ Học bổng Khuyến khích nâng cao năng lực tiếng Anh
++ Học bổng Sinh viên 5 tốt
++ Học bổng Thanh niên tiên tiến làm theo lời Bác
+
+[c88c95325d2dc6e14431a0a140f5caea85cddcaf153327b749bd62de5a19b4f2 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 40]
+được dùng để xét học bổng khuyến khích học tập mỗi
+học kỳ và sẽ được ghi vào bảng điểm tốt nghiệp của sinh viên.
+- Sinh viên bị xếp loại rèn luyện yếu, kém 2 học kỳ liên tiếp (dưới 50 điểm)
+sẽ bị khóa mã số sinh viên trong học kỳ tiếp theo.
+- Đánh giá k ết quả rèn luyện online đư ợc tích lũy đi ểm thông qua quá
+trình học tập và rèn luyện ngoại khóa của sinh viên trong năm h ọc. Điểm rèn
+luyện sẽ được tích lũy và c ập nhật thường xuyên trên website đánh giá k ết
+quả rèn luyện online để Sinh viên 
+
+========== q09 ==========
+ANSWERABLE: True
+QUESTION: Sổ tay liệt kê những học bổng nào liên quan đến danh hiệu Sinh viên 5 tốt và Thanh niên tiên tiến?
+STATUS: answered
+ANSWER: Sổ tay liệt kê các loại học bổng liên quan đến danh hiệu Sinh viên 5 tốt và Thanh niên tiên tiến bao gồm:
+- Học bổng Sinh viên 5 tốt
+- Học bổng Thanh niên tiên tiến làm theo lời Bác [d2a07bb062b88e26d7b3ba53310b213161a8f04d7dbb76235a8c96227bd50a4f]
+CITATIONS: ['d2a07bb062b88e26d7b3ba53310b213161a8f04d7dbb76235a8c96227bd50a4f']
+EVENTS: ['search', 'answer']
+FINAL CONTEXT:
+[d2a07bb062b88e26d7b3ba53310b213161a8f04d7dbb76235a8c96227bd50a4f | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 39]
+ sinh viên
+- Sinh viên có th ể tham kh ảo quy đ ịnh h ọc b ổng t ại website:
+wwww.ou.edu.vn sau đó vào mục Sinh viên, mục Học bổng
+- Các loại học bổng:
++ Học bổng khuyến khích học tập dành cho tân sinh viên
++ Học bổng Tài năng
++ Học bổng Khuyến khích học tập
++ Học bổng Vượt khó học tập
++ Học bổng Tiếp sức đến Trường
++ Học bổng Khuyến khích nâng cao năng lực tiếng Anh
++ Học bổng Sinh viên 5 tốt
++ Học bổng Thanh niên tiên tiến làm theo lời Bác
+
+[9834cd6190bc9895130c9f1c7f0eec51842cab36325d304786c3c097669ef53f | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 39]
+i các sinh viên thu ộc đối tượng miễn, giảm học phí k ể từ khóa
+tuyển sinh 2015 trở đi.
+- Sinh viên phải nộp hồ sơ theo hướng dẫn vào đầu khóa học (riêng đối
+với các đối tượng sinh viên thuộc dân tộc thiểu số thuộc hộ nghèo phải nộp bổ
+sung hồ sơ xác nhận hộ nghèo vào tháng 01 hằng năm)
+- Sinh viên có thể tham khảo văn bản tại website: http://ou.edu.vn sau đó
+vào mục sinh viên
+1.2 HỌC BỔNG
+- Hằng năm Trường có hơn 5000 suất học bổng trao tặng cho sinh viên
+- Sinh viên có th ể tham kh ảo quy đ ịn
+
+[c88c95325d2dc6e14431a0a140f5caea85cddcaf153327b749bd62de5a19b4f2 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 40]
+được dùng để xét học bổng khuyến khích học tập mỗi
+học kỳ và sẽ được ghi vào bảng điểm tốt nghiệp của sinh viên.
+- Sinh viên bị xếp loại rèn luyện yếu, kém 2 học kỳ liên tiếp (dưới 50 điểm)
+sẽ bị khóa mã số sinh viên trong học kỳ tiếp theo.
+- Đánh giá k ết quả rèn luyện online đư ợc tích lũy đi ểm thông qua quá
+trình học tập và rèn luyện ngoại khóa của sinh viên trong năm h ọc. Điểm rèn
+luyện sẽ được tích lũy và c ập nhật thường xuyên trên website đánh giá k ết
+quả rèn luyện online để Sinh viên 
+
+========== q10 ==========
+ANSWERABLE: True
+QUESTION: Quy chế đào tạo đại học chính quy có áp dụng đối với giảng viên, viên chức và người lao động của trường hay chỉ áp dụng cho sinh viên?
+STATUS: answered
+ANSWER: Quy chế đào tạo trình độ đại học hình thức đào tạo chính quy áp dụng đối với cả giảng viên, viên chức, người lao động và sinh viên trình độ đại học hình thức đào tạo chính quy của Trường Đại học Mở Thành phố Hồ Chí Minh [4aea04b82ad3017361e3a56b55f206e661e25293fe64e56fd21ee93519fd5b1e].
+CITATIONS: ['4aea04b82ad3017361e3a56b55f206e661e25293fe64e56fd21ee93519fd5b1e']
+EVENTS: ['search', 'answer']
+FINAL CONTEXT:
+[613fa10318478b58212d3452608d2b6287ea44180d1cc45ee8283b4423758e2c | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 46]
+PHẦN III
+CÁC QUY CHẾ
+
+1. QUY CHẾ
+Đào tạo trình độ đại học hình thức đào tạo chính quy
+(Kèm theo Quyết định số /QĐ-ĐHM ngày tháng năm 2024 của Hiệu
+trưởng Trường Đại học Mở Thành phố Hồ Chí Minh)
+
+
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Quy chế này quy định chung về tổ chức và quản lý đào tạo trình độ
+đại học hình thức đào tạo chính quy bao g ồm: chương trình đào t ạo và thời
+gian học tập; phương th ức tổ chức đào t ạo, lập kế hoạch và t ổ chức giảng
+dạy;
+
+[4aea04b82ad3017361e3a56b55f206e661e25293fe64e56fd21ee93519fd5b1e | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 46]
+chức đào t ạo, lập kế hoạch và t ổ chức giảng
+dạy; đánh giá k ết quả học tập và cấp bằng tốt nghiệp; những quy định khác
+đối với sinh viên.
+2. Quy chế này áp dụng đối với giảng viên, viên chức, người lao động,
+sinh viên trình độ đại học hình thức đào tạo chính quy của Trường Đại học Mở
+Thành phố Hồ Chí Minh (sau đây gọi là Trường).
+3. Các chương trình liên k ết đào t ạo áp d ụng quy ch ế này theo th ỏa
+thuận liên kết giữa Trường và đối tác.
+Điều 2. Chương trình đào tạo và thời gian học tập
+1. Ch
+
+[ab012a3cdf7cf22a65bde99eb557b9340d1b06a701e6a758250dfb77934a63e4 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 76]
+rình
+độ đại học hình thức đào tạo chính quy và phù h ợp với điều kiện thực tế của
+Trường.
+
+========== q11 ==========
+ANSWERABLE: True
+QUESTION: Các chương trình liên kết đào tạo áp dụng quy chế đào tạo chính quy theo căn cứ nào?
+STATUS: answered
+ANSWER: Các chương trình liên kết đào tạo áp dụng quy chế đào tạo chính quy theo thỏa thuận liên kết giữa Trường và đối tác [4aea04b82ad3017361e3a56b55f206e661e25293fe64e56fd21ee93519fd5b1e].
+CITATIONS: ['4aea04b82ad3017361e3a56b55f206e661e25293fe64e56fd21ee93519fd5b1e']
+EVENTS: ['search', 'answer']
+FINAL CONTEXT:
+[4aea04b82ad3017361e3a56b55f206e661e25293fe64e56fd21ee93519fd5b1e | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 46]
+chức đào t ạo, lập kế hoạch và t ổ chức giảng
+dạy; đánh giá k ết quả học tập và cấp bằng tốt nghiệp; những quy định khác
+đối với sinh viên.
+2. Quy chế này áp dụng đối với giảng viên, viên chức, người lao động,
+sinh viên trình độ đại học hình thức đào tạo chính quy của Trường Đại học Mở
+Thành phố Hồ Chí Minh (sau đây gọi là Trường).
+3. Các chương trình liên k ết đào t ạo áp d ụng quy ch ế này theo th ỏa
+thuận liên kết giữa Trường và đối tác.
+Điều 2. Chương trình đào tạo và thời gian học tập
+1. Ch
+
+[613fa10318478b58212d3452608d2b6287ea44180d1cc45ee8283b4423758e2c | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 46]
+PHẦN III
+CÁC QUY CHẾ
+
+1. QUY CHẾ
+Đào tạo trình độ đại học hình thức đào tạo chính quy
+(Kèm theo Quyết định số /QĐ-ĐHM ngày tháng năm 2024 của Hiệu
+trưởng Trường Đại học Mở Thành phố Hồ Chí Minh)
+
+
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh và đối tượng áp dụng
+1. Quy chế này quy định chung về tổ chức và quản lý đào tạo trình độ
+đại học hình thức đào tạo chính quy bao g ồm: chương trình đào t ạo và thời
+gian học tập; phương th ức tổ chức đào t ạo, lập kế hoạch và t ổ chức giảng
+dạy;
+
+[8534a3980ff80d48774a39f763d38f5b285c65443e8c0c4af4415c9c4d209691 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 50]
+không quá 4 môn trong chương trình đào t ạo (không bao g ồm thực tập tốt
+nghiệp và đồ án/khóa luận tốt nghiệp).
+4. Việc phân công giảng dạy chương trình chất lượng cao tuân thủ Quy
+định đào tạo chất lượng cao trình độ đại học hiện hành của Trường.
+5. Việc phân công gi ảng d ạy các chương trình liên k ết đào t ạo v ới
+nước ngoài trình đ ộ đại học thực hiện theo Đề án liên kết đào tạo (gọi tắt là
+Đề án) đã đư ợc phê duy ệt. Trường hợp Đề án quy đ ịnh thực hiện theo quy
+chế đào tạo đại học chính qu
+
+========== q12 ==========
+ANSWERABLE: True
+QUESTION: Chuẩn đầu vào tiếng Anh của trường là bậc mấy theo Khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam?
+STATUS: answered
+ANSWER: Chuẩn đầu vào tiếng Anh của Trường là bậc 2/6 theo Khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam [cc5790e42f30a2b3a0bd98f60896b2636dbb6705792044c0e5b3cd7a3ccd2d7d].
+CITATIONS: ['cc5790e42f30a2b3a0bd98f60896b2636dbb6705792044c0e5b3cd7a3ccd2d7d']
+EVENTS: ['search', 'answer']
+FINAL CONTEXT:
+[cc5790e42f30a2b3a0bd98f60896b2636dbb6705792044c0e5b3cd7a3ccd2d7d | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 69]
+3. Chuẩn đầu ra ngoại ngữ không chuyên là năng lực ngoại ngữ
+không chuyên tối thiểu mà sinh viên phải đạt để theo học chương trình ngoại
+ngữ không chuyên trong CTĐT.
+Điều 3. Chuẩn đầu vào ngoại ngữ không chuyên
+1. Tiếng Anh
+a) Chuẩn đầu vào tiếng Anh của Trường là bậc 2/6 theo Khung năng
+lực ngoại ngữ 6 bậc dành cho Việt Nam.
+b) Trường tổ chức kiểm tra trình đ ộ tiếng Anh cho tân sinh viên các
+ngành không chuyên ng ữ chương trình chu ẩn, các ngành ngôn ng ữ chất
+lượng cao (trừ ngành Ngôn ngữ Anh
+
+[e7f5623dee75ab1b43b03709022066427901cbea4448d272017d4d08b0166690 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 70]
+ ra sau khi hoàn thành chương trình ti ếng Anh và đạt môn tiếng Anh
+nâng cao 10 từ 5,0 điểm (theo thang điểm 10) trở lên.
+c) Sinh viên đ ạt chuẩn đầu ra ti ếng Anh sau khi hoàn thành chương
+trình tiếng Anh và đ ạt kỳ thi đánh giá năng l ực sử dụng tiếng Anh đầu ra tại
+Trường.
+d) Sinh viên tốt nghiệp chương trình chất lượng cao đạt năng lực tiếng
+Anh bậc 4/6 theo Khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam.
+Điều 6. Ngoại ngữ hai và Chuẩn đầu ra ngoại ngữ hai
+1. Chương trình chuẩn
+a) Ngoại ng
+
+[e56de593461864fd2777aa4ff7ddcc2db47855fb8002fabf52290ee21cbed8b3 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 70]
+iá năng l ực sử dụng tiếng Anh đầu ra tại
+Trường.
+d) Sinh viên tốt nghiệp chương trình chuẩn đạt năng lực tiếng Anh bậc
+3/6 theo Khung năng lực ngoại ngữ 6 bậc dành cho Việt Nam.
+2. Chương trình chất lượng cao
+a) Tiếng Anh dành cho sinh viên chương trình chất lượng cao gồm 10
+cấp độ từ tiếng Anh nâng cao 1 đ ến tiếng Anh nâng cao 10, m ỗi cấp độ có
+khối lượng 3 tín chỉ.
+b) Sinh viên đ ủ điều kiện dự kỳ thi đánh giá năng l ực sử dụng tiếng
+Anh đầu ra sau khi hoàn thành chương trình ti ếng Anh và 
+
+========== q13 ==========
+ANSWERABLE: True
+QUESTION: Trường có quy định chuẩn đầu vào đối với ngoại ngữ hai không?
+STATUS: answered
+ANSWER: Trường không quy định chuẩn đầu vào ngoại ngữ hai [a55ef6b1135c49332b7ab3bb57607329cb5274aeaad01cbb547b9dcfe21ab41a].
+CITATIONS: ['a55ef6b1135c49332b7ab3bb57607329cb5274aeaad01cbb547b9dcfe21ab41a']
+EVENTS: ['search', 'answer']
+FINAL CONTEXT:
+[cc5790e42f30a2b3a0bd98f60896b2636dbb6705792044c0e5b3cd7a3ccd2d7d | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 69]
+3. Chuẩn đầu ra ngoại ngữ không chuyên là năng lực ngoại ngữ
+không chuyên tối thiểu mà sinh viên phải đạt để theo học chương trình ngoại
+ngữ không chuyên trong CTĐT.
+Điều 3. Chuẩn đầu vào ngoại ngữ không chuyên
+1. Tiếng Anh
+a) Chuẩn đầu vào tiếng Anh của Trường là bậc 2/6 theo Khung năng
+lực ngoại ngữ 6 bậc dành cho Việt Nam.
+b) Trường tổ chức kiểm tra trình đ ộ tiếng Anh cho tân sinh viên các
+ngành không chuyên ng ữ chương trình chu ẩn, các ngành ngôn ng ữ chất
+lượng cao (trừ ngành Ngôn ngữ Anh
+
+[1f6288516e4d84df9b2ee546d343df237d635cb3ba67edcc57b514e6677ac5fe | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 70]
+ra ngoại ngữ hai
+1. Chương trình chuẩn
+a) Ngoại ngữ hai có khối lượng 15 tín chỉ, chia làm 5 cấp độ từ 1 đến
+5, mỗi cấp độ có khối lượng 3 tín chỉ.
+b) Sinh viên đ ạt chu ẩn đ ầu ra ngo ại ng ữ hai sau khi hoàn thành
+chương trình ngo ại ngữ hai với tất cả các môn h ọc đạt từ 5,0 trở lên (theo
+thang điểm 10).
+
+[a55ef6b1135c49332b7ab3bb57607329cb5274aeaad01cbb547b9dcfe21ab41a | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 69]
+h ngôn ng ữ chất
+lượng cao (trừ ngành Ngôn ngữ Anh) để xếp lớp tiếng Anh phù hợp với năng
+lực.
+c) Sinh viên không đ ạt năng l ực ti ếng Anh đ ầu vào ph ải theo h ọc
+chương trình tiếng Anh dự bị.
+2. Ngoại ngữ hai
+a) Trường không quy định chuẩn đầu vào ngoại ngữ hai.
+b) Trường không tổ chức kiểm tra trình độ đầu vào ngoại ngữ hai cho
+tân sinh viên (trừ các ngành ngôn ng ữ chất lượng cao có đào t ạo ngoại ngữ
+hai là tiếng Anh).
+Điều 4. Chương trình Tiếng Anh dự bị
+1. Chương trình tiếng Anh dự bị có
+
+========== q14 ==========
+ANSWERABLE: True
+QUESTION: Chương trình tiếng Anh dự bị được học và thi cuối kỳ theo hình thức nào?
+STATUS: answered
+ANSWER: Chương trình tiếng Anh dự bị được tổ chức học theo phương thức trực tuyến theo thời khóa biểu do Phòng Quản lý đào tạo quy định đầu học kỳ và tổ chức thi cuối kỳ trực tiếp theo lịch thi chung [5421e0757301f02c2e3069199eae3069683f2c6437b206f98302b8dc9d394282].
+CITATIONS: ['5421e0757301f02c2e3069199eae3069683f2c6437b206f98302b8dc9d394282']
+EVENTS: ['search', 'answer']
+FINAL CONTEXT:
+[5421e0757301f02c2e3069199eae3069683f2c6437b206f98302b8dc9d394282 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 69]
+Tiếng Anh dự bị
+1. Chương trình tiếng Anh dự bị có khối lượng 15 tín chỉ, chia thành 5
+cấp độ từ căn bản 1 đến căn bản 5, mỗi cấp độ có khối lượng 3 tín chỉ.
+2. Chương trình tiếng Anh dự bị được tổ chức học theo phương thức
+trực tuyến theo thời khóa biểu do Phòng Quản lý đào tạo quy định đầu học kỳ
+và tổ chức thi cuối kỳ trực tiếp theo lịch thi chung.
+3. Sinh viên được đăng ký học chương trình tiếng Anh trong CTĐT sau
+khi hoàn thành chương trình tiếng Anh dự bị và đạt môn tiếng Anh căn bản 5
+từ 
+
+[85db23e8ba072fcad71fb03c0e6612a7339ab1fd7367998c81ae6a58465a2200 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 69]
+tiếng Anh dự bị và đạt môn tiếng Anh căn bản 5
+từ 5,0 điểm (theo thang điểm 10) trở lên.
+Điều 5. Tiếng Anh và Chuẩn đầu ra tiếng Anh
+1. Chương trình chuẩn
+
+[a55ef6b1135c49332b7ab3bb57607329cb5274aeaad01cbb547b9dcfe21ab41a | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 69]
+h ngôn ng ữ chất
+lượng cao (trừ ngành Ngôn ngữ Anh) để xếp lớp tiếng Anh phù hợp với năng
+lực.
+c) Sinh viên không đ ạt năng l ực ti ếng Anh đ ầu vào ph ải theo h ọc
+chương trình tiếng Anh dự bị.
+2. Ngoại ngữ hai
+a) Trường không quy định chuẩn đầu vào ngoại ngữ hai.
+b) Trường không tổ chức kiểm tra trình độ đầu vào ngoại ngữ hai cho
+tân sinh viên (trừ các ngành ngôn ng ữ chất lượng cao có đào t ạo ngoại ngữ
+hai là tiếng Anh).
+Điều 4. Chương trình Tiếng Anh dự bị
+1. Chương trình tiếng Anh dự bị có
+
+========== q15 ==========
+ANSWERABLE: True
+QUESTION: Sinh viên vắng mặt trong buổi đánh giá quá trình mà không có lý do chính đáng nhận điểm bao nhiêu?
+STATUS: answered
+ANSWER: Sinh viên vắng mặt trong buổi đánh giá quá trình mà không có lý do chính đáng phải nhận điểm 0 [6dba168cdb80d778a5e7d9ca719b68478f9e6cdab83b0a7c45fffad26f671449].
+CITATIONS: ['6dba168cdb80d778a5e7d9ca719b68478f9e6cdab83b0a7c45fffad26f671449']
+EVENTS: ['search', 'answer']
+FINAL CONTEXT:
+[6dba168cdb80d778a5e7d9ca719b68478f9e6cdab83b0a7c45fffad26f671449 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 54]
+học. Điểm
+quá trình được công bố tại lớp hoặc trên LMS chậm nhất 10 ngày sau khi kết
+thúc môn học.
+2. Sinh viên vắng mặt trong buổi đánh giá không có lý do chính đáng
+phải nhận điểm 0. Sinh viên vắng mặt có lý do chính đáng và được giảng viên
+chấp thuận được tham gia đánh giá ở một đợt khác do giảng viên quyết định
+và được tính điểm lần đầu.
+3. Giảng viên ph ụ trách môn h ọc nhập điểm quá trình trên h ệ thống
+thông tin viên chức (FSIS), nộp bản in có chữ ký của giảng viên chấm bài về
+Phòng Khảo 
+
+[77066d6bbc9a33f0eb03006c4c24e5d3f48ecab602ec2bb88f566c0a37db16da | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 55]
+ chấp thuận phải nhận điểm 0 kết quả đánh giá cuối kỳ và điểm
+0 tổng kết môn học.
+9. Sinh viên vắng mặt có lý do chính đáng ở kỳ đánh giá cuối kỳ chính,
+nếu được Phòng Quản lý đào t ạo cho phép, đư ợc tham dự kỳ đánh giá phụ
+ngay sau đó (n ếu có), điểm đánh giá cu ối kỳ của môn học được coi là đi ểm
+đánh giá lần đầu.
+10. Phòng Khảo thí t ổ chức chấm các bài thi đánh giá cu ối kỳ và
+công bố điểm tổng kết môn học chậm nhất sau 04 tuần kể từ ngày thi cuối kỳ.
+Một số trường hợp đặc biệt: tổ chức thi
+
+[62fb4aca690ff04c5cf0ef2ae510eb47a003448ff540cb926f161a9d0217776f | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 54]
+Học lại, thi và học cải thiện điểm:
+a) Sinh viên có điểm môn học không đạt phải đăng ký học lại theo quy
+định tại khoản 2 Điều 6 của Quy chế này.
+b) Sinh viên đã có điểm môn học đạt được đăng ký học lại để cải thiện
+điểm. Điểm được công nhận là điểm cao nhất trong các lần thi.
+
+Điều 17. Tổ chức đánh giá quá trình
+1. Giảng viên phụ trách môn học trực tiếp ra đề đánh giá và cho điểm
+quá trình. Các thành phần của điểm quá trình được công bố tại lớp học. Điểm
+quá trình được công bố tại lớp hoặc trên
+
+========== dev_missing_01 ==========
+ANSWERABLE: False
+QUESTION: Lịch thi cuối kỳ cụ thể — ngày, giờ và phòng thi — của môn Trí tuệ nhân tạo trong học kỳ I năm học 2026–2027 là gì?
+STATUS: abstain
+ANSWER: Không đủ bằng chứng để trả lời.
+CITATIONS: []
+EVENTS: ['search', 'search', 'invalid_or_missing_citations']
+FINAL CONTEXT:
+[5ee483ef1bdbf6c610262646dbe75e7c1556e6296be66c98cfd35ce8f7505f22 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 54]
+o thí theo quy đ ịnh bảo quản tài li ệu chuyên môn nghi ệp vụ của ngành
+giáo dục.
+3. Mỗi môn học được tổ chức đánh giá cuối kỳ 01 lần sau khi kết thúc.
+Việc tổ chức đánh giá cuối kỳ được thực hiện theo quy định của Trường.
+4. Trường tổ chức đánh giá cuối kỳ theo hình thức trực tuyến khi kỳ thi
+đảm bảo trung thực, công bằng và khách quan như đánh giá trực tiếp và trọng
+số điểm đánh giá cuối kỳ không vượt quá 50% trọng số điểm môn học. Trong
+các trường hợp thiên tai, dịch bệnh, Trường tổ chức đánh
+
+[77066d6bbc9a33f0eb03006c4c24e5d3f48ecab602ec2bb88f566c0a37db16da | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 55]
+ chấp thuận phải nhận điểm 0 kết quả đánh giá cuối kỳ và điểm
+0 tổng kết môn học.
+9. Sinh viên vắng mặt có lý do chính đáng ở kỳ đánh giá cuối kỳ chính,
+nếu được Phòng Quản lý đào t ạo cho phép, đư ợc tham dự kỳ đánh giá phụ
+ngay sau đó (n ếu có), điểm đánh giá cu ối kỳ của môn học được coi là đi ểm
+đánh giá lần đầu.
+10. Phòng Khảo thí t ổ chức chấm các bài thi đánh giá cu ối kỳ và
+công bố điểm tổng kết môn học chậm nhất sau 04 tuần kể từ ngày thi cuối kỳ.
+Một số trường hợp đặc biệt: tổ chức thi
+
+[ffd59b7d0474bc4da5f0ae8e04d14d40f91643683cf017cb81f1e003c5a43468 | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 48]
+(trực tiếp hoặc trực tuyến), lịch học, lịch thi c ủa các môn h ọc được tổ chức
+trong học kỳ cho các khoá học, chương trình đào tạo. Kế hoạch học kỳ được
+Phòng Quản lý đào tạo xây dựng và công bố kịp thời với đầy đủ thông tin cần
+thiết, bảo đảm thuận tiện cho sinh viên xây dựng kế hoạch học tập và đăng ký
+môn học.
+4. Thời khoá biểu thể hiện thời gian, địa điểm, hoạt động dạy và học
+của từng lớp thuộc các khoá học và chương trình đào tạo. Thời khóa biểu của
+các lớp môn học bình thường được bố trí 
+
+========== dev_missing_02 ==========
+ANSWERABLE: False
+QUESTION: Mức tiền chính xác của học bổng Tài năng cho năm học 2026–2027 là bao nhiêu?
+STATUS: abstain
+ANSWER: Không đủ bằng chứng để trả lời.
+CITATIONS: []
+EVENTS: ['search', 'search', 'model_abstain']
+FINAL CONTEXT:
+[d2a07bb062b88e26d7b3ba53310b213161a8f04d7dbb76235a8c96227bd50a4f | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 39]
+ sinh viên
+- Sinh viên có th ể tham kh ảo quy đ ịnh h ọc b ổng t ại website:
+wwww.ou.edu.vn sau đó vào mục Sinh viên, mục Học bổng
+- Các loại học bổng:
++ Học bổng khuyến khích học tập dành cho tân sinh viên
++ Học bổng Tài năng
++ Học bổng Khuyến khích học tập
++ Học bổng Vượt khó học tập
++ Học bổng Tiếp sức đến Trường
++ Học bổng Khuyến khích nâng cao năng lực tiếng Anh
++ Học bổng Sinh viên 5 tốt
++ Học bổng Thanh niên tiên tiến làm theo lời Bác
+
+[9834cd6190bc9895130c9f1c7f0eec51842cab36325d304786c3c097669ef53f | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 39]
+i các sinh viên thu ộc đối tượng miễn, giảm học phí k ể từ khóa
+tuyển sinh 2015 trở đi.
+- Sinh viên phải nộp hồ sơ theo hướng dẫn vào đầu khóa học (riêng đối
+với các đối tượng sinh viên thuộc dân tộc thiểu số thuộc hộ nghèo phải nộp bổ
+sung hồ sơ xác nhận hộ nghèo vào tháng 01 hằng năm)
+- Sinh viên có thể tham khảo văn bản tại website: http://ou.edu.vn sau đó
+vào mục sinh viên
+1.2 HỌC BỔNG
+- Hằng năm Trường có hơn 5000 suất học bổng trao tặng cho sinh viên
+- Sinh viên có th ể tham kh ảo quy đ ịn
+
+[34b6a7b3629625b892075368a504b143d9a3ce5c5f1da47bba7820c2343d800d | https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf | page 44]
+ăng mềm:
+Kỹ năng giao ti ếp, Kỹ năng làm vi ệc nhóm, K ỹ năng tổ chức công vi ệc, Kỹ
+năng trình bày, Tư duy phản biện,…
+- Kỹ năng thực hành nghề nghiệp: Các Khoa sẽ có những chương trình
+đào tạo kỹ năng thực hành nghề nghiệp theo ngành học để sinh viên có kiến
+thức thực tiễn để dễ dàng tiếp cận với việc làm sau tốt nghiệp.
+- Khi tham gia các ho ạt động kỹ năng, sinh viên s ẽ được ghi nhận vào
+đánh giá kết quả rèn luyện và cập nhật vào hồ sơ xin việc CV online.
+- Chương trình được tổ chức thường 

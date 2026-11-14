@@ -1,0 +1,128 @@
+[
+  {
+    "query_id": "q01",
+    "question": "Theo mục công tác sinh viên trong Sổ tay sinh viên 2024, sinh viên dân tộc thiểu số thuộc hộ nghèo phải bổ sung hồ sơ xác nhận hộ nghèo vào tháng nào hằng năm?",
+    "mode": "unfiltered",
+    "filters": null,
+    "results": [
+      {
+        "id": "9834cd6190bc9895130c9f1c7f0eec51842cab36325d304786c3c097669ef53f",
+        "source_id": "ou_handbook_2024",
+        "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+        "page": 39,
+        "text": "i các sinh viên thu ộc đối tượng miễn, giảm học phí k ể từ khóa\ntuyển sinh 2015 trở đi.\n- Sinh viên phải nộp hồ sơ theo hướng dẫn vào đầu khóa học (riêng đối\nvới các đối tượng sinh viên thuộc dân tộc thiểu số thuộc hộ nghèo phải nộp bổ\nsung hồ sơ xác nhận hộ nghèo vào tháng 01 hằng năm)\n- Sinh viên có thể tham khảo văn bản tại website: http://ou.edu.vn sau đó\nvào mục sinh viên\n1.2 HỌC BỔNG\n- Hằng năm Trường có hơn 5000 suất học bổng trao tặng cho sinh viên\n- Sinh viên có th ể tham kh ảo quy đ ịn",
+        "metadata": {
+          "overlap": 50,
+          "section": "cong_tac_sinh_vien",
+          "unit_id": "ou_handbook_2024-p39-1",
+          "chunking": "fixed",
+          "end_char": 950,
+          "chunk_size": 500,
+          "start_char": 450
+        },
+        "score": 0.8904110323892793,
+        "strategy": "dense"
+      },
+      {
+        "id": "94a5cc81819686279facba272686d3999c6492ca814293e48ddfccb5fa9bcb81",
+        "source_id": "ou_handbook_2024",
+        "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+        "page": 40,
+        "text": "1.3 XÁC NH ẬN VAY V ỐN NGÂN HÀNG CHÍNH SÁCH XÃ H ỘI – SỔ\nƯU ĐÃI GIÁO DỤC\n- Xác nhận vay vốn: Sinh viên có nhu cầu vay vốn ngân hàng chính sách\nxã hội để trang trải chi phí học tập sẽ xin cấp giấy xác nhận mỗi học kỳ để nộp\nvề Ngân hàng chính sách xã hội địa phương để làm hồ sơ vay vốn.\n- Xác nhận sổ ưu đãi: Sinh viên thuộc đối tượng con thương binh cần xác\nnhận sổ ưu đãi giáo dục để nộp địa phương chi trả tiền hỗ trợ chi phí học tập\n- Sinh viên liên hệ Phòng Công tác sinh viên và Truyền thông để",
+        "metadata": {
+          "overlap": 50,
+          "section": "cong_tac_sinh_vien",
+          "unit_id": "ou_handbook_2024-p40-1",
+          "chunking": "fixed",
+          "end_char": 500,
+          "chunk_size": 500,
+          "start_char": 0
+        },
+        "score": 0.8589639151713914,
+        "strategy": "dense"
+      },
+      {
+        "id": "934082d17da8a8b6fd67d890fbf2876ed383f37abcce0b701db5616676fbb6e9",
+        "source_id": "ou_handbook_2024",
+        "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+        "page": 61,
+        "text": " trưởng ký quyết\nđịnh công nhận tốt nghiệp và cấp bằng tốt nghiệp cho những sinh viên đủ điều\nkiện tốt nghiệp trong vòng 30 ngày k ể từ ngày có quy ết định công nh ận tốt\nnghiệp.\n6. Sinh viên đã hết thời gian học tập tối đa theo quy định nhưng chưa\nđủ điều kiện tốt nghiệp do chưa hoàn thành nh ững nhóm môn h ọc Giáo dục\nquốc phòng-an ninh hoặc Giáo dục thể chất hoặc chưa đạt chuẩn đầu ra về\nngoại ngữ, công nghệ thông tin trong thời hạn 03 năm tính từ khi thôi học được\nhoàn thiện các điều kiện cò",
+        "metadata": {
+          "overlap": 50,
+          "section": "quy_che_dao_tao",
+          "unit_id": "ou_handbook_2024-p61-1",
+          "chunking": "fixed",
+          "end_char": 1850,
+          "chunk_size": 500,
+          "start_char": 1350
+        },
+        "score": 0.8496008605002859,
+        "strategy": "dense"
+      }
+    ]
+  },
+  {
+    "query_id": "q01",
+    "question": "Theo mục công tác sinh viên trong Sổ tay sinh viên 2024, sinh viên dân tộc thiểu số thuộc hộ nghèo phải bổ sung hồ sơ xác nhận hộ nghèo vào tháng nào hằng năm?",
+    "mode": "filtered",
+    "filters": {
+      "section": "cong_tac_sinh_vien"
+    },
+    "results": [
+      {
+        "id": "9834cd6190bc9895130c9f1c7f0eec51842cab36325d304786c3c097669ef53f",
+        "source_id": "ou_handbook_2024",
+        "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+        "page": 39,
+        "text": "i các sinh viên thu ộc đối tượng miễn, giảm học phí k ể từ khóa\ntuyển sinh 2015 trở đi.\n- Sinh viên phải nộp hồ sơ theo hướng dẫn vào đầu khóa học (riêng đối\nvới các đối tượng sinh viên thuộc dân tộc thiểu số thuộc hộ nghèo phải nộp bổ\nsung hồ sơ xác nhận hộ nghèo vào tháng 01 hằng năm)\n- Sinh viên có thể tham khảo văn bản tại website: http://ou.edu.vn sau đó\nvào mục sinh viên\n1.2 HỌC BỔNG\n- Hằng năm Trường có hơn 5000 suất học bổng trao tặng cho sinh viên\n- Sinh viên có th ể tham kh ảo quy đ ịn",
+        "metadata": {
+          "overlap": 50,
+          "section": "cong_tac_sinh_vien",
+          "unit_id": "ou_handbook_2024-p39-1",
+          "chunking": "fixed",
+          "end_char": 950,
+          "chunk_size": 500,
+          "start_char": 450
+        },
+        "score": 0.8904110323892793,
+        "strategy": "dense"
+      },
+      {
+        "id": "94a5cc81819686279facba272686d3999c6492ca814293e48ddfccb5fa9bcb81",
+        "source_id": "ou_handbook_2024",
+        "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+        "page": 40,
+        "text": "1.3 XÁC NH ẬN VAY V ỐN NGÂN HÀNG CHÍNH SÁCH XÃ H ỘI – SỔ\nƯU ĐÃI GIÁO DỤC\n- Xác nhận vay vốn: Sinh viên có nhu cầu vay vốn ngân hàng chính sách\nxã hội để trang trải chi phí học tập sẽ xin cấp giấy xác nhận mỗi học kỳ để nộp\nvề Ngân hàng chính sách xã hội địa phương để làm hồ sơ vay vốn.\n- Xác nhận sổ ưu đãi: Sinh viên thuộc đối tượng con thương binh cần xác\nnhận sổ ưu đãi giáo dục để nộp địa phương chi trả tiền hỗ trợ chi phí học tập\n- Sinh viên liên hệ Phòng Công tác sinh viên và Truyền thông để",
+        "metadata": {
+          "overlap": 50,
+          "section": "cong_tac_sinh_vien",
+          "unit_id": "ou_handbook_2024-p40-1",
+          "chunking": "fixed",
+          "end_char": 500,
+          "chunk_size": 500,
+          "start_char": 0
+        },
+        "score": 0.8589639151713914,
+        "strategy": "dense"
+      },
+      {
+        "id": "9ab08776b224687791351088e2fc4b8c535df4594d38e4e1cc78d913bde4dd1a",
+        "source_id": "ou_handbook_2024",
+        "source": "https://ou.edu.vn/wp-content/uploads/2024/09/So-Tay-SV-2024.pdf",
+        "page": 39,
+        "text": "PHẦN II\nCÁC NỘI DUNG HOẠT ĐỘNG\nCÔNG TÁC SINH VIÊN\n\n1. CHẾ ĐỘ CHÍNH SÁCH\n1.1 MIỄN, GIẢM HỌC PHÍ\n- Sinh viên thuộc các đối tượng chế độ chính sách được miễn, giảm học\nphí 100% học phí, 70% học phí và 50% h ọc phí theo Nghị định 81/2021/NĐ-\nCP ngày 27/8/2021 và nghị định 97/2023/NĐ-CP ngày 31/12/2023\n- Nhà trường sẽ hỗ trợ toàn bộ phần chênh lệch học phí giữa mức học\nphí của Trường so với mức học phí được miễn, giảm theo quy định của nhà\nnước đối với các sinh viên thu ộc đối tượng miễn, giảm học ph",
+        "metadata": {
+          "overlap": 50,
+          "section": "cong_tac_sinh_vien",
+          "unit_id": "ou_handbook_2024-p39-1",
+          "chunking": "fixed",
+          "end_char": 500,
+          "chunk_size": 500,
+          "start_char": 0
+        },
+        "score": 0.8492733926014085,
+        "strategy": "dense"
+      }
+    ]
+  }
+]

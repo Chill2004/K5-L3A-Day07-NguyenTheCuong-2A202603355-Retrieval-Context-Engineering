@@ -1,0 +1,37 @@
+{
+  "confirmed_by": "Nguyễn Thế Cường",
+  "confirmed_on": "2026-11-14",
+  "confirmation_basis": "User explicitly confirmed having checked and agreed to all 14 baseline/top5 test labels in this conversation.",
+  "initial_reviewer": "Codex (AI)",
+  "scope": "14 test labels only; no claim of independent blind human review or confirmation of dev labels.",
+  "configurations": {
+    "baseline": {
+      "source_run": "starter\\results\\day7\\agent_test\\baseline\\test_20261114T131936803449Z.json",
+      "source_run_sha256": "10787e477554ca18a6e19b1c3f595237f5cbbc08c031e789e628f7e528bb0d0c",
+      "review_content_sha256": "3cc41884df53d320b15df12534a5c83b54c52b16e235cd3598e7779f176aea40",
+      "question_ids": [
+        "test_01",
+        "test_02",
+        "test_03",
+        "test_04",
+        "test_05",
+        "test_missing_01",
+        "test_missing_02"
+      ]
+    },
+    "top5": {
+      "source_run": "starter\\results\\day7\\agent_test\\top5\\test_20261114T132252908347Z.json",
+      "source_run_sha256": "8df01a35a074f4ccdebb01f7e69ac9af7db67e44a4cb0136b4067ac2ad7ff80c",
+      "review_content_sha256": "42f790292df19bab7c6462b3a9bc9c7892b2a3f63f569bf4e3bfe71ad3bf7268",
+      "question_ids": [
+        "test_01",
+        "test_02",
+        "test_03",
+        "test_04",
+        "test_05",
+        "test_missing_01",
+        "test_missing_02"
+      ]
+    }
+  }
+}
