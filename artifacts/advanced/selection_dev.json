@@ -1,0 +1,34 @@
+{
+  "created_at_utc": "2026-11-14T16:29:57.467364+00:00",
+  "config": {
+    "max_searches": 2,
+    "top_k": 3
+  },
+  "model": "gemini-3.5-flash-lite",
+  "selection_basis": "Dev evaluation only; no Advanced test run used.",
+  "dev_pass_count": 17,
+  "dev_total": 18,
+  "dev_failed_ids": [
+    "adv_dev_08"
+  ],
+  "known_limitation": "Chart legend misidentification on adv_dev_08.",
+  "source_run": "starter/results/day7/advanced/dev/dev_20261114T162245977246Z.json",
+  "source_run_sha256": "f82f8ae7c1b6b526b98a2f93ee365cffd7aa7175268200fbb2192e5589c80a36",
+  "benchmark_freeze_sha256": "336acbfdfa53f2fd76a2e0a201dfdacf2c74b1908e45458ef9ed1c6a82769085",
+  "pipeline_sha256": {
+    "src/advanced/__init__.py": "55826763e42c7adee2c0c86859981378e7d1dc4957d0ef6a02867b0c48e05c73",
+    "src/advanced/agent.py": "a544433767f39d334178be8b2c5d37da69392817dc091ad96ce77ec3d43a8a8e",
+    "src/advanced/build_dev_questions.py": "8c2873be89653f24dd9d80e9a4208c084ba416e4dd80c2d37ce80cddd121bc13",
+    "src/advanced/build_test_questions.py": "4cdb476afa62b40fc1d0bd1edfee452db3b76cae8643d76dab990e2070004dbf",
+    "src/advanced/citations.py": "c37b5095325f860afd76ea9b1370752244d67d4b23e3416f9c76f4a678030590",
+    "src/advanced/entities.py": "5335f7a00a633084b07406afaa8cc67d8557552f74cf9a5af7fcde2d453fe474",
+    "src/advanced/freeze_benchmark.py": "1fa9b5d04002d0a1b4f082dfff9994f70850c35f83cba9ca685d8ec228f7adad",
+    "src/advanced/prepare.py": "d627ce53afe1640f59d9a9cfa4d3fffc06eba6c0a5cea57e84c459a1f871d729",
+    "src/advanced/retrieval.py": "000bc6d9288bc11c8e058cc4af1f2c6a40d82e35819e1868539d61bca0ec6e40",
+    "src/advanced/review_dev_sources.py": "067db392d1c8c14da8e342c6a2105f30b276cccf88284ac1e7d1a2d1c89ea9a1",
+    "src/advanced/review_test_sources.py": "5eea47aa1532ffed07aa883951dcb069d12387aeb3e787bf23d17cb502d6e0cc",
+    "src/advanced/run_dev.py": "eef63575858910a32447b7ce3da6515726c5f5e03d395157a78675ea0a878a8f",
+    "starter/data/advanced/index.sqlite3": "d4b6c43ceb9c6528251e62d1e6dba493c55da8fbb5a36649367796af9f7e9b62",
+    "starter/data/advanced/pages.json": "5f884d4010a82da0ff12a1d58c96125f28a3b4a9b38ac828ca148e6e98a4b0d9"
+  }
+}

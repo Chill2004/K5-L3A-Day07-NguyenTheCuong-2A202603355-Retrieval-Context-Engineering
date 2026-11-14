@@ -1,0 +1,11 @@
+{
+  "reason": "Initial development smoke run retrieved page 30 but requested another search after the two-call limit.",
+  "changes": [
+    "Caption-ID lookup catalog over all source pages, Vietnamese/English aliases, no benchmark lookups.",
+    "At source-call limit, expose only finish and abstain functions."
+  ],
+  "previous_trace": "starter/results/day7/advanced/smoke/vision_20261114T141849669654Z.json",
+  "previous_trace_preserved": true,
+  "held_out_test_used_for_tuning": false,
+  "stage": "development before Advanced benchmark freeze"
+}

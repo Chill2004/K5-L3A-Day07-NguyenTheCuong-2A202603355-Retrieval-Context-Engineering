@@ -1,0 +1,43 @@
+{
+  "source_id": "wdr_2018_education",
+  "title": "World Development Report 2018: Learning to Realize Education's Promise",
+  "source_url": "https://documents1.worldbank.org/curated/en/240351507784846426/pdf/120299-WDR-v1-PUBLIC-main.pdf",
+  "source_pdf": "starter/data/advanced/raw/world-development-report-2018.pdf",
+  "pdf_sha256": "091c14411843f9efec16b097e715fdc00e29e18f8973fab4e399500d409a7393",
+  "physical_page_count": 240,
+  "pages_with_substantive_extracted_text": 225,
+  "indexed_page_count": 240,
+  "chunk_count": 1538,
+  "index_scope": "All nonempty text on every page; original page render accessible for all 240 pages.",
+  "visual_only_pages": [
+    2,
+    3,
+    4,
+    5,
+    20,
+    56,
+    75,
+    76,
+    125,
+    126,
+    188,
+    237,
+    239
+  ],
+  "limitations": [
+    "Native text search does not fully describe visual relationships.",
+    "Visual-only placeholder embeddings are not semantic OCR; inspect original rendered pages through the vision agent.",
+    "Table reading order can be incorrect in text extraction; verify with the original page image.",
+    "Page-level bbox is a locator, not a precise figure crop. Figure/table IDs must accompany final visual citations."
+  ],
+  "license": "CC BY 3.0 IGO; see PDF page 6 and third-party-content caveat.",
+  "attribution": "World Bank. 2018. World Development Report 2018: Learning to Realize Education's Promise. Washington, DC: World Bank. doi:10.1596/978-1-4648-1096-1.",
+  "adaptation_notice": "This is an adaptation of an original work by The World Bank. Views and opinions expressed in the adaptation are the sole responsibility of its authors and are not endorsed by The World Bank.",
+  "translation_notice": "Vietnamese questions and answers are not official World Bank translations; the World Bank is not liable for translation errors.",
+  "embedding_model": "intfloat/multilingual-e5-small",
+  "embedding_revision": "614241f622f53c4eeff9890bdc4f31cfecc418b3",
+  "dimensions": 384,
+  "index_status": "persistent local index ready",
+  "index_path": "starter/data/advanced/index.sqlite3",
+  "max_embedding_tokens": 295
+}

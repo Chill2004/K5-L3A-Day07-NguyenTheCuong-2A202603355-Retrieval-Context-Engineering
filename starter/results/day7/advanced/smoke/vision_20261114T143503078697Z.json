@@ -1,0 +1,261 @@
+{
+  "status": "abstain",
+  "question": "Theo Hình O.7 trong báo cáo, bốn yếu tố trực tiếp khiến việc học không diễn ra hiệu quả là gì?",
+  "model": "gemini-3.5-flash-lite",
+  "events": [
+    {
+      "event": "search",
+      "query": "Figure O.7",
+      "results": [
+        {
+          "id": "wdr2018-p030-c05600",
+          "source_id": "wdr_2018_education",
+          "page": 30,
+          "text": "                                     for                                                                                                practical                                                                              work                                                                                                      or                                                                                                              problem-solving.38                    a     o                                    ar       n      in                  o                       t       a                                     le        es                  o    g        g                                  n’                   h                                                                Meanwhile,                                                                                      in         ",
+          "metadata": {
+            "start_char": 5600,
+            "end_char": 6500,
+            "unit_id": "wdr2018-p030",
+            "bbox": [
+              0.0,
+              0.0,
+              576.0,
+              756.0
+            ],
+            "region_type": "page_text_with_original_visual",
+            "page_image_id": "wdr2018-p030"
+          },
+          "source": "https://documents1.worldbank.org/curated/en/240351507784846426/pdf/120299-WDR-v1-PUBLIC-main.pdf",
+          "score": 0.023431077007399288,
+          "page_id": "wdr2018-p030",
+          "lookup_method": "caption_id"
+        },
+        {
+          "id": "wdr2018-p046-c00000",
+          "source_id": "wdr_2018_education",
+          "page": 46,
+          "text": "Figure O.15 Coherence and alignment toward learning\n\n\n                                                 Ci                                                 Ci                                                                  vil                                                                 vil                                      s                                 S                                   o                                         oc                                          oc                                               rg                                                    ie                                                     ie                                          an                                         liticians                                                ty                                                      iz                    Po                               ",
+          "metadata": {
+            "start_char": 0,
+            "end_char": 900,
+            "unit_id": "wdr2018-p046",
+            "bbox": [
+              0.0,
+              0.0,
+              576.0,
+              756.0
+            ],
+            "region_type": "page_text_with_original_visual",
+            "page_image_id": "wdr2018-p046"
+          },
+          "source": "https://documents1.worldbank.org/curated/en/240351507784846426/pdf/120299-WDR-v1-PUBLIC-main.pdf",
+          "score": 0.02946236559139785,
+          "page_id": "wdr2018-p046",
+          "lookup_method": "hybrid_rrf"
+        },
+        {
+          "id": "wdr2018-p041-c00000",
+          "source_id": "wdr_2018_education",
+          "page": 41,
+          "text": "Figure O.14 It’s more complicated than it looks: People act in reaction to the\nchoices of others throughout the system\n                               Civil society                             ticians            Poli                    orga                                               ni                                          za                                                      ti\n                                         ons\n\n          or                                   Pe         ct                                                   er        se                                                    s/             h              ers         Lear             c     e                        n            a                                                   co           e        at                        er           T                            m                         s           riv    ",
+          "metadata": {
+            "start_char": 0,
+            "end_char": 900,
+            "unit_id": "wdr2018-p041",
+            "bbox": [
+              0.0,
+              0.0,
+              576.0,
+              756.0
+            ],
+            "region_type": "page_text_with_original_visual",
+            "page_image_id": "wdr2018-p041"
+          },
+          "source": "https://documents1.worldbank.org/curated/en/240351507784846426/pdf/120299-WDR-v1-PUBLIC-main.pdf",
+          "score": 0.025516795865633074,
+          "page_id": "wdr2018-p041",
+          "lookup_method": "hybrid_rrf"
+        }
+      ],
+      "context_pages": [
+        {
+          "page": 30,
+          "page_id": "wdr2018-p030",
+          "text": "Figure O.7 Why learning doesn’t happen:                      Second, teachers often lack the skills or motiva-\nFour immediate factors that break down                      tion to be effective. Teachers are the most important\n                                                                              factor affecting learning in schools. In the United\n                                                                                  States, students with great teachers advance 1.5 grade\n                                                                                 levels or more over a single school year, compared\n            ed                                          with just 0.5 grade levels for those with an ineffective               at\n           ot               iv          Un                        teacher.34 In developing countries, teacher quality     m                               pr      n                     e     u                    p                                                                can                                                                       matter                                                                          even more                                                                                      than                                                                                                      in wealthier                                                                                                                               countries.35     d       ers              lear                                  ar      h                   n                     e      c      an                   e                                                               most                                                                             education                                                                                   systems                                                                                    do                                                                                                not attract                                                                                                                   applicants                    d             But     a                      r   d                     s   e     te      ll                                                        with strong backgrounds. For example, 15-year-old\n     ki\n    ns                                                             students who aspire to be teachers score below the\n  U                                                                national average on PISA in nearly all countries.36\n                                                             Beyond that, weak teacher education results in teach-\n                                                                            ers lacking subject knowledge and pedagogical skills.\n             LEARNING                                                                     In 14 Sub-Saharan countries, the average grade 6\n                                                                        teacher performs no better on reading tests than do\n    S    c                                                         the highest-performing students from that grade.37 In\n    h                     s                                                                         Indonesia,                                                                      60                                                                                   percent                                                                                                of                                                                                              the                                                                                           time                                                                                                           in                                                                                                    a typical                                                                                                       mathe-    o                     t     o      th                   u                     g      l                                    ct                                                                    matics                                                                                       class                                                                                                         is                                                                                  spent                                                                           on                                                                                                         lecturing,                                                                                                with                                                                                                                 limited                                                                                                            time                     n                   p  tea      at                    e                   n     m                                      ni                       i                   ﬀ    d     ch      a                        l                                                                 remaining                                                                                          for                                                                                                practical                                                                              work                                                                                                      or                                                                                                              problem-solving.38                    a     o                                    ar       n      in                  o                       t       a                                     le        es                  o    g        g                                  n’                   h                                                                Meanwhile,                                                                                      in                                                                many                                                                                        developing                                                                                                       countries                                                                                                                     substantial          n’         e                    d                    o        t                   d       an        a                              an     d        ment      Sc       ﬀ                               at                                                            amounts                                                                                    of                                                                                    learning                                                                                    time                                                                                                   are                                                                                                                     lost                                                                                                 because                                                                                                          classroom         e                    g           le                              th               ct                                   in           ar                                                                  time is spent on other activities or because teachers              ning             teach\n                                                                         are absent. Only a third of total instructional time\n                                                          was used in Ethiopia, Ghana, and Guatemala.39 Across\n                                                                  seven African countries, one in five teachers was\nSource: WDR 2018 team.                                                      absent from school on the day of an unannounced\n                                                                                       visit by survey teams, with another  fifth absent\n                                                             from the classroom even though they were at school\n                with poverty undermine early childhood learning.30    (figure O.9).40 The problems are even more severe in\n                 Severe deprivations—whether  in terms  of  nutri-   remote communities, amplifying the disadvantages\n                     tion, unhealthy environments, or lack of nurture by    already facing rural students. Such diagnostics are\n                 caregivers—have long-lasting effects because they   not intended to blame teachers. Rather, they  call\n                 impair infants’ brain development.31 Thirty percent    attention to how systems undermine learning by\n                  of children under 5 in developing countries are    failing to support them.\n                   physically stunted, meaning they have low height       Third, inputs often fail to reach classrooms or to\n                   for their age, typically due to chronic malnutrition.32    affect learning when they do. Public discourse often\n               The poor developmental foundations and lower levels   equates problems of education quality with input\n                  of preschool skills resulting from deprivation mean    gaps. Devoting enough resources to education is cru-\n             many children arrive at school unprepared to benefit     cial, and in some countries resources have not kept\n                    fully from it (figure O.8).33 So even in a good school,   pace with the rapid jumps in enrollment. For several\n                 deprived children learn  less. Moreover, breaking    reasons, however, input shortages explain only a small\n                 out of lower learning trajectories becomes harder as    part of the learning crisis. First, looking across systems\n                  these children age because the brain becomes less   and schools, similar levels of resources are often asso-\n                   malleable. Thus education systems tend to amplify    ciated with vast differences in learning outcomes.41\n                      initial differences. Moreover, many disadvantaged   Second, increasing inputs in a given setting often has\n                youth are not in school. Fees and opportunity costs   small effects on learning outcomes.42 Part of the rea-\n                  are still major financial barriers to schooling, and   son is that inputs often fail to make it to the front lines.\n                    social dimensions of exclusion—for example, those   A decade ago in Sierra Leone, for example, textbooks\n                  associated with gender or disability—exacerbate the   were distributed to schools, but follow-up inspec-\n                 problem. These inequalities in school participation    tions found most of them locked away in cupboards,\n                  further widen gaps in learning outcomes.               unused.43 Similarly, many technological interventions\n\n\n\n\n                  10    |  World Development Report 2018",
+          "bbox": [
+            0.0,
+            0.0,
+            576.0,
+            756.0
+          ],
+          "mime_type": "image/png",
+          "image_path": "starter\\results\\day7\\advanced\\page_images\\wdr2018-p030.png"
+        },
+        {
+          "page": 46,
+          "page_id": "wdr2018-p046",
+          "text": "Figure O.15 Coherence and alignment toward learning\n\n\n                                                 Ci                                                 Ci                                                                  vil                                                                 vil                                      s                                 S                                   o                                         oc                                          oc                                               rg                                                    ie                                                     ie                                          an                                         liticians                                                ty                                                      iz                    Po                                                at                          Oty                                                  io                                              rg                                             ns                                                       s.\n\n                                               Pe\n                                                     er              or              h               ers         Lear                                                      s/             c              ct                         n             a                                                    co             se            e                         er           T                          s                             m        e\n             at                      m\n              iv                                           un\n             Pr                                                                       iti\n                                                                 es\n\n                        LEARNING\n\n\n          S\n             Bu   ch                   y                          s           o              re                                                          ar           ol                         ut                                                           ci             au                        p          m                                                        di              cr                                           in             a               at              n                                                   Ju                         ol         s                         o               age              ment      Sch\n\n                     In                      te                       rn                                                   rs                         at                                               to                                            ac                                          her                            ionalactors       Ot\n\n\n\nSource: WDR 2018 team.\n\n\n\n•  Build on what works, and scale back what doesn’t,    teaching-learning relationship, or because the system\n  to deliver short-term results that strengthen the    doesn’t prioritize learning for disadvantaged children\n  long-term resolve of the coalition for learning.       and youth. More financing for business as usual will\n•  Repeat.                                              therefore just lead to the usual outcomes. But where\n                                                      countries seriously tackle the barriers to learning for\n   The payoff to doing what needs to be done is a     all, spending on education is a critical investment for\nsystem in which the elements are coherent with each   development, especially for those countries where\nother and everything aligns with learning (figure O.15).    overall spending is currently low, as recent major\n   Increased financing can support this learning-    studies of global education have emphasized.126 More\nfor-all equilibrium, if the various key actors behave    children staying in school longer and learning while\nin ways that show learning matters to them. This is    there will undoubtedly require more public financing\na big “if” because higher levels of public spending are    for education. An injection of financing—either from\nnot associated statistically with higher completion or   domestic or international sources—can help coun-\neven enrollment rates in countries with weak gover-    tries escape the low-learning trap, if they are willing\nnance.125 Ensuring that students learn is even more    to take the other necessary steps laid out here.\nchallenging, and so there is little correlation between\nspending and learning after accounting for national   Implications for external actors\nincome. It is easy to see the reason for this because    External actors can reinforce these strategies for\nof the many ways in which financing can leak out—   opening the political and technical space for learn-\nwhether because money never reaches the school,    ing. In the realm of information and metrics, for\nor because it pays for inputs that don’t affect the   example, international actors can fund participation\n\n\n\n\n26    |  World Development Report 2018",
+          "bbox": [
+            0.0,
+            0.0,
+            576.0,
+            756.0
+          ],
+          "mime_type": "image/png",
+          "image_path": "starter\\results\\day7\\advanced\\page_images\\wdr2018-p046.png"
+        },
+        {
+          "page": 41,
+          "page_id": "wdr2018-p041",
+          "text": "Figure O.14 It’s more complicated than it looks: People act in reaction to the\nchoices of others throughout the system\n                               Civil society                             ticians            Poli                    orga                                               ni                                          za                                                      ti\n                                         ons\n\n          or                                   Pe         ct                                                   er        se                                                    s/             h              ers         Lear             c     e                        n            a                                                   co           e        at                        er           T                            m                         s           riv    P                                            mu\n                                                                                      nit\n                                                               ie\n                                 s\n                   LEARNING\n\n\n          S\n          c\n       Bu     ho              ts\n        re     ol            pu        au     m             in           ry             a             l            ia         cr       n                        o            ic              a          o         at              ge      s                                               ud                              J              ment      Sch\n\n\n            Int                 er                 na                 s                          tio                    or                     nal             act                         actors      Other\n\nSource: WDR 2018 team.\n\nresponding to other decisions. In India and Zambia,   There are three key entry points to addressing learner\ngovernment grants to schools led parents to reduce    preparation:\ntheir own investments in their children’s schooling.76\nAll things considered, a more complete character-      •  Set children on high-development trajectories through\nization of the learning framework might be closer       early childhood nutrition, stimulation, and care. Three\nto the one illustrated in figure O.14: learning how     approaches stand out from successful experiences.\nto improve outcomes by intervening at the student,       First, target mothers and their babies with health\nclassroom, and school ­levels involves illuminating the     and nutrition interventions during the first 1,000\nvarious arrows.                                      days to reduce malnutrition and foster physiolog-\n   Putting all this together sheds light on three sets       ical development. Second, increase the frequency\nof promising entry points: prepared learners, effec-     and quality of stimulation and opportunities for\ntive teaching, and school-level interventions that      learning at home (starting from birth) to improve\nactually affect the teaching and learning process.     language and motor development, as well as to\nEach of these priority areas is founded on evidence      cultivate early cognitive and socioemotional skills.\nfrom multiple contexts showing that it can make a      Third, promote day-care centers for very young\nreal difference for learning.                              children and  preschool programs  for  children\n                                                3–6 years old—along with caregiver programs that\nPrepare children and youth for learning         enhance the nurturing and protection of children—\nGetting learners to school ready and motivated to      to improve cognitive and socioemotional skills in\nlearn is a first step to better learning. Without it, other     the short run, as well as education and labor market\npolicies and programs will have a minimal effect.     outcomes later in life.77 Program quality matters\n\n\n                                                                                   Overview     |   21",
+          "bbox": [
+            0.0,
+            0.0,
+            576.0,
+            756.0
+          ],
+          "mime_type": "image/png",
+          "image_path": "starter\\results\\day7\\advanced\\page_images\\wdr2018-p041.png"
+        }
+      ]
+    },
+    {
+      "event": "invalid_or_missing_citations"
+    }
+  ],
+  "model_calls": [
+    {
+      "allowed_functions": [
+        "search",
+        "read_pages",
+        "finish",
+        "abstain"
+      ],
+      "model": "gemini-3.5-flash-lite",
+      "request_state": {
+        "question": "Theo Hình O.7 trong báo cáo, bốn yếu tố trực tiếp khiến việc học không diễn ra hiệu quả là gì?",
+        "source_calls_used": 0,
+        "source_call_limit": 2,
+        "page_count": 240,
+        "pages": []
+      },
+      "image_ids": [],
+      "status": "ok",
+      "usage": {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 17,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 531,
+        "prompt_tokens_details": [
+          {
+            "modality": "TEXT",
+            "token_count": 531
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 548,
+        "traffic_type": null
+      },
+      "function": {
+        "name": "search",
+        "args": {
+          "query": "Figure O.7"
+        }
+      },
+      "elapsed_seconds": 1.8871668000001591
+    },
+    {
+      "allowed_functions": [
+        "search",
+        "read_pages",
+        "finish",
+        "abstain"
+      ],
+      "model": "gemini-3.5-flash-lite",
+      "request_state": {
+        "question": "Theo Hình O.7 trong báo cáo, bốn yếu tố trực tiếp khiến việc học không diễn ra hiệu quả là gì?",
+        "source_calls_used": 1,
+        "source_call_limit": 2,
+        "page_count": 240,
+        "pages": [
+          {
+            "id": "wdr2018-p030",
+            "page": 30,
+            "bbox": [
+              0.0,
+              0.0,
+              576.0,
+              756.0
+            ],
+            "text": "Figure O.7 Why learning doesn’t happen:                      Second, teachers often lack the skills or motiva-\nFour immediate factors that break down                      tion to be effective. Teachers are the most important\n                                                                              factor affecting learning in schools. In the United\n                                                                                  States, students with great teachers advance 1.5 grade\n                                                                                 levels or more over a single school year, compared\n            ed                                          with just 0.5 grade levels for those with an ineffective               at\n           ot               iv          Un                        teacher.34 In developing countries, teacher quality     m                               pr      n                     e     u                    p                                                                can                                                                       matter                                                                          even more                                                                                      than                                                                                                      in wealthier                                                                                                                               countries.35     d       ers              lear                                  ar      h                   n                     e      c      an                   e                                                               most                                                                             education                                                                                   systems                                                                                    do                                                                                                not attract                                                                                                                   applicants                    d             But     a                      r   d                     s   e     te      ll                                                        with strong backgrounds. For example, 15-year-old\n     ki\n    ns                                                             students who aspire to be teachers score below the\n  U                                                                national average on PISA in nearly all countries.36\n                                                             Beyond that, weak teacher education results in teach-\n                                                                            ers lacking subject knowledge and pedagogical skills.\n             LEARNING                                                                     In 14 Sub-Saharan countries, the average grade 6\n                                                                        teacher performs no better on reading tests than do\n    S    c                                                         the highest-performing students from that grade.37 In\n    h                     s                                                                         Indonesia,                                                                      60                                                                                   percent                                                                                                of                                                                                              the                                                                                           time                                                                                                           in                                                                                                    a typical                                                                                                       mathe-    o                     t     o      th                   u                     g      l                                    ct                                                                    matics                                                                                       class                                                                                                         is                                                                                  spent                                                                           on                                                                                                         lecturing,                                                                                         "
+          },
+          {
+            "id": "wdr2018-p046",
+            "page": 46,
+            "bbox": [
+              0.0,
+              0.0,
+              576.0,
+              756.0
+            ],
+            "text": "Figure O.15 Coherence and alignment toward learning\n\n\n                                                 Ci                                                 Ci                                                                  vil                                                                 vil                                      s                                 S                                   o                                         oc                                          oc                                               rg                                                    ie                                                     ie                                          an                                         liticians                                                ty                                                      iz                    Po                                                at                          Oty                                                  io                                              rg                                             ns                                                       s.\n\n                                               Pe\n                                                     er              or              h               ers         Lear                                                      s/             c              ct                         n             a                                                    co             se            e                         er           T                          s                             m        e\n             at                      m\n              iv                                           un\n             Pr                                                                       iti\n                                                                 es\n\n                        LEARNING\n\n\n          S\n             Bu   ch                   y                          s           o              re                                                          ar           ol                         ut                                                           ci             au                        p          m                                                        di              cr                                           in             a               at              n                                                   Ju                         ol         s                         o               age              ment      Sch\n\n                     In                      te                       rn                                                   rs                         at                                               to                                            ac                                          her                            ionalactors       Ot\n\n\n\nSource: WDR 2018 team.\n\n\n\n•  Build on what works, and scale back what doesn’t,    teaching-learning relationship, or because the system\n  to deliver short-term results that strengthen the    doesn’t prioritize learning for disadvantaged children\n  long-term resolve of the coalition for learning.       and youth. More financing for business as usual will\n•  Repeat.                                              therefore just lead to the usual outcomes. But where\n                                                      countries seriously tackle the barriers to learning for\n   The payoff to doing what needs to be done is a     all, spending on education is a critical investment for\nsystem in which the elements are coherent with each   development, especially for those countries where\nother and everything aligns with learning (figure O.15).    overall spending is currently low, as recent major\n   Increased financing can support this learning-    studies of global education have emphasized.126 More\nfor-all equilibrium, if the various key actors behave    children staying in school longer and learning while\nin ways that show learning matters to them. This is    there will undoubtedly require more public financing\na big “if” because higher levels of public spending are    for education. An injection of financing—either from\nnot associated statistically with higher completion or   domestic or international sources—can help coun-\neven enrollment rates in countries with weak gover-    tries escape the low-learning trap, if they are willing\nnance.125 Ensuring that students learn is even more    to take the other necessary steps laid out here.\nchallenging, and so there is little correlation between\nspending and learning after accounting for national   Implications for external actors\nincome. It is easy to see the reason for this because    External actors can reinforce these strategies for\nof the many ways in which financing can leak out—   opening the political and technical space for learn-\nwhether because money never reaches the school,    ing. In the rea"
+          },
+          {
+            "id": "wdr2018-p041",
+            "page": 41,
+            "bbox": [
+              0.0,
+              0.0,
+              576.0,
+              756.0
+            ],
+            "text": "Figure O.14 It’s more complicated than it looks: People act in reaction to the\nchoices of others throughout the system\n                               Civil society                             ticians            Poli                    orga                                               ni                                          za                                                      ti\n                                         ons\n\n          or                                   Pe         ct                                                   er        se                                                    s/             h              ers         Lear             c     e                        n            a                                                   co           e        at                        er           T                            m                         s           riv    P                                            mu\n                                                                                      nit\n                                                               ie\n                                 s\n                   LEARNING\n\n\n          S\n          c\n       Bu     ho              ts\n        re     ol            pu        au     m             in           ry             a             l            ia         cr       n                        o            ic              a          o         at              ge      s                                               ud                              J              ment      Sch\n\n\n            Int                 er                 na                 s                          tio                    or                     nal             act                         actors      Other\n\nSource: WDR 2018 team.\n\nresponding to other decisions. In India and Zambia,   There are three key entry points to addressing learner\ngovernment grants to schools led parents to reduce    preparation:\ntheir own investments in their children’s schooling.76\nAll things considered, a more complete character-      •  Set children on high-development trajectories through\nization of the learning framework might be closer       early childhood nutrition, stimulation, and care. Three\nto the one illustrated in figure O.14: learning how     approaches stand out from successful experiences.\nto improve outcomes by intervening at the student,       First, target mothers and their babies with health\nclassroom, and school ­levels involves illuminating the     and nutrition interventions during the first 1,000\nvarious arrows.                                      days to reduce malnutrition and foster physiolog-\n   Putting all this together sheds light on three sets       ical development. Second, increase the frequency\nof promising entry points: prepared learners, effec-     and quality of stimulation and opportunities for\ntive teaching, and school-level interventions that      learning at home (starting from birth) to improve\nactually affect the teaching and learning process.     language and motor development, as well as to\nEach of these priority areas is founded on evidence      cultivate early cognitive and socioemotional skills.\nfrom multiple contexts showing that it can make a      Third, promote day-care centers for very young\nreal difference for learning.                              children and  preschool programs  for  children\n                                                3–6 years old—along with caregiver programs that\nPrepare children and youth for learning         enhance the nurturing and protection of children—\nGetting learners to school ready and motivated to      to improve cognitive and socioemotional skills in\nlearn is a first step to better learning. Without it, other     the short run, as well as education and labor market\npolicies and programs will have a minimal effect.     outcomes later in life.77 Program quality matters\n\n\n                                                                                   Overview     |   21"
+          }
+        ]
+      },
+      "image_ids": [
+        "wdr2018-p030",
+        "wdr2018-p046",
+        "wdr2018-p041"
+      ],
+      "status": "ok",
+      "usage": {
+        "cache_tokens_details": null,
+        "cached_content_token_count": null,
+        "candidates_token_count": 144,
+        "candidates_tokens_details": null,
+        "prompt_token_count": 5908,
+        "prompt_tokens_details": [
+          {
+            "modality": "IMAGE",
+            "token_count": 3306
+          },
+          {
+            "modality": "TEXT",
+            "token_count": 2602
+          }
+        ],
+        "thoughts_token_count": null,
+        "tool_use_prompt_token_count": null,
+        "tool_use_prompt_tokens_details": null,
+        "total_token_count": 6052,
+        "traffic_type": null
+      },
+      "function": {
+        "name": "finish",
+        "args": {
+          "answer": "Theo Hình O.7 trong báo cáo, bốn yếu tố trực tiếp khiến việc học không diễn ra hiệu quả là:\n1. Học sinh chưa được chuẩn bị sẵn sàng (Unprepared learners)\n2. Giáo viên kém chuyên môn và thiếu động lực (Unskilled and unmotivated teachers)\n3. Quản lý nhà trường không tác động đến việc giảng dạy và học tập (School management that doesn’t affect teaching and learning)\n4. Đầu vào trường học không tác động đến việc học (School inputs that don’t affect teaching and learning)",
+          "citations": [
+            "wdr2018-p030"
+          ]
+        }
+      },
+      "elapsed_seconds": 3.4150279000004957
+    }
+  ],
+  "answer": "Không đủ bằng chứng để trả lời.",
+  "citations": []
+}

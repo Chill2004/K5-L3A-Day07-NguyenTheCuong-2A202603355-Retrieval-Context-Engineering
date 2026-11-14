@@ -1,0 +1,22 @@
+{
+  "stage": "advanced_local_preparation",
+  "physical_pages": 240,
+  "substantive_native_text_pages": 225,
+  "indexed_pages": 240,
+  "chunks": 1538,
+  "embedding_dimensions": 384,
+  "native_text_coverage_check": "passed",
+  "persistent_store": "SQLite, separate from Day06 PostgreSQL",
+  "smoke_query": "Figure O.7 four immediate factors why learning does not happen",
+  "retrieved_pdf_pages": [
+    30,
+    98,
+    111
+  ],
+  "original_page_png_check": "passed",
+  "basic_unit_tests_passed": 17,
+  "gemini_requests_for_advanced_so_far": 0,
+  "advanced_benchmark_status": "not yet built or frozen",
+  "bonus_achieved": false,
+  "record_scope": "Historical preparation snapshot; current status: artifacts/advanced/test_status.json"
+}

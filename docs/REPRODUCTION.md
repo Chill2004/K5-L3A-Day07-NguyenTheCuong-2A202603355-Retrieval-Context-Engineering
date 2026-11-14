@@ -95,3 +95,11 @@ nằm trong trace. Không có hóa đơn trong repo để xác nhận chi phí t
 17 unittest local đã pass trong lần hoàn thiện ngày 14/11/2026. Corpus,
 snapshot và hai bộ câu hỏi khớp hash gốc; protocol không khớp. Xem
 artifacts/verification_report.json; không ghi đè freeze gốc.
+
+## Advanced — kết quả đã lưu
+
+Code: src/advanced; runner: src/run_advanced_test.py và src/continue_advanced_test.py.
+Xem docs/ADVANCED_PLAN.md và artifacts/advanced/test_status.json.
+Dev chọn đạt 17/18. Test thử đủ 30 câu, có ít nhất bốn thất bại gồm một timeout;
+không đạt bonus. Không chạy lại test để thay kết quả. Index có thể tái tạo
+bằng `python -m src.advanced.prepare --embed`; giữ benchmark và trace gốc.

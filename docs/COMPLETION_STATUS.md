@@ -20,15 +20,17 @@
 Không sửa README. Không tự commit, push hoặc gửi dữ liệu cho người khác.
 Các lỗi citation/giới hạn tìm kiếm được phân tích, không ghi đè test gốc.
 
-- [x] Đã chạy lại 17 unittest local: tất cả pass.
+- [x] Đã chạy 21 unittest local: tất cả pass theo output ngày 14/11/2026.
 - [ ] Giải trình benchmark_protocol.md khác hash gốc; giữ nguyên freeze gốc.
 
 ## Advanced
 
-- [x] Đã chọn và tải báo cáo World Bank 240 trang có bảng, sơ đồ, biểu đồ.
-- [x] Index riêng toàn bộ 240 trang; 1538 chunks, 384 chiều.
-- [x] Truy vấn local và render ảnh trang gốc hoạt động; 17 test cơ bản pass.
-- [ ] Kiểm tra vision agent với Gemini.
-- [ ] Tạo và đóng băng dev 18 câu, test 30 câu đủ nhóm.
-- [ ] Thử nghiệm dev, chốt cấu hình và chạy toàn bộ test.
-- [ ] Đối chiếu từng câu test với bản gốc, báo tỷ lệ và kiểm tra ngưỡng 27/30.
+- [x] Nguồn World Bank 240 trang, 225 trang native text có nội dung; 1538 chunks, 384 chiều.
+- [x] Vision agent Gemini đã chạy với ảnh trang gốc.
+- [x] Đóng băng 18 dev và 30 test, gold theo trang/vùng.
+- [x] Dev được chọn đạt 17/18; chốt cấu hình trước test.
+- [x] Đã thử đủ 30 câu test qua hai trace, giữ timeout câu 11 là thất bại.
+- [ ] Hoàn tất audit chi tiết 30 câu và tỷ lệ chính xác theo nhóm.
+- [ ] Đạt ngưỡng 27/30: không đạt; ít nhất bốn câu thất bại, tối đa 26/30.
+
+Xem artifacts/advanced/test_status.json. Không tuyên bố bonus.

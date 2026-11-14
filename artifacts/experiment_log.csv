@@ -7,5 +7,6 @@ neighbors_dev,dev,hybrid_rrf,3,,2500,context_packing,Adjacent chunks improve evi
 agent_baseline_dev,dev,hybrid_rrf,3,2,2500,baseline,Two searches allow evidence refinement,13/15 answerable questions answered and 2/2 unanswerable questions abstained,Comparison baseline
 agent_top5_dev,dev,hybrid_rrf,5,2,2500,top_k,More candidates improve evidence availability,14/15 answerable questions answered but q03 incomplete and q12 citation rejected,Selected before test
 agent_single_dev,dev,hybrid_rrf,3,1,2500,max_searches,One search reduces requests while retaining quality,13/15 answerable questions answered with 34 model requests,Not selected
-agent_baseline_test,test,hybrid_rrf,3,2,2500,frozen_baseline,Measure held-out performance,AI-proposed answer mean 2.0 and false abstention 0/5,Preserve original result
-agent_top5_test,test,hybrid_rrf,5,2,2500,frozen_selected,Measure selected configuration on held-out test,AI-proposed answer mean 1.6 and false abstention 1/5,Preserve original result
+agent_baseline_test,test,hybrid_rrf,3,2,2500,frozen_baseline,Measure held-out performance,Reviewed answer mean 2.0 and false abstention 0/5,Preserve original result
+agent_top5_test,test,hybrid_rrf,5,2,2500,frozen_selected,Measure selected configuration on held-out test,Reviewed answer mean 1.6 and false abstention 1/5,Preserve original resultadvanced_selected_dev,dev,dense_bm25_rrf,3,2,,prompt_revision,Improve evidence reading,17/18 with chart legend error,Selected before test
+advanced_frozen_test,test,dense_bm25_rrf,3,2,,frozen_selected,Evaluate held-out multimodal questions,30 attempted; at least 4 failures including timeout; full audit pending,Bonus not achieved; preserve attempts

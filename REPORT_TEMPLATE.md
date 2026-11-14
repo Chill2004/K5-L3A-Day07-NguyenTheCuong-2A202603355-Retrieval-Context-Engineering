@@ -263,15 +263,48 @@ Chi tiết: artifacts/verification_report.json. Sai khác này không chứng mi
 câu hỏi hoặc corpus đã thay đổi; bốn file dữ liệu kể trên vẫn khớp.
 
 Các bảng chỉ số không chứa nội dung nguồn được sao chép sang artifacts/
-để người chấm có thể đọc khi starter/results/ bị ignore. Full trace và
-benchmark vẫn cần kênh truy cập được phép theo docs/DATA_ACCESS.md.
+để người chấm có thể đọc khi starter/results/ bị ignore. Corpus, benchmark và trace cơ bản được chọn để nộp cùng repo;
+quyền mở repo và việc nộp link cần xác nhận sau khi push.
 
 ## Thử thách nâng cao (nếu thực hiện)
 
-Đang triển khai Advanced riêng với World Development Report 2018
-(240 trang PDF). Phần cơ bản vẫn dùng handbook 39 trang. Xem
-docs/ADVANCED_PLAN.md và artifacts/advanced/source_manifest.json.
-Chưa có kết quả test Advanced; chưa tuyên bố đạt 15 điểm bonus.
+Đã triển khai trên World Development Report 2018, nguồn World Bank, giấy phép
+CC BY 3.0 IGO với lưu ý thành phần bên thứ ba. Tài liệu có 240 trang PDF,
+225 trang đạt tiêu chí native text có nội dung; index SQLite gồm 1538 chunks,
+embedding E5 384 chiều chạy local. Không thay corpus hoặc PostgreSQL Day06.
+Retrieval kết hợp dense và BM25 bằng RRF; agent Gemini đọc ảnh trang gốc.
+BBox cấp trang cần được kết hợp với số hiệu hình/bảng khi kiểm chứng.
+
+Benchmark đóng băng: dev 18 câu (15 có đáp án, 3 không có đáp án), test 30
+câu (24 có đáp án, 6 không có đáp án). Test gồm 6 bảng, 5 sơ đồ, 5 biểu đồ,
+4 multi-hop, 4 văn bản và 6 câu không có đáp án. Agent không nhận gold,
+đáp án chuẩn hay crop evidence.
+
+Cấu hình chọn trên dev: gemini-3.5-flash-lite, tối đa 2 lần gọi nguồn,
+top-k=3, tối đa 6 ảnh mỗi request. Dev được chọn đạt 17/18; câu 08 nhầm
+chú giải biểu đồ. Hướng dẫn đọc thứ tự sơ đồ và kiểm tra trang in được sửa
+bằng dev trước khi chốt cấu hình. Mã nguồn, index và benchmark đã ghi hash.
+
+Test đã thử đủ 30 câu. Lượt gốc dừng ở câu 11 do ReadTimeout; continuation
+chỉ thực hiện câu 12–30. Giữ lỗi câu 11, không thay bằng lần thử lại.
+
+| Câu chưa đạt đã xác định | Nguyên nhân |
+|---|---|
+| adv_test_11 | ReadTimeout, tính thất bại trong mẫu số 30 |
+| adv_test_12 | Chênh lệch biểu đồ trả lời 31 điểm phần trăm, vượt sai số cho phép |
+| adv_test_20 | Từ chối nhầm câu có bằng chứng về Tanzania |
+| adv_test_23 | Không tìm được Box 11.2, từ chối nhầm câu có đáp án |
+
+Chưa hoàn tất audit từng câu nên chưa công bố điểm chính xác hoặc tỷ lệ
+cuối theo nhóm. Có ít nhất bốn câu chưa đạt, vì vậy tối đa 26/30, thấp hơn
+ngưỡng 27/30. Không tuyên bố đạt bonus 15 điểm. Không chỉnh pipeline theo
+test rồi ghi đè kết quả. Số liệu bài cơ bản được giữ nguyên.
+
+Minh chứng: artifacts/advanced/source_manifest.json, benchmark_freeze.json,
+selection_dev.json, test_status.json; trace trong starter/results/day7/advanced/test.
+Chi phí API thực thu chưa đối chiếu billing, không mặc định bằng 0.
+
+Hai lượt test: 68 request đã thử; trạng thái: {'answered': 24, 'error': 1, 'abstain': 5}.
 
 ### Cập nhật quyền chia sẻ
 

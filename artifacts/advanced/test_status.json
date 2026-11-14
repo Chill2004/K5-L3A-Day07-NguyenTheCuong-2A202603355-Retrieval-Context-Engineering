@@ -1,0 +1,37 @@
+{
+  "scope": "Advanced first attempts across original run and continuation; no failed question replaced",
+  "total": 30,
+  "status_counts": {
+    "answered": 24,
+    "error": 1,
+    "abstain": 5
+  },
+  "model_requests_attempted": 68,
+  "reported_token_usage_sum": {
+    "prompt_token_count": 305953,
+    "candidates_token_count": 4539,
+    "total_token_count": 310492
+  },
+  "usage_limitation": "A timed-out request may lack usage; these sums do not establish billed cost.",
+  "review_status": "Preliminary comparison; full per-question audit not finalized",
+  "identified_failures": {
+    "adv_test_11": "ReadTimeout; retained as failure",
+    "adv_test_12": "Chart difference 31 percentage points exceeds frozen tolerance for approximately 26-27",
+    "adv_test_20": "False abstention: Tanzania evidence exists",
+    "adv_test_23": "False abstention: CAMPE evidence exists"
+  },
+  "confirmed_failure_lower_bound": 4,
+  "pass_count_upper_bound": 26,
+  "required_pass_count": 27,
+  "bonus_achieved": false,
+  "source_run_sha256": {
+    "starter/results/day7/advanced/test/test_run.json": "8a087d35d075771d841f81daa701fc7bf71adbab501eedc3b0df98a76a9a1989",
+    "starter/results/day7/advanced/test/continuation_20261114T164534530179Z.json": "5b09096303da2d54ba6796e2f81d927201d03461a50022c98e0515fc509d3266"
+  },
+  "dev_selected_run": "starter/results/day7/advanced/dev/dev_20261114T162245977246Z.json",
+  "dev_review_pass_count": 17,
+  "dev_total": 18,
+  "dev_failed_ids": [
+    "adv_dev_08"
+  ]
+}

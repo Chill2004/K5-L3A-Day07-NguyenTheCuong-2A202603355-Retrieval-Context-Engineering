@@ -1,0 +1,451 @@
+[
+  {
+    "id": "adv_dev_01",
+    "split": "dev",
+    "group": "table",
+    "answerable": true,
+    "question": "Theo Bảng 5.1, học bổng dành cho nữ sinh được áp dụng ở quốc gia nào và tác động đến việc nhập học ra sao?",
+    "expected_answer": "Ở Campuchia; học bổng dành cho nữ sinh làm tăng mạnh tỷ lệ nhập học.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 133,
+        "kind": "table",
+        "locator": "Table 5.1; hàng Lower school costs; cột Approaches.",
+        "bbox_normalized": [
+          0.07,
+          0.08,
+          0.94,
+          0.7
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_01_1.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_02",
+    "split": "dev",
+    "group": "table",
+    "answerable": true,
+    "question": "Theo Bảng 6.1, tại Hoa Kỳ, chương trình gắn với một kỹ thuật sư phạm cụ thể hiệu quả gấp bao nhiêu lần đào tạo sư phạm chung?",
+    "expected_answer": "Hiệu quả gấp hai lần.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 152,
+        "kind": "table",
+        "locator": "Table 6.1; hàng đầu; cột Approaches; ví dụ United States.",
+        "bbox_normalized": [
+          0.07,
+          0.03,
+          0.94,
+          0.62
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_02_1.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_03",
+    "split": "dev",
+    "group": "table",
+    "answerable": true,
+    "question": "Theo Bảng 7.1, sách và tài liệu mới giúp tăng kết quả học tập ở Liberia khi được kết hợp với biện pháp nào?",
+    "expected_answer": "Khi kết hợp với đào tạo giáo viên.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 166,
+        "kind": "table",
+        "locator": "Table 7.1; hàng Additional inputs; cột Approaches.",
+        "bbox_normalized": [
+          0.07,
+          0.02,
+          0.94,
+          0.43
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_03_1.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_04",
+    "split": "dev",
+    "group": "image",
+    "answerable": true,
+    "question": "Theo Hình O.7, bốn yếu tố trực tiếp khiến việc học không diễn ra hiệu quả là gì?",
+    "expected_answer": "Người học chưa sẵn sàng; giáo viên thiếu kỹ năng và động lực; đầu vào trường học không hỗ trợ dạy và học; quản lý nhà trường không hỗ trợ dạy và học.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 30,
+        "kind": "diagram",
+        "locator": "Figure O.7; bốn phần bao quanh LEARNING.",
+        "bbox_normalized": [
+          0.05,
+          0.06,
+          0.55,
+          0.54
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_04_1.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_05",
+    "split": "dev",
+    "group": "image",
+    "answerable": true,
+    "question": "Trong Hình S3.1, vùng B nằm ở giao của những nhóm kỹ năng nào và chú giải B nêu hai loại kỹ năng gì?",
+    "expected_answer": "Giao của kỹ năng nhận thức, cảm xúc-xã hội và kỹ thuật. Chú giải B nêu giải quyết vấn đề và kỹ năng tổ chức.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 123,
+        "kind": "diagram",
+        "locator": "Figure S3.1; vùng B ở giao ba hình tròn và chú giải B.",
+        "bbox_normalized": [
+          0.07,
+          0.07,
+          0.83,
+          0.74
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_05_1.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_06",
+    "split": "dev",
+    "group": "image",
+    "answerable": true,
+    "question": "Theo Hình 11.2, nêu năm bước theo số thứ tự 1–5 và cho biết quá trình cải cách là tuyến tính hay có lặp lại?",
+    "expected_answer": "Xác định và chẩn đoán vấn đề; thiết kế phương án; triển khai; đánh giá; thích ứng. Quá trình có lặp lại, chẩn đoán lại và thiết kế lại phương án.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 227,
+        "kind": "diagram",
+        "locator": "Figure 11.2; các nút 1–5 và mũi tên Repeat.",
+        "bbox_normalized": [
+          0.07,
+          0.54,
+          0.94,
+          0.95
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_06_1.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_07",
+    "split": "dev",
+    "group": "chart",
+    "answerable": true,
+    "question": "Ở nhóm World trong Hình 1.1, mức tăng lương gắn với một năm đi học thêm của nữ hay nam cao hơn, và chênh khoảng bao nhiêu điểm phần trăm?",
+    "expected_answer": "Nữ cao hơn nam khoảng 2 điểm phần trăm, xấp xỉ 11% so với 9%. Chấp nhận số đọc gần đúng từ biểu đồ.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 59,
+        "kind": "chart",
+        "locator": "Figure 1.1; cặp cột World; trục Percent và chú giải Female/Male.",
+        "bbox_normalized": [
+          0.07,
+          0.58,
+          0.94,
+          0.99
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_07_1.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_08",
+    "split": "dev",
+    "group": "chart",
+    "answerable": true,
+    "question": "Trong Hình 5.4, quốc gia nào có tỷ lệ nhập học gộp cao nhất khoảng một năm sau mốc xóa học phí, và giá trị xấp xỉ bao nhiêu?",
+    "expected_answer": "Malawi, khoảng 150%–155%. Đây là tỷ lệ nhập học gộp, có thể vượt 100%.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 138,
+        "kind": "chart",
+        "locator": "Figure 5.4; đường Malawi tại khoảng x=1; trục Gross enrollment (%).",
+        "bbox_normalized": [
+          0.07,
+          0.34,
+          0.56,
+          0.95
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_08_1.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_09",
+    "split": "dev",
+    "group": "chart",
+    "answerable": true,
+    "question": "Theo Hình 6.1, ở lớp 5, nhóm phân vị thứ 10 có đạt chuẩn lớp 1 không? So sánh giá trị gần đúng của nhóm này với đường chuẩn lớp 1.",
+    "expected_answer": "Không. Nhóm phân vị thứ 10 chỉ khoảng 8%–10%, thấp hơn chuẩn lớp 1 là 50%.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 154,
+        "kind": "chart",
+        "locator": "Figure 6.1; đường 10th percentile tại Grade 5 và đường Grade 1 standard.",
+        "bbox_normalized": [
+          0.03,
+          0.02,
+          0.62,
+          0.45
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_09_1.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_10",
+    "split": "dev",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Kết hợp Bảng 5.1 và Bảng 6.1: Jamaica đã hỗ trợ trẻ chậm phát triển bằng cách nào, còn Ấn Độ và Kenya đã xử lý khác biệt trình độ học sinh bằng cách nào?",
+    "expected_answer": "Jamaica hướng dẫn người chăm sóc kích thích tâm lý-xã hội cho trẻ. Ấn Độ và Kenya tổ chức lại lớp theo năng lực học sinh.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 133,
+        "kind": "table",
+        "locator": "Table 5.1; hàng đầu; ví dụ Jamaica.",
+        "bbox_normalized": [
+          0.07,
+          0.08,
+          0.94,
+          0.7
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_10_1.png"
+      },
+      {
+        "source_id": "wdr_2018_education",
+        "page": 152,
+        "kind": "table",
+        "locator": "Table 6.1; hàng Pitch teaching to the level of the student; ví dụ India and Kenya.",
+        "bbox_normalized": [
+          0.07,
+          0.03,
+          0.94,
+          0.62
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_10_2.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_11",
+    "split": "dev",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Kết hợp Hình S3.1 và Bảng 7.1: kỹ năng số thuộc nhóm kỹ năng nào, và việc đầu tư công nghệ giáo dục có thể thất bại khi thiếu những điều kiện triển khai nào?",
+    "expected_answer": "Kỹ năng số thuộc nhóm kỹ năng kỹ thuật. Đầu tư có thể thất bại khi thiếu năng lực bảo trì hoặc hạ tầng cần thiết để công nghệ hoạt động hiệu quả.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 123,
+        "kind": "diagram",
+        "locator": "Figure S3.1; vòng Technical skills, mục Digital.",
+        "bbox_normalized": [
+          0.07,
+          0.07,
+          0.83,
+          0.74
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_11_1.png"
+      },
+      {
+        "source_id": "wdr_2018_education",
+        "page": 166,
+        "kind": "table",
+        "locator": "Table 7.1; hàng Technologies must be implementable; cột Where this fails.",
+        "bbox_normalized": [
+          0.07,
+          0.02,
+          0.94,
+          0.43
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_11_2.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_12",
+    "split": "dev",
+    "group": "multi_hop",
+    "answerable": true,
+    "question": "Kết hợp Bảng 7.1 và Hình 11.2: đầu vào bổ sung nên có quan hệ thế nào với giáo viên, và sau bước triển khai cần thực hiện hai bước nào để điều chỉnh phương án?",
+    "expected_answer": "Đầu vào nên bổ trợ, không thay thế giáo viên. Sau triển khai là đánh giá rồi thích ứng phương án.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 166,
+        "kind": "table",
+        "locator": "Table 7.1; nguyên tắc Additional inputs.",
+        "bbox_normalized": [
+          0.07,
+          0.02,
+          0.94,
+          0.43
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_12_1.png"
+      },
+      {
+        "source_id": "wdr_2018_education",
+        "page": 227,
+        "kind": "diagram",
+        "locator": "Figure 11.2; chuỗi 3 Implement → 4 Evaluate → 5 Adapt.",
+        "bbox_normalized": [
+          0.07,
+          0.54,
+          0.94,
+          0.95
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_12_2.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_13",
+    "split": "dev",
+    "group": "text",
+    "answerable": true,
+    "question": "Trong phần văn bản về phát triển chuyên môn giáo viên ở trang in 132, ba đặc điểm của đào tạo hiệu quả là gì?",
+    "expected_answer": "Tính thực hành, tính cụ thể và tính liên tục (practicality, specificity, continuity).",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 152,
+        "kind": "text",
+        "locator": "Văn bản dưới Table 6.1, đoạn Is there hope for in-service training.",
+        "bbox_normalized": [
+          0.07,
+          0.6,
+          0.94,
+          0.98
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_13_1.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_14",
+    "split": "dev",
+    "group": "text",
+    "answerable": true,
+    "question": "Theo đoạn văn về Burkina Faso ở trang in 118, hỗ trợ tiền mặt có điều kiện nhập học đem lại lợi ích lớn hơn hỗ trợ không điều kiện cho những nhóm trẻ nào?",
+    "expected_answer": "Trẻ em gái và trẻ có mức học tập ban đầu thấp hơn.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 138,
+        "kind": "text",
+        "locator": "Cột phải, đoạn bắt đầu In Burkina Faso, beginning in 2008.",
+        "bbox_normalized": [
+          0.55,
+          0.34,
+          0.94,
+          0.96
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_14_1.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_15",
+    "split": "dev",
+    "group": "text",
+    "answerable": true,
+    "question": "Theo mục Encouraging innovation and agility, cách tiếp cận linh hoạt có chỉ là thử các can thiệp trong dự án thí điểm không? Báo cáo yêu cầu thử nghiệm trong điều kiện nào?",
+    "expected_answer": "Không chỉ là thử trong dự án thí điểm. Cần thử ở quy mô lớn trong bối cảnh chính trị, kinh tế thực tế và sử dụng năng lực hiện có của cơ quan triển khai.",
+    "evidence_mode": "all",
+    "gold": [
+      {
+        "source_id": "wdr_2018_education",
+        "page": 227,
+        "kind": "text",
+        "locator": "Cột phải, đoạn Learning reforms need a more agile approach.",
+        "bbox_normalized": [
+          0.44,
+          0.02,
+          0.98,
+          0.56
+        ],
+        "image": "starter\\data\\advanced\\benchmark\\dev_evidence\\adv_dev_15_1.png"
+      }
+    ]
+  },
+  {
+    "id": "adv_dev_16",
+    "split": "dev",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Theo báo cáo này, điểm PISA 2025 thực tế của học sinh Việt Nam ở từng môn là bao nhiêu?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo xuất bản năm 2018 không cung cấp kết quả quan sát PISA 2025 của Việt Nam.",
+    "absence_checks": {
+      "scope": "Toàn bộ báo cáo và các hình/bảng PISA.",
+      "searched_terms": [
+        "PISA 2025",
+        "Viet Nam",
+        "Vietnam"
+      ]
+    }
+  },
+  {
+    "id": "adv_dev_17",
+    "split": "dev",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Chương trình đào tạo gắn với kỹ thuật sư phạm cụ thể tại Hoa Kỳ trong Bảng 6.1 có chi phí chính xác bao nhiêu USD cho mỗi giáo viên?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Bảng 6.1 nêu hiệu quả tương đối nhưng không cung cấp chi phí USD/giáo viên của chương trình được nói tới.",
+    "absence_checks": {
+      "scope": "Bảng 6.1, văn bản chương 6 và tìm kiếm toàn báo cáo.",
+      "searched_terms": [
+        "cost per teacher",
+        "dollars per teacher",
+        "specific pedagogical technique"
+      ]
+    }
+  },
+  {
+    "id": "adv_dev_18",
+    "split": "dev",
+    "group": "unanswerable",
+    "answerable": false,
+    "question": "Khóa bồi dưỡng tiếp theo trong năm 2026 của chương trình giáo viên cộng đồng ở Ấn Độ trong Bảng 6.1 diễn ra ngày nào, giờ nào và tại địa điểm nào?",
+    "expected_behavior": "search_and_abstain",
+    "absence_reason": "Báo cáo mô tả kết quả can thiệp trước đây, không có lịch khóa bồi dưỡng năm 2026 với ngày, giờ và địa điểm.",
+    "absence_checks": {
+      "scope": "Bảng 6.1 và tìm kiếm lịch đào tạo trong toàn báo cáo.",
+      "searched_terms": [
+        "2026",
+        "training schedule"
+      ]
+    }
+  }
+]
